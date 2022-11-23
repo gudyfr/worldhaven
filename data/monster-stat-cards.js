@@ -1410,7 +1410,21 @@
     "name": "water spirit",
     "points": 201,
     "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-water-spirit-2.png",
+    "xws": "waterspirit"
+  },
+  {
+    "name": "water spirit",
+    "points": 202,
+    "expansion": "Crimson Scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-4.png",
+    "xws": "waterspirit"
+  },
+  {
+    "name": "water spirit",
+    "points": 203,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-water-spirit-6.png",
     "xws": "waterspirit"
   }
 ]
