@@ -256,6 +256,7 @@ async function loadFromStorage() {
 		"ta-monster-stat-cards": true,
 		"ta-personal-quests": true,
 		"ta-player-aid-cards": true,
+		"ta-random-scenarios": true,
 		"ta-tokens": true
 	}
 		
