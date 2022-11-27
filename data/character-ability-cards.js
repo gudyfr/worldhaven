@@ -14910,11 +14910,11 @@
     "cardno": "510"
   },
   {
-    "name": "hands of the three tribes",
+    "name": "hands of three tribes",
     "points": 1491,
     "expansion": "Trail of Ashes",
-    "image": "character-ability-cards/trail-of-ashes/IN/toa-hands-of-the-three-tribes.png",
-    "xws": "handsofthethreetribes",
+    "image": "character-ability-cards/trail-of-ashes/IN/toa-hands-of-three-tribes.png",
+    "xws": "handsofthreetribes",
     "level": "1",
     "initiative": "70",
     "cardno": "498"
@@ -15320,7 +15320,7 @@
     "cardno": "525"
   },
   {
-    "name": "snap freee",
+    "name": "snap freeze",
     "points": 1532,
     "expansion": "Trail of Ashes",
     "image": "character-ability-cards/trail-of-ashes/RH/toa-snap-freeze.png",
