@@ -14860,11 +14860,11 @@
     "cardno": "508"
   },
   {
-    "name": "farseer's pilnum",
+    "name": "farseer's pilum",
     "points": 1486,
     "expansion": "Trail of Ashes",
-    "image": "character-ability-cards/trail-of-ashes/IN/toa-farseers-pilnum.png",
-    "xws": "farseerspilnum",
+    "image": "character-ability-cards/trail-of-ashes/IN/toa-farseers-pilum.png",
+    "xws": "farseerspilum",
     "level": "1",
     "initiative": "48",
     "cardno": "489"
@@ -14903,7 +14903,7 @@
     "name": "haf's reverence",
     "points": 1490,
     "expansion": "Trail of Ashes",
-    "image": "character-ability-cards/trail-of-ashes/IN/toa-hafs-reverernce.png",
+    "image": "character-ability-cards/trail-of-ashes/IN/toa-hafs-reverence.png",
     "xws": "hafsreverence",
     "level": "6",
     "initiative": "34",
