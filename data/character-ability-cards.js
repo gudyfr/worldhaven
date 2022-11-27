@@ -15440,7 +15440,7 @@
     "cardno": "563"
   },
   {
-    "name": "cyrstal growth",
+    "name": "crystal growth",
     "points": 1544,
     "expansion": "Trail of Ashes",
     "image": "character-ability-cards/trail-of-ashes/SR/toa-crystal-growth.png",
@@ -15773,7 +15773,7 @@
     "name": "channeled energy",
     "points": 1577,
     "expansion": "Trail of Ashes",
-    "image": "character-ability-cards/trail-of-ashes/TP/toa-channel-energy.png",
+    "image": "character-ability-cards/trail-of-ashes/TP/toa-channeled-energy.png",
     "xws": "channeledenergy",
     "level": "1",
     "initiative": "08",
@@ -15793,8 +15793,8 @@
     "name": "electromagnetic pulse",
     "points": 1579,
     "expansion": "Trail of Ashes",
-    "image": "character-ability-cards/trail-of-ashes/TP/toa-electromanetic-pulse.png",
-    "xws": "eletromagneticpulse",
+    "image": "character-ability-cards/trail-of-ashes/TP/toa-electromagnetic-pulse.png",
+    "xws": "electromagneticpulse",
     "level": "1",
     "initiative": "22",
     "cardno": "583"
