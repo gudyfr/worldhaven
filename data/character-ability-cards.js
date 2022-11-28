@@ -16390,11 +16390,11 @@
     "cardno": "721"
   },
   {
-    "name": "comdenation",
+    "name": "condemnation",
     "points": 1639,
     "expansion": "Trail of Ashes",
-    "image": "character-ability-cards/trail-of-ashes/VQ/toa-comdenation.png",
-    "xws": "comdenation",
+    "image": "character-ability-cards/trail-of-ashes/VQ/toa-condemnation.png",
+    "xws": "condemnation",
     "level": "V",
     "initiative": "25",
     "cardno": "741"

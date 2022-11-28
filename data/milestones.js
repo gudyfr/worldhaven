@@ -199,40 +199,82 @@
     "name": "incarnate milestone",
     "points": 28,
     "expansion": "Trail of Ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-incarnate-front.png",
+    "xws": "incarnatemilestone"
+  },
+  {
+    "name": "incarnate milestone",
+    "points": 29,
+    "expansion": "Trail of Ashes",
     "image": "milestones/trail-of-ashes/toa-ms-incarnate-back.png",
     "xws": "incarnatemilestone"
   },
   {
     "name": "rimehearth milestone",
-    "points": 29,
+    "points": 30,
+    "expansion": "Trail of Ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-rimehearth-front.png",
+    "xws": "rimehearthmilestone"
+  },
+  {
+    "name": "rimehearth milestone",
+    "points": 31,
     "expansion": "Trail of Ashes",
     "image": "milestones/trail-of-ashes/toa-ms-rimehearth-back.png",
     "xws": "rimehearthmilestone"
   },
   {
     "name": "shardrender milestone",
-    "points": 30,
+    "points": 32,
+    "expansion": "Trail of Ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-shardrender-front.png",
+    "xws": "shardrendermilestone"
+  },
+  {
+    "name": "shardrender milestone",
+    "points": 33,
     "expansion": "Trail of Ashes",
     "image": "milestones/trail-of-ashes/toa-ms-shardrender-back.png",
     "xws": "shardrendermilestone"
   },
   {
     "name": "tempest milestone",
-    "points": 31,
+    "points": 34,
+    "expansion": "Trail of Ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-tempest-front.png",
+    "xws": "tempestmilestone"
+  },
+  {
+    "name": "tempest milestone",
+    "points": 35,
     "expansion": "Trail of Ashes",
     "image": "milestones/trail-of-ashes/toa-ms-tempest-back.png",
     "xws": "tempestmilestone"
   },
   {
     "name": "thornreaper milestone",
-    "points": 32,
+    "points": 36,
+    "expansion": "Trail of Ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-thornreaper-front.png",
+    "xws": "thornreapermilestone"
+  },
+  {
+    "name": "thornreaper milestone",
+    "points": 37,
     "expansion": "Trail of Ashes",
     "image": "milestones/trail-of-ashes/toa-ms-thornreaper-back.png",
     "xws": "thornreapermilestone"
   },
   {
     "name": "vanquisher milestone",
-    "points": 33,
+    "points": 38,
+    "expansion": "Trail of Ashes",
+    "image": "milestones/trail-of-ashes/toa-ms-vanquisher-front.png",
+    "xws": "vanquishermilestone"
+  },
+  {
+    "name": "vanquisher milestone",
+    "points": 39,
     "expansion": "Trail of Ashes",
     "image": "milestones/trail-of-ashes/toa-ms-vanquisher-back.png",
     "xws": "vanquishermilestone"

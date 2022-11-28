@@ -826,17 +826,17 @@
     "xws": "thornreaper"
   },
   {
-    "name": "vanqusiher",
+    "name": "vanquisher",
     "points": 118,
     "expansion": "Trail of Ashes",
-    "image": "character-mats/trail-of-ashes/toa-vanqusiher.png",
-    "xws": "vanqusiher"
+    "image": "character-mats/trail-of-ashes/toa-vanquisher.png",
+    "xws": "vanquisher"
   },
   {
-    "name": "vanqusiher",
+    "name": "vanquisher",
     "points": 119,
     "expansion": "Trail of Ashes",
-    "image": "character-mats/trail-of-ashes/toa-vanqusiher-back.png",
-    "xws": "vanqusiher"
+    "image": "character-mats/trail-of-ashes/toa-vanquisher-back.png",
+    "xws": "vanquisher"
   }
 ]
