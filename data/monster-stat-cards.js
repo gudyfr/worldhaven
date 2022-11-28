@@ -1540,31 +1540,31 @@
     "xws": "talo"
   },
   {
-    "name": "valrath-vanquisher",
+    "name": "valrath vanquisher",
     "points": 220,
     "expansion": "Trail of Ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-0.png",
-    "xws": "valrath-vanquisher"
+    "xws": "valrathvanquisher"
   },
   {
-    "name": "valrath-vanquisher",
+    "name": "valrath vanquisher",
     "points": 221,
     "expansion": "Trail of Ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-2.png",
-    "xws": "valrath-vanquisher"
+    "xws": "valrathvanquisher"
   },
   {
-    "name": "valrath-vanquisher",
+    "name": "valrath vanquisher",
     "points": 222,
     "expansion": "Trail of Ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-4.png",
-    "xws": "valrath-vanquisher"
+    "xws": "valrathvanquisher"
   },
   {
-    "name": "valrath-vanquisher",
+    "name": "valrath vanquisher",
     "points": 223,
     "expansion": "Trail of Ashes",
     "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-6.png",
-    "xws": "valrath-vanquisher"
+    "xws": "valrathvanquisher"
   }
 ]

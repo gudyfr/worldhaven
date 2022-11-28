@@ -133,7 +133,7 @@
     "xws": "windswepthighlands"
   },
   {
-    "name": "toa random scenario back",
+    "name": "random scenario back",
     "points": 19,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-random-scenario-back.png",
