@@ -5922,7 +5922,7 @@
     "xws": "fhpedw02"
   },
   {
-    "name": "fh-am-dw-03",
+    "name": "fh-pe-dw-03",
     "points": 846,
     "expansion": "Frosthaven",
     "image": "attack-modifiers/frosthaven/DW/fh-pe-dw-03.png",
