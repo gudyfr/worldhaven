@@ -7160,7 +7160,7 @@
     "cardno": "143"
   },
   {
-    "name": "2 shambling skeletons",
+    "name": "two shambling skeletons",
     "points": 716,
     "expansion": "Frosthaven",
     "image": "character-ability-cards/frosthaven/BO/fh-rotting-multitude.png",
