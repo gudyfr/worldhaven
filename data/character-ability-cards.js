@@ -6537,7 +6537,7 @@
     "xws": "barricade",
     "level": "6",
     "initiative": "16",
-    "cardno": "083"
+    "cardno": "082"
   },
   {
     "name": "banner of valor",
@@ -6547,7 +6547,7 @@
     "xws": "barricade",
     "level": "6",
     "initiative": "16",
-    "cardno": "083"
+    "cardno": "082"
   },
   {
     "name": "boldening blow",
@@ -6567,7 +6567,7 @@
     "xws": "blsteringshout",
     "level": "6",
     "initiative": "75",
-    "cardno": "082"
+    "cardno": "083"
   },
   {
     "name": "combined effort",
@@ -6617,7 +6617,7 @@
     "xws": "explosiveepicenter",
     "level": "5",
     "initiative": "78",
-    "cardno": "081"
+    "cardno": "080"
   },
   {
     "name": "hail of spears",
@@ -6647,7 +6647,7 @@
     "xws": "holdtheline",
     "level": "5",
     "initiative": "05",
-    "cardno": "080"
+    "cardno": "081"
   },
   {
     "name": "incendiary throw",
@@ -6687,7 +6687,7 @@
     "xws": "leadfromafar",
     "level": "7",
     "initiative": "80",
-    "cardno": "084"
+    "cardno": "085"
   },
   {
     "name": "longbowman",
@@ -6697,7 +6697,7 @@
     "xws": "leadfromafar",
     "level": "7",
     "initiative": "80",
-    "cardno": "084"
+    "cardno": "085"
   },
   {
     "name": "let them come",
@@ -6727,7 +6727,7 @@
     "xws": "meatgrinder",
     "level": "2",
     "initiative": "62",
-    "cardno": "075"
+    "cardno": "074"
   },
   {
     "name": "pincer movement",
@@ -6747,7 +6747,7 @@
     "xws": "pinningcharge",
     "level": "2",
     "initiative": "17",
-    "cardno": "074"
+    "cardno": "075"
   },
   {
     "name": "rallying cry",
@@ -6807,7 +6807,7 @@
     "xws": "sweepingaid",
     "level": "8",
     "initiative": "73",
-    "cardno": "087"
+    "cardno": "086"
   },
   {
     "name": "take no prisoners",
@@ -6837,7 +6837,7 @@
     "xws": "tauntinghowl",
     "level": "8",
     "initiative": "11",
-    "cardno": "086"
+    "cardno": "087"
   },
   {
     "name": "tip of the spear",
@@ -6857,7 +6857,7 @@
     "xws": "trithrust",
     "level": "7",
     "initiative": "27",
-    "cardno": "085"
+    "cardno": "084"
   },
   {
     "name": "unbreakable wall",
@@ -7347,7 +7347,7 @@
     "xws": "chunkofflesh",
     "level": "4",
     "initiative": "62",
-    "cardno": "021"
+    "cardno": "020"
   },
   {
     "name": "consume stamina",
@@ -7467,7 +7467,7 @@
     "xws": "giftoftheprey",
     "level": "4",
     "initiative": "40",
-    "cardno": "020"
+    "cardno": "021"
   },
   {
     "name": "inevitable conclusion",
