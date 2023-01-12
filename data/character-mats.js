@@ -574,267 +574,519 @@
     "xws": "amberaegis"
   },
   {
-    "name": "artificer",
+    "name": "beetle",
     "points": 82,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-amber-aegis.png",
+    "xws": "amberaegis"
+  },
+  {
+    "name": "beetle",
+    "points": 83,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-amber-aegis-back.png",
+    "xws": "amberaegis"
+  },
+  {
+    "name": "artificer",
+    "points": 84,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-artificer.png",
     "xws": "artificer"
   },
   {
     "name": "artificer",
-    "points": 83,
+    "points": 85,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-artificer-back.png",
+    "xws": "artificer"
+  },
+  {
+    "name": "tools",
+    "points": 86,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-artificer.png",
+    "xws": "artificer"
+  },
+  {
+    "name": "tools",
+    "points": 87,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-artificer-back.png",
     "xws": "artificer"
   },
   {
     "name": "bombard",
-    "points": 84,
+    "points": 88,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-bombard.png",
     "xws": "bombard"
   },
   {
     "name": "bombard",
-    "points": 85,
+    "points": 89,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-bombard-back.png",
+    "xws": "bombard"
+  },
+  {
+    "name": "target",
+    "points": 90,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-bombard.png",
+    "xws": "bombard"
+  },
+  {
+    "name": "target",
+    "points": 91,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-bombard-back.png",
     "xws": "bombard"
   },
   {
     "name": "brightspark",
-    "points": 86,
+    "points": 92,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-brightspark.png",
     "xws": "brightspark"
   },
   {
     "name": "brightspark",
-    "points": 87,
+    "points": 93,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-brightspark-back.png",
     "xws": "brightspark"
   },
   {
-    "name": "chainguard",
-    "points": 88,
+    "name": "flask",
+    "points": 94,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-brightspark.png",
+    "xws": "brightspark"
+  },
+  {
+    "name": "flask",
+    "points": 95,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-brightspark-back.png",
+    "xws": "brightspark"
+  },
+  {
+    "name": "chained helmet",
+    "points": 96,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-chainguard.png",
     "xws": "chainguard"
   },
   {
-    "name": "chainguard",
-    "points": 89,
+    "name": "chained helmet",
+    "points": 97,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-chainguard-back.png",
     "xws": "chainguard"
   },
   {
     "name": "chieftain",
-    "points": 90,
+    "points": 98,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-chieftain.png",
     "xws": "chieftain"
   },
   {
     "name": "chieftain",
-    "points": 91,
+    "points": 99,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-chieftain-back.png",
+    "xws": "chieftain"
+  },
+  {
+    "name": "tusks",
+    "points": 100,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-chieftain.png",
+    "xws": "chieftain"
+  },
+  {
+    "name": "tusks",
+    "points": 101,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-chieftain-back.png",
     "xws": "chieftain"
   },
   {
     "name": "fire knight",
-    "points": 92,
+    "points": 102,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-fire-knight.png",
     "xws": "fireknight"
   },
   {
     "name": "fire knight",
-    "points": 93,
+    "points": 103,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-fire-knight-back.png",
+    "xws": "fireknight"
+  },
+  {
+    "name": "ladder axe",
+    "points": 104,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-fire-knight.png",
+    "xws": "fireknight"
+  },
+  {
+    "name": "ladder axe",
+    "points": 105,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-fire-knight-back.png",
     "xws": "fireknight"
   },
   {
     "name": "hierophant",
-    "points": 94,
+    "points": 106,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-hierophant.png",
     "xws": "hierophant"
   },
   {
     "name": "hierophant",
-    "points": 95,
+    "points": 107,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-hierophant-back.png",
+    "xws": "hierophant"
+  },
+  {
+    "name": "leaf",
+    "points": 108,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-hierophant.png",
+    "xws": "hierophant"
+  },
+  {
+    "name": "leaf",
+    "points": 109,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-hierophant-back.png",
     "xws": "hierophant"
   },
   {
     "name": "hollowpact",
-    "points": 96,
+    "points": 110,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-hollowpact.png",
     "xws": "hollowpact"
   },
   {
     "name": "hollowpact",
-    "points": 97,
+    "points": 111,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-hollowpact-back.png",
+    "xws": "hollowpact"
+  },
+  {
+    "name": "vortex",
+    "points": 112,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-hollowpact.png",
+    "xws": "hollowpact"
+  },
+  {
+    "name": "vortex",
+    "points": 113,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-hollowpact-back.png",
     "xws": "hollowpact"
   },
   {
     "name": "luminary",
-    "points": 98,
+    "points": 114,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-luminary.png",
     "xws": "luminary"
   },
   {
     "name": "luminary",
-    "points": 99,
+    "points": 115,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-luminary-back.png",
+    "xws": "luminary"
+  },
+  {
+    "name": "crescent sun",
+    "points": 116,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-luminary.png",
+    "xws": "luminary"
+  },
+  {
+    "name": "crescent sun",
+    "points": 117,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-luminary-back.png",
     "xws": "luminary"
   },
   {
     "name": "mirefoot",
-    "points": 100,
+    "points": 118,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-mirefoot.png",
     "xws": "mirefoot"
   },
   {
     "name": "mirefoot",
-    "points": 101,
+    "points": 119,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-mirefoot-back.png",
+    "xws": "mirefoot"
+  },
+  {
+    "name": "sprig",
+    "points": 120,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-mirefoot.png",
+    "xws": "mirefoot"
+  },
+  {
+    "name": "sprig",
+    "points": 121,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-mirefoot-back.png",
     "xws": "mirefoot"
   },
   {
     "name": "ruinmaw",
-    "points": 102,
+    "points": 122,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-ruinmaw.png",
     "xws": "ruinmaw"
   },
   {
     "name": "ruinmaw",
-    "points": 103,
+    "points": 123,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-ruinmaw-back.png",
+    "xws": "ruinmaw"
+  },
+  {
+    "name": "bleeding claw",
+    "points": 124,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-ruinmaw.png",
+    "xws": "ruinmaw"
+  },
+  {
+    "name": "bleeding claw",
+    "points": 125,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-ruinmaw-back.png",
     "xws": "ruinmaw"
   },
   {
     "name": "spirit caller",
-    "points": 104,
+    "points": 126,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-spirit-caller.png",
     "xws": "spiritcaller"
   },
   {
     "name": "spirit caller",
-    "points": 105,
+    "points": 127,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-spirit-caller-back.png",
+    "xws": "spiritcaller"
+  },
+  {
+    "name": "skull",
+    "points": 128,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-spirit-caller.png",
+    "xws": "spiritcaller"
+  },
+  {
+    "name": "skull",
+    "points": 129,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-spirit-caller-back.png",
     "xws": "spiritcaller"
   },
   {
     "name": "starslinger",
-    "points": 106,
+    "points": 130,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-starslinger.png",
     "xws": "starslinger"
   },
   {
     "name": "starslinger",
-    "points": 107,
+    "points": 131,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-starslinger-back.png",
+    "xws": "starslinger"
+  },
+  {
+    "name": "galaxy",
+    "points": 132,
+    "expansion": "Crimson Scales",
+    "image": "character-mats/crimson-scales/cs-starslinger.png",
+    "xws": "starslinger"
+  },
+  {
+    "name": "galaxy",
+    "points": 133,
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-starslinger-back.png",
     "xws": "starslinger"
   },
   {
     "name": "incarnate",
-    "points": 108,
+    "points": 134,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate.png",
     "xws": "incarnate"
   },
   {
     "name": "incarnate",
-    "points": 109,
+    "points": 135,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-incarnate-back.png",
+    "xws": "incarnate"
+  },
+  {
+    "name": "three-eyes",
+    "points": 136,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-incarnate.png",
+    "xws": "incarnate"
+  },
+  {
+    "name": "three-eyes",
+    "points": 137,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-incarnate-back.png",
     "xws": "incarnate"
   },
   {
     "name": "rimehearth",
-    "points": 110,
+    "points": 138,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth.png",
     "xws": "rimehearth"
   },
   {
     "name": "rimehearth",
-    "points": 111,
+    "points": 139,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-rimehearth-back.png",
+    "xws": "rimehearth"
+  },
+  {
+    "name": "ice meteor",
+    "points": 140,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-rimehearth.png",
+    "xws": "rimehearth"
+  },
+  {
+    "name": "ice meteor",
+    "points": 141,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-rimehearth-back.png",
     "xws": "rimehearth"
   },
   {
     "name": "shardrender",
-    "points": 112,
+    "points": 142,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender.png",
     "xws": "shardrender"
   },
   {
     "name": "shardrender",
-    "points": 113,
+    "points": 143,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-shardrender-back.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "gemstone",
+    "points": 144,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-shardrender.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "gemstone",
+    "points": 145,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-shardrender-back.png",
     "xws": "shardrender"
   },
   {
     "name": "tempest",
-    "points": 114,
+    "points": 146,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest.png",
     "xws": "tempest"
   },
   {
     "name": "tempest",
-    "points": 115,
+    "points": 147,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-tempest-back.png",
+    "xws": "tempest"
+  },
+  {
+    "name": "storm cloud",
+    "points": 148,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-tempest.png",
+    "xws": "tempest"
+  },
+  {
+    "name": "storm cloud",
+    "points": 149,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-tempest-back.png",
     "xws": "tempest"
   },
   {
     "name": "thornreaper",
-    "points": 116,
+    "points": 150,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper.png",
     "xws": "thornreaper"
   },
   {
     "name": "thornreaper",
-    "points": 117,
+    "points": 151,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-thornreaper-back.png",
+    "xws": "thornreaper"
+  },
+  {
+    "name": "spiked ring",
+    "points": 152,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-thornreaper.png",
+    "xws": "thornreaper"
+  },
+  {
+    "name": "spiked ring",
+    "points": 153,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-thornreaper-back.png",
     "xws": "thornreaper"
   },
   {
     "name": "vanquisher",
-    "points": 118,
+    "points": 154,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-vanquisher.png",
     "xws": "vanquisher"
   },
   {
     "name": "vanquisher",
-    "points": 119,
+    "points": 155,
     "expansion": "Trail of Ashes",
     "image": "character-mats/trail-of-ashes/toa-vanquisher-back.png",
     "xws": "vanquisher"
