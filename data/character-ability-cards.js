@@ -7840,11 +7840,11 @@
     "cardno": "104"
   },
   {
-    "name": "ritual sacrafice",
+    "name": "ritual sacrifice",
     "points": 784,
     "expansion": "Frosthaven",
-    "image": "character-ability-cards/frosthaven/DW/fh-ritual-sacrafice.png",
-    "xws": "ritualsacrafice",
+    "image": "character-ability-cards/frosthaven/DW/fh-ritual-sacrifice.png",
+    "xws": "ritualsacrifice",
     "level": "3",
     "initiative": "13",
     "cardno": "107"
