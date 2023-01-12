@@ -8057,7 +8057,7 @@
     "xws": "flailingtendrils",
     "level": "1",
     "initiative": "12",
-    "cardno": "158"
+    "cardno": "155"
   },
   {
     "name": "formless grace",
@@ -8086,7 +8086,7 @@
     "image": "character-ability-cards/frosthaven/GE/fh-harbinger-of-ruin.png",
     "xws": "harbingerofruin",
     "level": "9",
-    "initiative": "39",
+    "initiative": "11",
     "cardno": "183"
   },
   {
@@ -8207,7 +8207,7 @@
     "xws": "recklessjab",
     "level": "X",
     "initiative": "38",
-    "cardno": "155"
+    "cardno": "158"
   },
   {
     "name": "reshape the guise",
@@ -8286,7 +8286,7 @@
     "image": "character-ability-cards/frosthaven/GE/fh-voice-of-salvation.png",
     "xws": "voiceofsalvation",
     "level": "9",
-    "initiative": "11",
+    "initiative": "39",
     "cardno": "184"
   },
   {
