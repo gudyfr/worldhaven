@@ -8700,24 +8700,24 @@
     "cardno": "380"
   },
   {
-    "name": "ice uppercut",
+    "name": "ice blast",
     "points": 870,
+    "expansion": "Frosthaven",
+    "image": "character-ability-cards/frosthaven/FF/fh-ice-blast.png",
+    "xws": "iceblast",
+    "level": "1",
+    "initiative": "32",
+    "cardno": "367"
+  },
+  {
+    "name": "ice uppercut",
+    "points": 871,
     "expansion": "Frosthaven",
     "image": "character-ability-cards/frosthaven/FF/fh-ice-uppercut.png",
     "xws": "iceuppercut",
     "level": "5",
     "initiative": "15",
     "cardno": "378"
-  },
-  {
-    "name": "icy blast",
-    "points": 871,
-    "expansion": "Frosthaven",
-    "image": "character-ability-cards/frosthaven/FF/fh-icy-blast.png",
-    "xws": "icyblast",
-    "level": "1",
-    "initiative": "32",
-    "cardno": "367"
   },
   {
     "name": "lacerating eruption",
@@ -8810,7 +8810,7 @@
     "cardno": "383"
   },
   {
-    "name": "the mountains fist",
+    "name": "the mountain's fist",
     "points": 881,
     "expansion": "Frosthaven",
     "image": "character-ability-cards/frosthaven/FF/fh-the-mountains-fist.png",
@@ -10250,11 +10250,11 @@
     "cardno": "425"
   },
   {
-    "name": "unstbale core",
+    "name": "unstable core",
     "points": 1025,
     "expansion": "Frosthaven",
-    "image": "character-ability-cards/frosthaven/ME/fh-unstbale-core.png",
-    "xws": "unstbalecore",
+    "image": "character-ability-cards/frosthaven/ME/fh-unstable-core.png",
+    "xws": "unstablecore",
     "level": "9",
     "initiative": "10",
     "cardno": "444"
@@ -10900,7 +10900,7 @@
     "cardno": "344"
   },
   {
-    "name": "2 White Owls",
+    "name": "2 white owls",
     "points": 1090,
     "expansion": "Frosthaven",
     "image": "character-ability-cards/frosthaven/SD/fh-birds-in-a-tempest.png",
@@ -11013,8 +11013,8 @@
     "name": "frozen brand",
     "points": 1101,
     "expansion": "Frosthaven",
-    "image": "character-ability-cards/frosthaven/SD/fh-frozen-band.png",
-    "xws": "frozenband",
+    "image": "character-ability-cards/frosthaven/SD/fh-frozen-brand.png",
+    "xws": "frozenbrand",
     "level": "6",
     "initiative": "33",
     "cardno": "353"
@@ -11040,7 +11040,7 @@
     "cardno": "335"
   },
   {
-    "name": "natures breath",
+    "name": "nature's breath",
     "points": 1104,
     "expansion": "Frosthaven",
     "image": "character-ability-cards/frosthaven/SD/fh-natures-breath.png",
@@ -11150,7 +11150,7 @@
     "cardno": "357"
   },
   {
-    "name": "the spirits call",
+    "name": "the spirit's call",
     "points": 1115,
     "expansion": "Frosthaven",
     "image": "character-ability-cards/frosthaven/SD/fh-the-spirits-call.png",
@@ -11810,7 +11810,7 @@
     "cardno": "283"
   },
   {
-    "name": "stalkers spoils",
+    "name": "stalker's spoils",
     "points": 1181,
     "expansion": "Frosthaven",
     "image": "character-ability-cards/frosthaven/TA/fh-stalkers-spoils.png",
