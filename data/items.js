@@ -9310,14 +9310,14 @@
     "xws": "scavengersmagnet"
   },
   {
-    "name": " scavengers magnet",
+    "name": " scavenger's magnet",
     "points": 1330,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
     "xws": "scavengersmagnet"
   },
   {
-    "name": " scavengers magnet",
+    "name": " scavenger's magnet",
     "points": 1331,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet-back.png",
@@ -10713,43 +10713,43 @@
     "name": "item 81",
     "points": 1530,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/066-082/fh-081-pain-simulcrum.png",
-    "xws": "painsimulcrum"
+    "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
+    "xws": "painsimulacrum"
   },
   {
     "name": "item 081",
     "points": 1531,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/066-082/fh-081-pain-simulcrum.png",
-    "xws": "painsimulcrum"
+    "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
+    "xws": "painsimulacrum"
   },
   {
     "name": "item #81",
     "points": 1532,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/066-082/fh-081-pain-simulcrum.png",
-    "xws": "painsimulcrum"
+    "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
+    "xws": "painsimulacrum"
   },
   {
     "name": "item #081",
     "points": 1533,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/066-082/fh-081-pain-simulcrum.png",
-    "xws": "painsimulcrum"
+    "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
+    "xws": "painsimulacrum"
   },
   {
-    "name": "pain simulcrum",
+    "name": "pain simulacrum",
     "points": 1534,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/066-082/fh-081-pain-simulcrum.png",
-    "xws": "painsimulcrum"
+    "image": "items/frosthaven/066-082/fh-081-pain-simulacrum.png",
+    "xws": "painsimulacrum"
   },
   {
-    "name": "pain simulcrum",
+    "name": "pain simulacrum",
     "points": 1535,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/066-082/fh-081-pain-simulcrum-back.png",
-    "xws": "painsimulcrum"
+    "image": "items/frosthaven/066-082/fh-081-pain-simulacrum-back.png",
+    "xws": "painsimulacrum"
   },
   {
     "name": "item 82",
@@ -11651,29 +11651,29 @@
     "name": "item 105",
     "points": 1664,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/083-119/fh-105-major-firesheild-potion.png",
-    "xws": "majorfiresheildpotion"
+    "image": "items/frosthaven/083-119/fh-105-major-fireshield-potion.png",
+    "xws": "majorfireshieldpotion"
   },
   {
     "name": "item #105",
     "points": 1665,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/083-119/fh-105-major-firesheild-potion.png",
-    "xws": "majorfiresheildpotion"
+    "image": "items/frosthaven/083-119/fh-105-major-fireshield-potion.png",
+    "xws": "majorfireshieldpotion"
   },
   {
-    "name": "major firesheild potion",
+    "name": "major fireshield potion",
     "points": 1666,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/083-119/fh-105-major-firesheild-potion.png",
-    "xws": "majorfiresheildpotion"
+    "image": "items/frosthaven/083-119/fh-105-major-fireshield-potion.png",
+    "xws": "majorfireshieldpotion"
   },
   {
-    "name": "major firesheild potion",
+    "name": "major fireshield potion",
     "points": 1667,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/083-119/fh-105-major-firesheild-potion-back.png",
-    "xws": "majorfiresheildpotion"
+    "image": "items/frosthaven/083-119/fh-105-major-fireshield-potion-back.png",
+    "xws": "majorfireshieldpotion"
   },
   {
     "name": "item 106",
@@ -12015,29 +12015,29 @@
     "name": "item 118",
     "points": 1716,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/083-119/fh-118-fulminant-flash.png",
-    "xws": "fulminantflash"
+    "image": "items/frosthaven/083-119/fh-118-fulminant-flask.png",
+    "xws": "fulminantflask"
   },
   {
     "name": "item #118",
     "points": 1717,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/083-119/fh-118-fulminant-flash.png",
-    "xws": "fulminantflash"
+    "image": "items/frosthaven/083-119/fh-118-fulminant-flask.png",
+    "xws": "fulminantflask"
   },
   {
-    "name": "fulminant flash",
+    "name": "fulminant flask",
     "points": 1718,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/083-119/fh-118-fulminant-flash.png",
-    "xws": "fulminantflash"
+    "image": "items/frosthaven/083-119/fh-118-fulminant-flask.png",
+    "xws": "fulminantflask"
   },
   {
-    "name": "fulminant flash",
+    "name": "fulminant flask",
     "points": 1719,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/083-119/fh-118-fulminant-flash-back.png",
-    "xws": "fulminantflash"
+    "image": "items/frosthaven/083-119/fh-118-fulminant-flask-back.png",
+    "xws": "fulminantflask"
   },
   {
     "name": "item 119",
@@ -12295,29 +12295,29 @@
     "name": "item 128",
     "points": 1756,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/120-128/fh-128-heater-sheild.png",
-    "xws": "heatersheild"
+    "image": "items/frosthaven/120-128/fh-128-heater-shield.png",
+    "xws": "heatershield"
   },
   {
     "name": "item #128",
     "points": 1757,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/120-128/fh-128-heater-sheild.png",
-    "xws": "heatersheild"
+    "image": "items/frosthaven/120-128/fh-128-heater-shield.png",
+    "xws": "heatershield"
   },
   {
-    "name": "heater sheild",
+    "name": "heater shield",
     "points": 1758,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/120-128/fh-128-heater-sheild.png",
-    "xws": "heatersheild"
+    "image": "items/frosthaven/120-128/fh-128-heater-shield.png",
+    "xws": "heatershield"
   },
   {
-    "name": "heater sheild",
+    "name": "heater shield",
     "points": 1759,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/120-128/fh-128-heater-sheild-back.png",
-    "xws": "heatersheild"
+    "image": "items/frosthaven/120-128/fh-128-heater-shield-back.png",
+    "xws": "heatershield"
   },
   {
     "name": "item 129",
@@ -14087,29 +14087,29 @@
     "name": "item 192",
     "points": 2012,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/168-192/fh-192-enticiong-bell.png",
-    "xws": "enticiongbell"
+    "image": "items/frosthaven/168-192/fh-192-enticing-bell.png",
+    "xws": "enticingbell"
   },
   {
     "name": "item #192",
     "points": 2013,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/168-192/fh-192-enticiong-bell.png",
-    "xws": "enticiongbell"
+    "image": "items/frosthaven/168-192/fh-192-enticing-bell.png",
+    "xws": "enticingbell"
   },
   {
-    "name": "enticiong bell",
+    "name": "enticing bell",
     "points": 2014,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/168-192/fh-192-enticiong-bell.png",
-    "xws": "enticiongbell"
+    "image": "items/frosthaven/168-192/fh-192-enticing-bell.png",
+    "xws": "enticingbell"
   },
   {
-    "name": "enticiong bell",
+    "name": "enticing bell",
     "points": 2015,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/168-192/fh-192-enticiong-bell-back.png",
-    "xws": "enticiongbell"
+    "image": "items/frosthaven/168-192/fh-192-enticing-bell-back.png",
+    "xws": "enticingbell"
   },
   {
     "name": "item 193",
