@@ -8613,43 +8613,43 @@
     "name": "item 46",
     "points": 1230,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/046-050/fh-046-double-lens-googles.png",
-    "xws": "doublelensgoogles"
+    "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
+    "xws": "doublelensgoggles"
   },
   {
     "name": "item 046",
     "points": 1231,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/046-050/fh-046-double-lens-googles.png",
-    "xws": "doublelensgoogles"
+    "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
+    "xws": "doublelensgoggles"
   },
   {
     "name": "item #46",
     "points": 1232,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/046-050/fh-046-double-lens-googles.png",
-    "xws": "doublelensgoogles"
+    "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
+    "xws": "doublelensgoggles"
   },
   {
     "name": "item #046",
     "points": 1233,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/046-050/fh-046-double-lens-googles.png",
-    "xws": "doublelensgoogles"
+    "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
+    "xws": "doublelensgoggles"
   },
   {
-    "name": "double-lens googles",
+    "name": "double-lens goggles",
     "points": 1234,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/046-050/fh-046-double-lens-googles.png",
-    "xws": "doublelensgoogles"
+    "image": "items/frosthaven/046-050/fh-046-double-lens-goggles.png",
+    "xws": "doublelensgoggles"
   },
   {
-    "name": "double-lens googles",
+    "name": "double-lens goggles",
     "points": 1235,
     "expansion": "Frosthaven",
-    "image": "items/frosthaven/046-050/fh-046-double-lens-googles-back.png",
-    "xws": "doublelensgoogles"
+    "image": "items/frosthaven/046-050/fh-046-double-lens-goggles-back.png",
+    "xws": "doublelensgoggles"
   },
   {
     "name": "item 47",
