@@ -8848,14 +8848,14 @@
     "xws": "spikedcollar"
   },
   {
-    "name": " spiked collar",
+    "name": "spiked collar",
     "points": 1264,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-051a-spiked-collar.png",
     "xws": "spikedcollar"
   },
   {
-    "name": " spiked collar",
+    "name": "spiked collar",
     "points": 1265,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-051a-spiked-collar-back.png",
@@ -8890,14 +8890,14 @@
     "xws": "spikedcollar"
   },
   {
-    "name": " spiked collar",
+    "name": "spiked collar",
     "points": 1270,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-051b-spiked-collar.png",
     "xws": "spikedcollar"
   },
   {
-    "name": " spiked collar",
+    "name": "spiked collar",
     "points": 1271,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-051b-spiked-collar-back.png",
@@ -8932,14 +8932,14 @@
     "xws": "laserlens"
   },
   {
-    "name": " laser lens",
+    "name": "laser lens",
     "points": 1276,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-052a-laser-lens.png",
     "xws": "laserlens"
   },
   {
-    "name": " laser lens",
+    "name": "laser lens",
     "points": 1277,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-052a-laser-lens-back.png",
@@ -8974,14 +8974,14 @@
     "xws": "laserlens"
   },
   {
-    "name": " laser lens",
+    "name": "laser lens",
     "points": 1282,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-052b-laser-lens.png",
     "xws": "laserlens"
   },
   {
-    "name": " laser lens",
+    "name": "laser lens",
     "points": 1283,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-052b-laser-lens-back.png",
@@ -9016,14 +9016,14 @@
     "xws": "hobnailboots"
   },
   {
-    "name": " hobnail boots",
+    "name": "hobnail boots",
     "points": 1288,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-053a-hobnail-boots.png",
     "xws": "hobnailboots"
   },
   {
-    "name": " hobnail boots",
+    "name": "hobnail boots",
     "points": 1289,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-053a-hobnail-boots-back.png",
@@ -9058,14 +9058,14 @@
     "xws": "hobnailboots"
   },
   {
-    "name": " hobnail boots",
+    "name": "hobnail boots",
     "points": 1294,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-053b-hobnail-boots.png",
     "xws": "hobnailboots"
   },
   {
-    "name": " hobnail boots",
+    "name": "hobnail boots",
     "points": 1295,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-053b-hobnail-boots-back.png",
@@ -9100,14 +9100,14 @@
     "xws": "restfulslippers"
   },
   {
-    "name": " restful slippers",
+    "name": "restful slippers",
     "points": 1300,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-054a-restful-slippers.png",
     "xws": "restfulslippers"
   },
   {
-    "name": " restful slippers",
+    "name": "restful slippers",
     "points": 1301,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-054a-restful-slippers-back.png",
@@ -9142,14 +9142,14 @@
     "xws": "restfulslippers"
   },
   {
-    "name": " restful slippers",
+    "name": "restful slippers",
     "points": 1306,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-054b-restful-slippers.png",
     "xws": "restfulslippers"
   },
   {
-    "name": " restful slippers",
+    "name": "restful slippers",
     "points": 1307,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-054b-restful-slippers-back.png",
@@ -9184,14 +9184,14 @@
     "xws": "bitinggauntlet"
   },
   {
-    "name": " biting gauntlet",
+    "name": "biting gauntlet",
     "points": 1312,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet.png",
     "xws": "bitinggauntlet"
   },
   {
-    "name": " biting gauntlet",
+    "name": "biting gauntlet",
     "points": 1313,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-055a-biting-gauntlet-back.png",
@@ -9226,14 +9226,14 @@
     "xws": "bitinggauntlet"
   },
   {
-    "name": " biting gauntlet",
+    "name": "biting gauntlet",
     "points": 1318,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet.png",
     "xws": "bitinggauntlet"
   },
   {
-    "name": " biting gauntlet",
+    "name": "biting gauntlet",
     "points": 1319,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-055b-biting-gauntlet-back.png",
@@ -9268,14 +9268,14 @@
     "xws": "scavengersmagnet"
   },
   {
-    "name": " scavenger's magnet",
+    "name": "scavenger's magnet",
     "points": 1324,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet.png",
     "xws": "scavengersmagnet"
   },
   {
-    "name": " scavenger's magnet",
+    "name": "scavenger's magnet",
     "points": 1325,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-056a-scavengers-magnet-back.png",
@@ -9310,14 +9310,14 @@
     "xws": "scavengersmagnet"
   },
   {
-    "name": " scavenger's magnet",
+    "name": "scavenger's magnet",
     "points": 1330,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet.png",
     "xws": "scavengersmagnet"
   },
   {
-    "name": " scavenger's magnet",
+    "name": "scavenger's magnet",
     "points": 1331,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-056b-scavengers-magnet-back.png",
@@ -9352,14 +9352,14 @@
     "xws": "shovel"
   },
   {
-    "name": " shovel",
+    "name": "shovel",
     "points": 1336,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-057a-shovel.png",
     "xws": "shovel"
   },
   {
-    "name": " shovel",
+    "name": "shovel",
     "points": 1337,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-057a-shovel-back.png",
@@ -9394,14 +9394,14 @@
     "xws": "shovel"
   },
   {
-    "name": " shovel",
+    "name": "shovel",
     "points": 1342,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-057b-shovel.png",
     "xws": "shovel"
   },
   {
-    "name": " shovel",
+    "name": "shovel",
     "points": 1343,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-057b-shovel-back.png",
@@ -9436,14 +9436,14 @@
     "xws": "slipperysword"
   },
   {
-    "name": " slippery sword",
+    "name": "slippery sword",
     "points": 1348,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-058a-slippery-sword.png",
     "xws": "slipperysword"
   },
   {
-    "name": " slippery sword",
+    "name": "slippery sword",
     "points": 1349,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-058a-slippery-sword-back.png",
@@ -9478,14 +9478,14 @@
     "xws": "slipperysword"
   },
   {
-    "name": " slippery sword",
+    "name": "slippery sword",
     "points": 1354,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-058b-slippery-sword.png",
     "xws": "slipperysword"
   },
   {
-    "name": " slippery sword",
+    "name": "slippery sword",
     "points": 1355,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-058b-slippery-sword-back.png",
@@ -9520,14 +9520,14 @@
     "xws": "charmofexpertise"
   },
   {
-    "name": " charm of expertise",
+    "name": "charm of expertise",
     "points": 1360,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise.png",
     "xws": "charmofexpertise"
   },
   {
-    "name": " charm of expertise",
+    "name": "charm of expertise",
     "points": 1361,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-059a-charm-of-expertise-back.png",
@@ -9562,14 +9562,14 @@
     "xws": "charmofexpertise"
   },
   {
-    "name": " charm of expertise",
+    "name": "charm of expertise",
     "points": 1366,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise.png",
     "xws": "charmofexpertise"
   },
   {
-    "name": " charm of expertise",
+    "name": "charm of expertise",
     "points": 1367,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-059b-charm-of-expertise-back.png",
@@ -9604,14 +9604,14 @@
     "xws": "cloakofmanypockets"
   },
   {
-    "name": " cloak of many pockets",
+    "name": "cloak of many pockets",
     "points": 1372,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets.png",
     "xws": "cloakofmanypockets"
   },
   {
-    "name": " cloak of many pockets",
+    "name": "cloak of many pockets",
     "points": 1373,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-060a-cloak-of-many-pockets-back.png",
@@ -9646,14 +9646,14 @@
     "xws": "cloakofmanypockets"
   },
   {
-    "name": " cloak of many pockets",
+    "name": "cloak of many pockets",
     "points": 1378,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets.png",
     "xws": "cloakofmanypockets"
   },
   {
-    "name": " cloak of many pockets",
+    "name": "cloak of many pockets",
     "points": 1379,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-060b-cloak-of-many-pockets-back.png",
@@ -9688,14 +9688,14 @@
     "xws": "spikedshell"
   },
   {
-    "name": " spiked shell",
+    "name": "spiked shell",
     "points": 1384,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-061a-spiked-shell.png",
     "xws": "spikedshell"
   },
   {
-    "name": " spiked shell",
+    "name": "spiked shell",
     "points": 1385,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-061a-spiked-shell-back.png",
@@ -9730,14 +9730,14 @@
     "xws": "spikedshell"
   },
   {
-    "name": " spiked shell",
+    "name": "spiked shell",
     "points": 1390,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-061b-spiked-shell.png",
     "xws": "spikedshell"
   },
   {
-    "name": " spiked shell",
+    "name": "spiked shell",
     "points": 1391,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-061b-spiked-shell-back.png",
@@ -9772,14 +9772,14 @@
     "xws": "everlastingboots"
   },
   {
-    "name": " everlasting boots",
+    "name": "everlasting boots",
     "points": 1396,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-062a-everlasting-boots.png",
     "xws": "everlastingboots"
   },
   {
-    "name": " everlasting boots",
+    "name": "everlasting boots",
     "points": 1397,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-062a-everlasting-boots-back.png",
@@ -9814,14 +9814,14 @@
     "xws": "everlastingboots"
   },
   {
-    "name": " everlasting boots",
+    "name": "everlasting boots",
     "points": 1402,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-062b-everlasting-boots.png",
     "xws": "everlastingboots"
   },
   {
-    "name": " everlasting boots",
+    "name": "everlasting boots",
     "points": 1403,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-062b-everlasting-boots-back.png",
@@ -9856,14 +9856,14 @@
     "xws": "shadowstompers"
   },
   {
-    "name": " shadow stompers",
+    "name": "shadow stompers",
     "points": 1408,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-063a-shadow-stompers.png",
     "xws": "shadowstompers"
   },
   {
-    "name": " shadow stompers",
+    "name": "shadow stompers",
     "points": 1409,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-063a-shadow-stompers-back.png",
@@ -9898,14 +9898,14 @@
     "xws": "shadowstompers"
   },
   {
-    "name": " shadow stompers",
+    "name": "shadow stompers",
     "points": 1414,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-063b-shadow-stompers.png",
     "xws": "shadowstompers"
   },
   {
-    "name": " shadow stompers",
+    "name": "shadow stompers",
     "points": 1415,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-063b-shadow-stompers-back.png",
@@ -9940,14 +9940,14 @@
     "xws": "detonator"
   },
   {
-    "name": " detonator",
+    "name": "detonator",
     "points": 1420,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-064a-detonator.png",
     "xws": "detonator"
   },
   {
-    "name": " detonator",
+    "name": "detonator",
     "points": 1421,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-064a-detonator-back.png",
@@ -9982,14 +9982,14 @@
     "xws": "detonator"
   },
   {
-    "name": " detonator",
+    "name": "detonator",
     "points": 1426,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-064b-detonator.png",
     "xws": "detonator"
   },
   {
-    "name": " detonator",
+    "name": "detonator",
     "points": 1427,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-064b-detonator-back.png",
@@ -10024,14 +10024,14 @@
     "xws": "rustpowder"
   },
   {
-    "name": " rust powder",
+    "name": "rust powder",
     "points": 1432,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-065a-rust-powder.png",
     "xws": "rustpowder"
   },
   {
-    "name": " rust powder",
+    "name": "rust powder",
     "points": 1433,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-065a-rust-powder-back.png",
@@ -10066,14 +10066,14 @@
     "xws": "rustpowder"
   },
   {
-    "name": " rust powder",
+    "name": "rust powder",
     "points": 1438,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-065b-rust-powder.png",
     "xws": "rustpowder"
   },
   {
-    "name": " rust powder",
+    "name": "rust powder",
     "points": 1439,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/051-065/fh-065b-rust-powder-back.png",
@@ -15582,14 +15582,14 @@
     "xws": "ancientcoin"
   },
   {
-    "name": " ancient coin",
+    "name": "ancient coin",
     "points": 2226,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/193-247/fh-245a-ancient-coin.png",
     "xws": "ancientcoin"
   },
   {
-    "name": " ancient coin",
+    "name": "ancient coin",
     "points": 2227,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/193-247/fh-245a-ancient-coin-back.png",
@@ -15610,14 +15610,14 @@
     "xws": "ancientcoin"
   },
   {
-    "name": " ancient coin",
+    "name": "ancient coin",
     "points": 2230,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/193-247/fh-245b-ancient-coin.png",
     "xws": "ancientcoin"
   },
   {
-    "name": " ancient coin",
+    "name": "ancient coin",
     "points": 2231,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/193-247/fh-245b-ancient-coin-back.png",
@@ -15638,14 +15638,14 @@
     "xws": "ancientcoin"
   },
   {
-    "name": " ancient coin",
+    "name": "ancient coin",
     "points": 2234,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/193-247/fh-245c-ancient-coin.png",
     "xws": "ancientcoin"
   },
   {
-    "name": " ancient coin",
+    "name": "ancient coin",
     "points": 2235,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/193-247/fh-245c-ancient-coin-back.png",
@@ -15666,14 +15666,14 @@
     "xws": "ancientcoin"
   },
   {
-    "name": " ancient coin",
+    "name": "ancient coin",
     "points": 2238,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/193-247/fh-245d-ancient-coin.png",
     "xws": "ancientcoin"
   },
   {
-    "name": " ancient coin",
+    "name": "ancient coin",
     "points": 2239,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/193-247/fh-245d-ancient-coin-back.png",
