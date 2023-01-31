@@ -38,21 +38,21 @@
     "name": "scenario flowchart page 1-2",
     "points": 5,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-1-2.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-1-4.png",
     "xws": "scenarioflowchartpage12"
   },
   {
     "name": "scenario flowchart page 1-3",
     "points": 6,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-1-3.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-1-5.png",
     "xws": "scenarioflowchartpage13"
   },
   {
     "name": "scenario flowchart page 1-4",
     "points": 7,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-1-4.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-1-6.png",
     "xws": "scenarioflowchartpage14"
   },
   {
@@ -66,21 +66,21 @@
     "name": "scenario flowchart page 2-2",
     "points": 9,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-2-2.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-2-4.png",
     "xws": "scenarioflowchartpage22"
   },
   {
     "name": "scenario flowchart page 2-3",
     "points": 10,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-2-3.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-2-5.png",
     "xws": "scenarioflowchartpage23"
   },
   {
     "name": "scenario flowchart page 2-4",
     "points": 11,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-2-4.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-2-6.png",
     "xws": "scenarioflowchartpage24"
   },
   {
@@ -94,21 +94,21 @@
     "name": "scenario flowchart page 3-2",
     "points": 13,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-3-2.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-3-4.png",
     "xws": "scenarioflowchartpage32"
   },
   {
     "name": "scenario flowchart page 3-3",
     "points": 14,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-3-3.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-3-5.png",
     "xws": "scenarioflowchartpage33"
   },
   {
     "name": "scenario flowchart page 3-4",
     "points": 15,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-3-4.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-3-6.png",
     "xws": "scenarioflowchartpage34"
   },
   {
@@ -122,21 +122,21 @@
     "name": "scenario flowchart page 4-2",
     "points": 17,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-4-2.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-4-4.png",
     "xws": "scenarioflowchartpage42"
   },
   {
     "name": "scenario flowchart page 4-3",
     "points": 18,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-4-3.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-4-5.png",
     "xws": "scenarioflowchartpage43"
   },
   {
     "name": "scenario flowchart page 4-4",
     "points": 19,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-4-4.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-4-6.png",
     "xws": "scenarioflowchartpage44"
   },
   {
@@ -150,21 +150,21 @@
     "name": "scenario flowchart page 5-2",
     "points": 21,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-5-2.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-5-4.png",
     "xws": "scenarioflowchartpage52"
   },
   {
     "name": "scenario flowchart page 5-3",
     "points": 22,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-5-3.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-5-5.png",
     "xws": "scenarioflowchartpage53"
   },
   {
     "name": "scenario flowchart page 5-4",
     "points": 23,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/fh-scenario-flowchart-page-5-4.png",
+    "image": "charts/frosthaven/fh-scenario-flowchart-page-5-6.png",
     "xws": "scenarioflowchartpage54"
   }
 ]
