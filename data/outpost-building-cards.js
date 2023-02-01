@@ -434,60 +434,60 @@
     "xws": "35alchemistlevel3"
   },
   {
-    "name": "37 trading point level 1",
+    "name": "37 trading post level 1",
     "points": 62,
     "expansion": "Frosthaven",
-    "image": "outpost-building-cards/frosthaven/fh-37-trading-point-level-1.png",
-    "xws": "37tradingpointlevel1"
+    "image": "outpost-building-cards/frosthaven/fh-37-trading-post-level-1.png",
+    "xws": "37tradingpostlevel1"
   },
   {
-    "name": "37 trading point level 1",
+    "name": "37 trading post level 1",
     "points": 63,
     "expansion": "Frosthaven",
-    "image": "outpost-building-cards/frosthaven/fh-37-trading-point-level-1-back.png",
-    "xws": "37tradingpointlevel1"
+    "image": "outpost-building-cards/frosthaven/fh-37-trading-post-level-1-back.png",
+    "xws": "37tradingpostlevel1"
   },
   {
-    "name": "37 trading point level 2",
+    "name": "37 trading post level 2",
     "points": 64,
     "expansion": "Frosthaven",
-    "image": "outpost-building-cards/frosthaven/fh-37-trading-point-level-2.png",
-    "xws": "37tradingpointlevel2"
+    "image": "outpost-building-cards/frosthaven/fh-37-trading-post-level-2.png",
+    "xws": "37tradingpostlevel2"
   },
   {
-    "name": "37 trading point level 2",
+    "name": "37 trading post level 2",
     "points": 65,
     "expansion": "Frosthaven",
-    "image": "outpost-building-cards/frosthaven/fh-37-trading-point-level-2-back.png",
-    "xws": "37tradingpointlevel2"
+    "image": "outpost-building-cards/frosthaven/fh-37-trading-post-level-2-back.png",
+    "xws": "37tradingpostlevel2"
   },
   {
-    "name": "37 trading point level 3",
+    "name": "37 trading post level 3",
     "points": 66,
     "expansion": "Frosthaven",
-    "image": "outpost-building-cards/frosthaven/fh-37-trading-point-level-3.png",
-    "xws": "37tradingpointlevel3"
+    "image": "outpost-building-cards/frosthaven/fh-37-trading-post-level-3.png",
+    "xws": "37tradingpostlevel3"
   },
   {
-    "name": "37 trading point level 3",
+    "name": "37 trading post level 3",
     "points": 67,
     "expansion": "Frosthaven",
-    "image": "outpost-building-cards/frosthaven/fh-37-trading-point-level-3-back.png",
-    "xws": "37tradingpointlevel3"
+    "image": "outpost-building-cards/frosthaven/fh-37-trading-post-level-3-back.png",
+    "xws": "37tradingpostlevel3"
   },
   {
-    "name": "37 trading point level 4",
+    "name": "37 trading post level 4",
     "points": 68,
     "expansion": "Frosthaven",
-    "image": "outpost-building-cards/frosthaven/fh-37-trading-point-level-4.png",
-    "xws": "37tradingpointlevel4"
+    "image": "outpost-building-cards/frosthaven/fh-37-trading-post-level-4.png",
+    "xws": "37tradingpostlevel4"
   },
   {
-    "name": "37 trading point level 4",
+    "name": "37 trading post level 4",
     "points": 69,
     "expansion": "Frosthaven",
-    "image": "outpost-building-cards/frosthaven/fh-37-trading-point-level-4-back.png",
-    "xws": "37tradingpointlevel4"
+    "image": "outpost-building-cards/frosthaven/fh-37-trading-post-level-4-back.png",
+    "xws": "37tradingpostlevel4"
   },
   {
     "name": "39 jeweler level 1",
