@@ -1342,5 +1342,5 @@
     "expansion": "Frosthaven",
     "image": "world-map/frosthaven/fh-frosthaven-map.png",
     "xws": "frosthavenmap"
-  },
+  }
 ]
