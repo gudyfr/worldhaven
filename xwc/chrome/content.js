@@ -24,7 +24,6 @@ var files = [
 	'random-dungeons.js',
 	'random-scenarios.js',
 	'tokens.js',
-	'town-guard-cards.js',
 	'trial-cards.js',
 	'world-map.js',
 ];
@@ -244,7 +243,6 @@ async function loadFromStorage() {
 		"fh-random-dungeons": true,
 		"fh-random-scenarios": true,
 		"fh-tokens": true,
-		"fh-town-guard-cards": true,
 		"fh-trial-cards": true,
 		"fh-world-map": true,
 		"jl": true,
