@@ -231,11 +231,11 @@
     "xws": "harrowerinfesterart"
   },
   {
-    "name": "houng art",
+    "name": "hound art",
     "points": 33,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/monster-images/fh-houng.png",
-    "xws": "houngart"
+    "image": "art/frosthaven/monster-images/fh-hound.png",
+    "xws": "houndart"
   },
   {
     "name": "ice wraith art",
@@ -287,7 +287,7 @@
     "xws": "lurkerclawcrusherart"
   },
   {
-    "name": "lurker minsdnipper art",
+    "name": "lurker mindsnipper art",
     "points": 41,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monster-images/fh-lurker-mindsnipper.png",
