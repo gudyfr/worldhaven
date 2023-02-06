@@ -168,32 +168,32 @@
     "xws": "fishkingart"
   },
   {
-    "name": "fissure in the deep art",
-    "points": 24,
-    "expansion": "Frosthaven",
-    "image": "art/frosthaven/monster-images/fh-fissure-in-the-deep.png",
-    "xws": "fissureinthedeepart"
-  },
-  {
     "name": "flame demon art",
-    "points": 25,
+    "points": 24,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monster-images/fh-flame-demon.png",
     "xws": "flamedemonart"
   },
   {
     "name": "flaming bladespinner art",
-    "points": 26,
+    "points": 25,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monster-images/fh-flaming-bladespinner.png",
     "xws": "flamingbladespinnerart"
   },
   {
     "name": "forest imp art",
-    "points": 27,
+    "points": 26,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monster-images/fh-forest-imp.png",
     "xws": "forestimpart"
+  },
+  {
+    "name": "fracture of the deep art",
+    "points": 27,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/monster-images/fh-fracture-of-the-deep.png",
+    "xws": "fractureofthedeepart"
   },
   {
     "name": "frost demon art",
