@@ -721,11 +721,11 @@
     "xws": "lurkermindsnipperstandee"
   },
   {
-    "name": "lurker soldier soldier",
+    "name": "lurker soldier standee",
     "points": 103,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/monsters/standees/wav/fh-lurker-soldier-soldier.png",
-    "xws": "lurkersoldiersoldier"
+    "image": "art/frosthaven/monsters/standees/wav/fh-lurker-soldier-standee.png",
+    "xws": "lurkersoldierstandee"
   },
   {
     "name": "lurker wavethrower standee",
@@ -742,11 +742,11 @@
     "xws": "nightdemonstandee"
   },
   {
-    "name": "ooze 1 standee",
+    "name": "ooze standee",
     "points": 106,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/monsters/standees/wav/fh-ooze-1-standee.png",
-    "xws": "ooze1standee"
+    "image": "art/frosthaven/monsters/standees/wav/fh-ooze-standee.png",
+    "xws": "oozestandee"
   },
   {
     "name": "piranha pig standee",
@@ -798,11 +798,11 @@
     "xws": "ruinedmachinestandee"
   },
   {
-    "name": "savvas icestrom standee",
+    "name": "savvas icestorm standee",
     "points": 114,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/monsters/standees/wav/fh-savvas-icestrom-standee.png",
-    "xws": "savvasicestromstandee"
+    "image": "art/frosthaven/monsters/standees/wav/fh-savvas-icestorm-standee.png",
+    "xws": "savvasicestormstandee"
   },
   {
     "name": "savvas lavaflow standee",
