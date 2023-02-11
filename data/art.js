@@ -924,74 +924,74 @@
     "xws": "sledicon"
   },
   {
-    "name": "corridor icon",
+    "name": "overlay tile corridor icon",
     "points": 132,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-corridor-icon.png",
-    "xws": "corridoricon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-corridor-icon.png",
+    "xws": "overlaytilecorridoricon"
   },
   {
-    "name": "difficult terrain icon",
+    "name": "overlay tile difficult terrain icon",
     "points": 133,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-difficult-terrain-icon.png",
-    "xws": "difficultterrainicon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-difficult-terrain-icon.png",
+    "xws": "overlaytiledifficultterrainicon"
   },
   {
-    "name": "door icon",
+    "name": "overlay tile door icon",
     "points": 134,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-door-icon.png",
-    "xws": "dooricon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-door-icon.png",
+    "xws": "overlaytiledooricon"
   },
   {
-    "name": "hazardous terrain icon",
+    "name": "overlay tile hazardous terrain icon",
     "points": 135,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-hazardous-terrain-icon.png",
-    "xws": "hazardousterrainicon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-hazardous-terrain-icon.png",
+    "xws": "overlaytilehazardousterrainicon"
   },
   {
-    "name": "icy terrain icon",
+    "name": "overlay tile icy terrain icon",
     "points": 136,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-icy-terrain-icon.png",
-    "xws": "icyterrainicon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-icy-terrain-icon.png",
+    "xws": "overlaytileicyterrainicon"
   },
   {
-    "name": "objective icon",
+    "name": "overlay tile objective icon",
     "points": 137,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-objective-icon.png",
-    "xws": "objectiveicon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-objective-icon.png",
+    "xws": "overlaytileobjectiveicon"
   },
   {
-    "name": "obstacle icon",
+    "name": "overlay tile obstacle icon",
     "points": 138,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-obstacle-icon.png",
-    "xws": "obstacleicon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-obstacle-icon.png",
+    "xws": "overlaytileobstacleicon"
   },
   {
-    "name": "pressure plate icon",
+    "name": "overlay tile pressure plate icon",
     "points": 139,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-pressure-plate-icon.png",
-    "xws": "pressureplateicon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-pressure-plate-icon.png",
+    "xws": "overlaytilepressureplateicon"
   },
   {
-    "name": "trap icon",
+    "name": "overlay tile trap icon",
     "points": 140,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-trap-icon.png",
-    "xws": "trapicon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-trap-icon.png",
+    "xws": "overlaytiletrapicon"
   },
   {
-    "name": "wall icon",
+    "name": "overlay tile wall icon",
     "points": 141,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/icons/overlay-tiles/fh-wall-icon.png",
-    "xws": "wallicon"
+    "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-wall-icon.png",
+    "xws": "overlaytilewallicon"
   },
   {
     "name": "abael herder art",
