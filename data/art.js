@@ -1372,7 +1372,7 @@
     "xws": "algoxicespeakerstandee"
   },
   {
-    "name": "algox priest stand",
+    "name": "algox priest standee",
     "points": 196,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-algox-priest-standee.png",
