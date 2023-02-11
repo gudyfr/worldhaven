@@ -1246,722 +1246,736 @@
     "xws": "shrikefiendart"
   },
   {
-    "name": "snow imp art",
+    "name": "snowdancer art",
     "points": 178,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/monsters/images/fh-snowdancer.png",
+    "xws": "snowdancerart"
+  },
+  {
+    "name": "snow imp art",
+    "points": 179,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-snow-imp.png",
     "xws": "snowimpart"
   },
   {
     "name": "spitting drake art",
-    "points": 179,
+    "points": 180,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-spitting-drake.png",
     "xws": "spittingdrakeart"
   },
   {
     "name": "steel automaton art",
-    "points": 180,
+    "points": 181,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-steel-automaton.png",
     "xws": "steelautomatonart"
   },
   {
     "name": "sun demon art",
-    "points": 181,
+    "points": 182,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-sun-demon.png",
     "xws": "sundemonart"
   },
   {
     "name": "the collector art",
-    "points": 182,
+    "points": 183,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-the-collector.png",
     "xws": "thecollectorart"
   },
   {
     "name": "the orphan art",
-    "points": 183,
+    "points": 184,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-the-orphan.png",
     "xws": "theorphanart"
   },
   {
     "name": "the relic art",
-    "points": 184,
+    "points": 185,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-the-relic.png",
     "xws": "therelicart"
   },
   {
     "name": "the render art",
-    "points": 185,
+    "points": 186,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-the-render.png",
     "xws": "therenderart"
   },
   {
     "name": "vermling priest art",
-    "points": 186,
+    "points": 187,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-vermling-priest.png",
     "xws": "vermlingpriestart"
   },
   {
     "name": "vermling scout art",
-    "points": 187,
+    "points": 188,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-vermling-scout.png",
     "xws": "vermlingscoutart"
   },
   {
     "name": "vestige of the imprisoned god art",
-    "points": 188,
+    "points": 189,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-vestige-of-the-imprisoned-god.png",
     "xws": "vestigeoftheimprisonedgodart"
   },
   {
     "name": "wind demon art",
-    "points": 189,
+    "points": 190,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-wind-demon.png",
     "xws": "winddemonart"
   },
   {
     "name": "abael herder standee",
-    "points": 190,
+    "points": 191,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-abael-herder-standee.png",
     "xws": "abaelherderstandee"
   },
   {
     "name": "abael scout standee",
-    "points": 191,
+    "points": 192,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-abael-scout-standee.png",
     "xws": "abaelscoutstandee"
   },
   {
     "name": "algox archer standee",
-    "points": 192,
+    "points": 193,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-algox-archer-standee.png",
     "xws": "algoxarcherstandee"
   },
   {
     "name": "algox guard standee",
-    "points": 193,
+    "points": 194,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-algox-guard-standee.png",
     "xws": "algoxguardstandee"
   },
   {
     "name": "algox icespeaker standee",
-    "points": 194,
+    "points": 195,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-algox-icespeaker-standee.png",
     "xws": "algoxicespeakerstandee"
   },
   {
+    "name": "algox priest standee",
+    "points": 196,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/monsters/standees/wav/fh-algox-priest-standee.png",
+    "xws": "algoxprieststandee"
+  },
+  {
     "name": "algox scout standee",
-    "points": 195,
+    "points": 197,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-algox-scout-standee.png",
     "xws": "algoxscoutstandee"
   },
   {
     "name": "algox snowspeaker standee",
-    "points": 196,
+    "points": 198,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-algox-snowspeaker-standee.png",
     "xws": "algoxsnowspeakerstandee"
   },
   {
     "name": "algox stormcaller standee",
-    "points": 197,
+    "points": 199,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-algox-stormcaller-standee.png",
     "xws": "algoxstormcallerstandee"
   },
   {
     "name": "ancient artillery standee",
-    "points": 198,
+    "points": 200,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-ancient-artillery-standee.png",
     "xws": "ancientartillerystandee"
   },
   {
     "name": "black imp standee",
-    "points": 199,
+    "points": 201,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-black-imp-standee.png",
     "xws": "blackimpstandee"
   },
   {
     "name": "burrowing blade standee",
-    "points": 200,
+    "points": 202,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-burrowing-blade-standee.png",
     "xws": "burrowingbladestandee"
   },
   {
     "name": "chaos demon standee",
-    "points": 201,
+    "points": 203,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-chaos-demon-standee.png",
     "xws": "chaosdemonstandee"
   },
   {
     "name": "city guard standee",
-    "points": 202,
+    "points": 204,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-city-guard-standee.png",
     "xws": "cityguardstandee"
   },
   {
     "name": "deep terror standee",
-    "points": 203,
+    "points": 205,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-deep-terror-standee.png",
     "xws": "deepterrorstandee"
   },
   {
     "name": "earth demon standee",
-    "points": 204,
+    "points": 206,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-earth-demon-standee.png",
     "xws": "earthdemonstandee"
   },
   {
     "name": "elder ooze standee",
-    "points": 205,
+    "points": 207,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-elder-ooze-standee.png",
     "xws": "elderoozestandee"
   },
   {
     "name": "fish king standee",
-    "points": 206,
+    "points": 208,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-fish-king-standee.png",
     "xws": "fishkingstandee"
   },
   {
     "name": "flame demon standee",
-    "points": 207,
+    "points": 209,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-flame-demon-standee.png",
     "xws": "flamedemonstandee"
   },
   {
     "name": "flaming bladespinner standee",
-    "points": 208,
+    "points": 210,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-flaming-bladespinner-standee.png",
     "xws": "flamingbladespinnerstandee"
   },
   {
     "name": "forest imp standee",
-    "points": 209,
+    "points": 211,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-forest-imp-standee.png",
     "xws": "forestimpstandee"
   },
   {
     "name": "fracture of the deep standee",
-    "points": 210,
+    "points": 212,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-fracture-of-the-deep-standee.png",
     "xws": "fractureofthedeepstandee"
   },
   {
     "name": "frost demon standee",
-    "points": 211,
+    "points": 213,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-frost-demon-standee.png",
     "xws": "frostdemonstandee"
   },
   {
     "name": "frozen corpse standee",
-    "points": 212,
+    "points": 214,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-frozen-corpse-standee.png",
     "xws": "frozencorpsestandee"
   },
   {
     "name": "harbinger of shadow standee",
-    "points": 213,
+    "points": 215,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-harbinger-of-shadow-standee.png",
     "xws": "harbingerofshadowstandee"
   },
   {
     "name": "harrower infester standee",
-    "points": 214,
+    "points": 216,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-harrower-infester-standee.png",
     "xws": "harrowerinfesterstandee"
   },
   {
     "name": "hound standee",
-    "points": 215,
+    "points": 217,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-hound-standee.png",
     "xws": "houndstandee"
   },
   {
     "name": "ice wraith standee",
-    "points": 216,
+    "points": 218,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-ice-wraith-standee.png",
     "xws": "icewraithstandee"
   },
   {
     "name": "lightning eel standee",
-    "points": 217,
+    "points": 219,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-lightning-eel-standee.png",
     "xws": "lightningeelstandee"
   },
   {
     "name": "living bones standee",
-    "points": 218,
+    "points": 220,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-living-bones-standee.png",
     "xws": "livingbonesstandee"
   },
   {
     "name": "living doom standee",
-    "points": 219,
+    "points": 221,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-living-doom-standee.png",
     "xws": "livingdoomstandee"
   },
   {
     "name": "living spirit standee",
-    "points": 220,
+    "points": 222,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-living-spirit-standee.png",
     "xws": "livingspiritstandee"
   },
   {
     "name": "lord of chaos standee",
-    "points": 221,
+    "points": 223,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-lord-of-chaos-standee.png",
     "xws": "lordofchaosstandee"
   },
   {
     "name": "lurker clawcrusher standee",
-    "points": 222,
+    "points": 224,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-lurker-clawcrusher-standee.png",
     "xws": "lurkerclawcrusherstandee"
   },
   {
     "name": "lurker mindsnipper standee",
-    "points": 223,
+    "points": 225,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-lurker-mindsnipper-standee.png",
     "xws": "lurkermindsnipperstandee"
   },
   {
     "name": "lurker soldier standee",
-    "points": 224,
+    "points": 226,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-lurker-soldier-standee.png",
     "xws": "lurkersoldierstandee"
   },
   {
     "name": "lurker wavethrower standee",
-    "points": 225,
+    "points": 227,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-lurker-wavethrower-standee.png",
     "xws": "lurkerwavethrowerstandee"
   },
   {
     "name": "night demon standee",
-    "points": 226,
+    "points": 228,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-night-demon-standee.png",
     "xws": "nightdemonstandee"
   },
   {
     "name": "ooze standee",
-    "points": 227,
+    "points": 229,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-ooze-standee.png",
     "xws": "oozestandee"
   },
   {
     "name": "piranha pig standee",
-    "points": 228,
+    "points": 230,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-piranha-pig-standee.png",
     "xws": "piranhapigstandee"
   },
   {
     "name": "polar bear standee",
-    "points": 229,
+    "points": 231,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-polar-bear-standee.png",
     "xws": "polarbearstandee"
   },
   {
     "name": "prince of frost standee",
-    "points": 230,
+    "points": 232,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-prince-of-frost-standee.png",
     "xws": "princeoffroststandee"
   },
   {
     "name": "program director standee",
-    "points": 231,
+    "points": 233,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-program-director-standee.png",
     "xws": "programdirectorstandee"
   },
   {
     "name": "rending drake standee",
-    "points": 232,
+    "points": 234,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-rending-drake-standee.png",
     "xws": "rendingdrakestandee"
   },
   {
     "name": "robotic boltshooter standee",
-    "points": 233,
+    "points": 235,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-robotic-boltshooter-standee.png",
     "xws": "roboticboltshooterstandee"
   },
   {
     "name": "ruined machine standee",
-    "points": 234,
+    "points": 236,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-ruined-machine-standee.png",
     "xws": "ruinedmachinestandee"
   },
   {
     "name": "savvas icestorm standee",
-    "points": 235,
+    "points": 237,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-savvas-icestorm-standee.png",
     "xws": "savvasicestormstandee"
   },
   {
     "name": "savvas lavaflow standee",
-    "points": 236,
+    "points": 238,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-savvas-lavaflow-standee.png",
     "xws": "savvaslavaflowstandee"
   },
   {
     "name": "seeker of the abyss standee",
-    "points": 237,
+    "points": 239,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-seeker-of-the-abyss-standee.png",
     "xws": "seekeroftheabyssstandee"
   },
   {
     "name": "shrike fiend standee",
-    "points": 238,
+    "points": 240,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-shrike-fiend-standee.png",
     "xws": "shrikefiendstandee"
   },
   {
     "name": "snow imp standee",
-    "points": 239,
+    "points": 241,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-snow-imp-standee.png",
     "xws": "snowimpstandee"
   },
   {
     "name": "spitting drake standee",
-    "points": 240,
+    "points": 242,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-spitting-drake-standee.png",
     "xws": "spittingdrakestandee"
   },
   {
     "name": "steel automaton standee",
-    "points": 241,
+    "points": 243,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-steel-automaton-standee.png",
     "xws": "steelautomatonstandee"
   },
   {
     "name": "sun demon standee",
-    "points": 242,
+    "points": 244,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-sun-demon-standee.png",
     "xws": "sundemonstandee"
   },
   {
     "name": "the collector standee",
-    "points": 243,
+    "points": 245,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-the-collector-standee.png",
     "xws": "thecollectorstandee"
   },
   {
     "name": "the orphan standee",
-    "points": 244,
+    "points": 246,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-the-orphan-standee.png",
     "xws": "theorphanstandee"
   },
   {
     "name": "the relic standee",
-    "points": 245,
+    "points": 247,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-the-relic-standee.png",
     "xws": "therelicstandee"
   },
   {
     "name": "the render standee",
-    "points": 246,
+    "points": 248,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-the-render-standee.png",
     "xws": "therenderstandee"
   },
   {
     "name": "vermling priest standee",
-    "points": 247,
+    "points": 249,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-vermling-priest-standee.png",
     "xws": "vermlingprieststandee"
   },
   {
     "name": "vermling scout standee",
-    "points": 248,
+    "points": 250,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-vermling-scout-standee.png",
     "xws": "vermlingscoutstandee"
   },
   {
     "name": "vestige of the imprisoned god standee",
-    "points": 249,
+    "points": 251,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-vestige-of-the-imprisoned-god-standee.png",
     "xws": "vestigeoftheimprisonedgodstandee"
   },
   {
     "name": "wind demon standee",
-    "points": 250,
+    "points": 252,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/wav/fh-wind-demon-standee.png",
     "xws": "winddemonstandee"
   },
   {
     "name": "campaign stickers",
-    "points": 251,
+    "points": 253,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-campaign-stickers.png",
     "xws": "campaignstickers"
   },
   {
     "name": "enhancement stickers",
-    "points": 252,
+    "points": 254,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-enhancement-stickers.png",
     "xws": "enhancementstickers"
   },
   {
     "name": "location stickers 1",
-    "points": 253,
+    "points": 255,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-1.png",
     "xws": "locationstickers1"
   },
   {
     "name": "location stickers 2",
-    "points": 254,
+    "points": 256,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-2.png",
     "xws": "locationstickers2"
   },
   {
     "name": "location stickers 3",
-    "points": 255,
+    "points": 257,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-3.png",
     "xws": "locationstickers3"
   },
   {
     "name": "location stickers 4",
-    "points": 256,
+    "points": 258,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-4.png",
     "xws": "locationstickers4"
   },
   {
     "name": "location stickers 5",
-    "points": 257,
+    "points": 259,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-5.png",
     "xws": "locationstickers5"
   },
   {
     "name": "outpost stickers 21 inn",
-    "points": 258,
+    "points": 260,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-21-inn.png",
     "xws": "outpoststickers21inn"
   },
   {
     "name": "outpost stickers 24a garden",
-    "points": 259,
+    "points": 261,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-24a-garden.png",
     "xws": "outpoststickers24agarden"
   },
   {
     "name": "outpost stickers 24b garden",
-    "points": 260,
+    "points": 262,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-24b-garden.png",
     "xws": "outpoststickers24bgarden"
   },
   {
     "name": "outpost stickers 37 trading post",
-    "points": 261,
+    "points": 263,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-37-trading-post.png",
     "xws": "outpoststickers37tradingpost"
   },
   {
     "name": "outpost stickers 39 jeweler",
-    "points": 262,
+    "points": 264,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-39-jeweler.png",
     "xws": "outpoststickers39jeweler"
   },
   {
     "name": "outpost stickers 42 temple",
-    "points": 263,
+    "points": 265,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-42-temple.png",
     "xws": "outpoststickers42temple"
   },
   {
     "name": "outpost stickers 44 enhancer",
-    "points": 264,
+    "points": 266,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-44-enhancer.png",
     "xws": "outpoststickers44enhancer"
   },
   {
     "name": "outpost stickers 65 metal depot",
-    "points": 265,
+    "points": 267,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-65-metal-depot.png",
     "xws": "outpoststickers65metaldepot"
   },
   {
     "name": "outpost stickers 67 lumber depot",
-    "points": 266,
+    "points": 268,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-67-lumber-depot.png",
     "xws": "outpoststickers67lumberdepot"
   },
   {
     "name": "outpost stickers 72 hide depot",
-    "points": 267,
+    "points": 269,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-72-hide-depot.png",
     "xws": "outpoststickers72hidedepot"
   },
   {
     "name": "outpost stickers 74 tavern",
-    "points": 268,
+    "points": 270,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-74-tavern.png",
     "xws": "outpoststickers74tavern"
   },
   {
     "name": "outpost stickers 81 hall of revelry 1",
-    "points": 269,
+    "points": 271,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-81-hall-of-revelry-1.png",
     "xws": "outpoststickers81hallofrevelry1"
   },
   {
     "name": "outpost stickers 81 hall of revelry 2",
-    "points": 270,
+    "points": 272,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-81-hall-of-revelry-2.png",
     "xws": "outpoststickers81hallofrevelry2"
   },
   {
     "name": "outpost stickers 83 library",
-    "points": 271,
+    "points": 273,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-83-library.png",
     "xws": "outpoststickers83library"
   },
   {
     "name": "outpost stickers 85 carpenter",
-    "points": 272,
+    "points": 274,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-85-carpenter.png",
     "xws": "outpoststickers85carpenter"
   },
   {
     "name": "outpost stickers 88 stables",
-    "points": 273,
+    "points": 275,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-88-stables.png",
     "xws": "outpoststickers88stables"
   },
   {
     "name": "outpost stickers 90 town hall",
-    "points": 274,
+    "points": 276,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-90-town-hall.png",
     "xws": "outpoststickers90townhall"
   },
   {
     "name": "outpost stickers large 1",
-    "points": 275,
+    "points": 277,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-large-1.png",
     "xws": "outpoststickerslarge1"
   },
   {
     "name": "outpost stickers large 2",
-    "points": 276,
+    "points": 278,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-large-2.png",
     "xws": "outpoststickerslarge2"
   },
   {
     "name": "outpost stickers large 3",
-    "points": 277,
+    "points": 279,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-large-3.png",
     "xws": "outpoststickerslarge3"
   },
   {
     "name": "removable sticker set 1",
-    "points": 278,
+    "points": 280,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-removable-sticker-set-1.png",
     "xws": "removablestickerset1"
   },
   {
     "name": "removable sticker set 2",
-    "points": 279,
+    "points": 281,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-removable-sticker-set-2.png",
     "xws": "removablestickerset2"
   },
   {
     "name": "wax seal stickers",
-    "points": 280,
+    "points": 282,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-wax-seal-stickers.png",
     "xws": "waxsealstickers"
