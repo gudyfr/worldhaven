@@ -1995,211 +1995,603 @@
     "xws": "winddemonstandee"
   },
   {
-    "name": "campaign stickers",
+    "name": "punchboard 01 back",
     "points": 285,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-01-back.png",
+    "xws": "punchboard01back"
+  },
+  {
+    "name": "punchboard 01 front",
+    "points": 286,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-01-front.png",
+    "xws": "punchboard01front"
+  },
+  {
+    "name": "punchboard 02 back",
+    "points": 287,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-02-back.png",
+    "xws": "punchboard02back"
+  },
+  {
+    "name": "punchboard 02 front",
+    "points": 288,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-02-front.png",
+    "xws": "punchboard02front"
+  },
+  {
+    "name": "punchboard 03 back",
+    "points": 289,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-03-back.png",
+    "xws": "punchboard03back"
+  },
+  {
+    "name": "punchboard 03 front",
+    "points": 290,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-03-front.png",
+    "xws": "punchboard03front"
+  },
+  {
+    "name": "punchboard 04 back",
+    "points": 291,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-04-back.png",
+    "xws": "punchboard04back"
+  },
+  {
+    "name": "punchboard 04 front",
+    "points": 292,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-04-front.png",
+    "xws": "punchboard04front"
+  },
+  {
+    "name": "punchboard 05 back",
+    "points": 293,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-05-back.png",
+    "xws": "punchboard05back"
+  },
+  {
+    "name": "punchboard 05 front",
+    "points": 294,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-05-front.png",
+    "xws": "punchboard05front"
+  },
+  {
+    "name": "punchboard 06 back",
+    "points": 295,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-06-back.png",
+    "xws": "punchboard06back"
+  },
+  {
+    "name": "punchboard 06 front",
+    "points": 296,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-06-front.png",
+    "xws": "punchboard06front"
+  },
+  {
+    "name": "punchboard 07 back",
+    "points": 297,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-07-back.png",
+    "xws": "punchboard07back"
+  },
+  {
+    "name": "punchboard 07 front",
+    "points": 298,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-07-front.png",
+    "xws": "punchboard07front"
+  },
+  {
+    "name": "punchboard 08 back",
+    "points": 299,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-08-back.png",
+    "xws": "punchboard08back"
+  },
+  {
+    "name": "punchboard 08 front",
+    "points": 300,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-08-front.png",
+    "xws": "punchboard08front"
+  },
+  {
+    "name": "punchboard 09 back",
+    "points": 301,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-09-back.png",
+    "xws": "punchboard09back"
+  },
+  {
+    "name": "punchboard 09 front",
+    "points": 302,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-09-front.png",
+    "xws": "punchboard09front"
+  },
+  {
+    "name": "punchboard 10 back",
+    "points": 303,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-10-back.png",
+    "xws": "punchboard10back"
+  },
+  {
+    "name": "punchboard 10 front",
+    "points": 304,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-10-front.png",
+    "xws": "punchboard10front"
+  },
+  {
+    "name": "punchboard 11 back",
+    "points": 305,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-11-back.png",
+    "xws": "punchboard11back"
+  },
+  {
+    "name": "punchboard 11 front",
+    "points": 306,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-11-front.png",
+    "xws": "punchboard11front"
+  },
+  {
+    "name": "punchboard 12 back",
+    "points": 307,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-12-back.png",
+    "xws": "punchboard12back"
+  },
+  {
+    "name": "punchboard 12 front",
+    "points": 308,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-12-front.png",
+    "xws": "punchboard12front"
+  },
+  {
+    "name": "punchboard 13 back",
+    "points": 309,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-13-back.png",
+    "xws": "punchboard13back"
+  },
+  {
+    "name": "punchboard 13 front",
+    "points": 310,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-13-front.png",
+    "xws": "punchboard13front"
+  },
+  {
+    "name": "punchboard 14 back",
+    "points": 311,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-14-back.png",
+    "xws": "punchboard14back"
+  },
+  {
+    "name": "punchboard 14 front",
+    "points": 312,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-14-front.png",
+    "xws": "punchboard14front"
+  },
+  {
+    "name": "punchboard 15 back",
+    "points": 313,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-15-back.png",
+    "xws": "punchboard15back"
+  },
+  {
+    "name": "punchboard 15 front",
+    "points": 314,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-15-front.png",
+    "xws": "punchboard15front"
+  },
+  {
+    "name": "punchboard 16 back",
+    "points": 315,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-16-back.png",
+    "xws": "punchboard16back"
+  },
+  {
+    "name": "punchboard 16 front",
+    "points": 316,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-16-front.png",
+    "xws": "punchboard16front"
+  },
+  {
+    "name": "punchboard 17 back",
+    "points": 317,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-17-back.png",
+    "xws": "punchboard17back"
+  },
+  {
+    "name": "punchboard 17 front",
+    "points": 318,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-17-front.png",
+    "xws": "punchboard17front"
+  },
+  {
+    "name": "punchboard 18 back",
+    "points": 319,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-18-back.png",
+    "xws": "punchboard18back"
+  },
+  {
+    "name": "punchboard 18 front",
+    "points": 320,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-18-front.png",
+    "xws": "punchboard18front"
+  },
+  {
+    "name": "punchboard 19 back",
+    "points": 321,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-19-back.png",
+    "xws": "punchboard19back"
+  },
+  {
+    "name": "punchboard 19 front",
+    "points": 322,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-19-front.png",
+    "xws": "punchboard19front"
+  },
+  {
+    "name": "punchboard 20 back",
+    "points": 323,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-20-back.png",
+    "xws": "punchboard20back"
+  },
+  {
+    "name": "punchboard 20 front",
+    "points": 324,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-20-front.png",
+    "xws": "punchboard20front"
+  },
+  {
+    "name": "punchboard 21 back",
+    "points": 325,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-21-back.png",
+    "xws": "punchboard21back"
+  },
+  {
+    "name": "punchboard 21 front",
+    "points": 326,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-21-front.png",
+    "xws": "punchboard21front"
+  },
+  {
+    "name": "punchboard 22 back",
+    "points": 327,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-22-back.png",
+    "xws": "punchboard22back"
+  },
+  {
+    "name": "punchboard 22 front",
+    "points": 328,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-22-front.png",
+    "xws": "punchboard22front"
+  },
+  {
+    "name": "punchboard 23 back",
+    "points": 329,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-23-back.png",
+    "xws": "punchboard23back"
+  },
+  {
+    "name": "punchboard 23 front",
+    "points": 330,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-23-front.png",
+    "xws": "punchboard23front"
+  },
+  {
+    "name": "punchboard 24 back",
+    "points": 331,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-24-back.png",
+    "xws": "punchboard24back"
+  },
+  {
+    "name": "punchboard 24 front",
+    "points": 332,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-24-front.png",
+    "xws": "punchboard24front"
+  },
+  {
+    "name": "punchboard 25 back",
+    "points": 333,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-25-back.png",
+    "xws": "punchboard25back"
+  },
+  {
+    "name": "punchboard 25 front",
+    "points": 334,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-25-front.png",
+    "xws": "punchboard25front"
+  },
+  {
+    "name": "punchboard 26 back",
+    "points": 335,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-26-back.png",
+    "xws": "punchboard26back"
+  },
+  {
+    "name": "punchboard 26 front",
+    "points": 336,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-26-front.png",
+    "xws": "punchboard26front"
+  },
+  {
+    "name": "punchboard 27 back",
+    "points": 337,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-27-back.png",
+    "xws": "punchboard27back"
+  },
+  {
+    "name": "punchboard 27 front",
+    "points": 338,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-27-front.png",
+    "xws": "punchboard27front"
+  },
+  {
+    "name": "punchboard 28 back",
+    "points": 339,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-28-back.png",
+    "xws": "punchboard28back"
+  },
+  {
+    "name": "punchboard 28 front",
+    "points": 340,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/punchboards/fh-punchboard-28-front.png",
+    "xws": "punchboard28front"
+  },
+  {
+    "name": "campaign stickers",
+    "points": 341,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-campaign-stickers.png",
     "xws": "campaignstickers"
   },
   {
     "name": "enhancement stickers",
-    "points": 286,
+    "points": 342,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-enhancement-stickers.png",
     "xws": "enhancementstickers"
   },
   {
     "name": "location stickers 1",
-    "points": 287,
+    "points": 343,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-1.png",
     "xws": "locationstickers1"
   },
   {
     "name": "location stickers 2",
-    "points": 288,
+    "points": 344,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-2.png",
     "xws": "locationstickers2"
   },
   {
     "name": "location stickers 3",
-    "points": 289,
+    "points": 345,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-3.png",
     "xws": "locationstickers3"
   },
   {
     "name": "location stickers 4",
-    "points": 290,
+    "points": 346,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-4.png",
     "xws": "locationstickers4"
   },
   {
     "name": "location stickers 5",
-    "points": 291,
+    "points": 347,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-5.png",
     "xws": "locationstickers5"
   },
   {
     "name": "outpost stickers 21 inn",
-    "points": 292,
+    "points": 348,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-21-inn.png",
     "xws": "outpoststickers21inn"
   },
   {
     "name": "outpost stickers 24a garden",
-    "points": 293,
+    "points": 349,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-24a-garden.png",
     "xws": "outpoststickers24agarden"
   },
   {
     "name": "outpost stickers 24b garden",
-    "points": 294,
+    "points": 350,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-24b-garden.png",
     "xws": "outpoststickers24bgarden"
   },
   {
     "name": "outpost stickers 37 trading post",
-    "points": 295,
+    "points": 351,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-37-trading-post.png",
     "xws": "outpoststickers37tradingpost"
   },
   {
     "name": "outpost stickers 39 jeweler",
-    "points": 296,
+    "points": 352,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-39-jeweler.png",
     "xws": "outpoststickers39jeweler"
   },
   {
     "name": "outpost stickers 42 temple",
-    "points": 297,
+    "points": 353,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-42-temple.png",
     "xws": "outpoststickers42temple"
   },
   {
     "name": "outpost stickers 44 enhancer",
-    "points": 298,
+    "points": 354,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-44-enhancer.png",
     "xws": "outpoststickers44enhancer"
   },
   {
     "name": "outpost stickers 65 metal depot",
-    "points": 299,
+    "points": 355,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-65-metal-depot.png",
     "xws": "outpoststickers65metaldepot"
   },
   {
     "name": "outpost stickers 67 lumber depot",
-    "points": 300,
+    "points": 356,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-67-lumber-depot.png",
     "xws": "outpoststickers67lumberdepot"
   },
   {
     "name": "outpost stickers 72 hide depot",
-    "points": 301,
+    "points": 357,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-72-hide-depot.png",
     "xws": "outpoststickers72hidedepot"
   },
   {
     "name": "outpost stickers 74 tavern",
-    "points": 302,
+    "points": 358,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-74-tavern.png",
     "xws": "outpoststickers74tavern"
   },
   {
     "name": "outpost stickers 81 hall of revelry 1",
-    "points": 303,
+    "points": 359,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-81-hall-of-revelry-1.png",
     "xws": "outpoststickers81hallofrevelry1"
   },
   {
     "name": "outpost stickers 81 hall of revelry 2",
-    "points": 304,
+    "points": 360,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-81-hall-of-revelry-2.png",
     "xws": "outpoststickers81hallofrevelry2"
   },
   {
     "name": "outpost stickers 83 library",
-    "points": 305,
+    "points": 361,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-83-library.png",
     "xws": "outpoststickers83library"
   },
   {
     "name": "outpost stickers 85 carpenter",
-    "points": 306,
+    "points": 362,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-85-carpenter.png",
     "xws": "outpoststickers85carpenter"
   },
   {
     "name": "outpost stickers 88 stables",
-    "points": 307,
+    "points": 363,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-88-stables.png",
     "xws": "outpoststickers88stables"
   },
   {
     "name": "outpost stickers 90 town hall",
-    "points": 308,
+    "points": 364,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-90-town-hall.png",
     "xws": "outpoststickers90townhall"
   },
   {
     "name": "outpost stickers large 1",
-    "points": 309,
+    "points": 365,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-large-1.png",
     "xws": "outpoststickerslarge1"
   },
   {
     "name": "outpost stickers large 2",
-    "points": 310,
+    "points": 366,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-large-2.png",
     "xws": "outpoststickerslarge2"
   },
   {
     "name": "outpost stickers large 3",
-    "points": 311,
+    "points": 367,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-large-3.png",
     "xws": "outpoststickerslarge3"
   },
   {
     "name": "removable sticker set 1",
-    "points": 312,
+    "points": 368,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-removable-sticker-set-1.png",
     "xws": "removablestickerset1"
   },
   {
     "name": "removable sticker set 2",
-    "points": 313,
+    "points": 369,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-removable-sticker-set-2.png",
     "xws": "removablestickerset2"
   },
   {
     "name": "wax seal stickers",
-    "points": 314,
+    "points": 370,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-wax-seal-stickers.png",
     "xws": "waxsealstickers"
