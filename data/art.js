@@ -4368,7 +4368,7 @@
     "xws": "shattersongpunchboardfront"
   },
   {
-    "name": "shaards punchboard back",
+    "name": "shards punchboard back",
     "points": 624,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-shattersong-punchboard-back.png",
