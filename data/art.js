@@ -182,5751 +182,5995 @@
     "xws": "uncompletedchallenge"
   },
   {
-    "name": "banner spear art",
+    "name": "banner spear character box",
     "points": 26,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-banner-spear-character-box.png",
+    "xws": "bannerspearcharacterbox"
+  },
+  {
+    "name": "blinkblade character box",
+    "points": 27,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-blinkblade-character-box.png",
+    "xws": "blinkbladecharacterbox"
+  },
+  {
+    "name": "boneshaper character box",
+    "points": 28,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-boneshaper-character-box.png",
+    "xws": "boneshapercharacterbox"
+  },
+  {
+    "name": "crashing tide character box",
+    "points": 29,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-crashing-tide-character-box.png",
+    "xws": "crashingtidecharacterbox"
+  },
+  {
+    "name": "deathwalker character box",
+    "points": 30,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-deathwalker-character-box.png",
+    "xws": "deathwalkercharacterbox"
+  },
+  {
+    "name": "deepwraith character box",
+    "points": 31,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-deepwraith-character-box.png",
+    "xws": "deepwraithcharacterbox"
+  },
+  {
+    "name": "drifter character box",
+    "points": 32,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-drifter-character-box.png",
+    "xws": "driftercharacterbox"
+  },
+  {
+    "name": "frozen fist character box",
+    "points": 33,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-frozen-fist-character-box.png",
+    "xws": "frozenfistcharacterbox"
+  },
+  {
+    "name": "geminate character box",
+    "points": 34,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-geminate-character-box.png",
+    "xws": "geminatecharacterbox"
+  },
+  {
+    "name": "hive character box",
+    "points": 35,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-hive-character-box.png",
+    "xws": "hivecharacterbox"
+  },
+  {
+    "name": "infuser character box",
+    "points": 36,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-infuser-character-box.png",
+    "xws": "infusercharacterbox"
+  },
+  {
+    "name": "metal mosaic character box",
+    "points": 37,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-metal-mosaic-character-box.png",
+    "xws": "metalmosaiccharacterbox"
+  },
+  {
+    "name": "pain conduit character box",
+    "points": 38,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-pain-conduit-character-box.png",
+    "xws": "painconduitcharacterbox"
+  },
+  {
+    "name": "pyroclast character box",
+    "points": 39,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-pyroclast-character-box.png",
+    "xws": "pyroclastcharacterbox"
+  },
+  {
+    "name": "shattersong character box",
+    "points": 40,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-shattersong-character-box.png",
+    "xws": "shattersongcharacterbox"
+  },
+  {
+    "name": "snowdancer character box",
+    "points": 41,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-snowdancer-character-box.png",
+    "xws": "snowdancercharacterbox"
+  },
+  {
+    "name": "trapper character box",
+    "points": 42,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/character-boxes/fh-trapper-character-box.png",
+    "xws": "trappercharacterbox"
+  },
+  {
+    "name": "banner spear art",
+    "points": 43,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-banner-spear.png",
     "xws": "bannerspearart"
   },
   {
     "name": "blinkblade art",
-    "points": 27,
+    "points": 44,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-blinkblade.png",
     "xws": "blinkbladeart"
   },
   {
     "name": "boneshaper art",
-    "points": 28,
+    "points": 45,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-boneshaper.png",
     "xws": "boneshaperart"
   },
   {
     "name": "crashing tide art",
-    "points": 29,
+    "points": 46,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-crashing-tide.png",
     "xws": "crashingtideart"
   },
   {
     "name": "coral art",
-    "points": 30,
+    "points": 47,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-crashing-tide.png",
     "xws": "crashingtideart"
   },
   {
     "name": "deathwalker art",
-    "points": 31,
+    "points": 48,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-deathwalker.png",
     "xws": "deathwalkerart"
   },
   {
     "name": "deepwraith art",
-    "points": 32,
+    "points": 49,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-deepwraith.png",
     "xws": "deepwraithart"
   },
   {
     "name": "kelp art",
-    "points": 33,
+    "points": 50,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-deepwraith.png",
     "xws": "deepwraithart"
   },
   {
     "name": "drifter art",
-    "points": 34,
+    "points": 51,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-drifter.png",
     "xws": "drifterart"
   },
   {
     "name": "frozen fist art",
-    "points": 35,
+    "points": 52,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-frozen-fist.png",
     "xws": "frozenfistart"
   },
   {
     "name": "fist art",
-    "points": 36,
+    "points": 53,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-frozen-fist.png",
     "xws": "frozenfistart"
   },
   {
     "name": "geminate art",
-    "points": 37,
+    "points": 54,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-geminate.png",
     "xws": "geminateart"
   },
   {
     "name": "hive art",
-    "points": 38,
+    "points": 55,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-hive.png",
     "xws": "hiveart"
   },
   {
     "name": "prism art",
-    "points": 39,
+    "points": 56,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-hive.png",
     "xws": "hiveart"
   },
   {
     "name": "infuser art",
-    "points": 40,
+    "points": 57,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-infuser.png",
     "xws": "infuserart"
   },
   {
     "name": "astral art",
-    "points": 41,
+    "points": 58,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-infuser.png",
     "xws": "infuserart"
   },
   {
     "name": "metal mosaic art",
-    "points": 42,
+    "points": 59,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-metal-mosaic.png",
     "xws": "metalmosaicart"
   },
   {
     "name": "drill art",
-    "points": 43,
+    "points": 60,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-metal-mosaic.png",
     "xws": "metalmosaicart"
   },
   {
     "name": "pain conduit art",
-    "points": 44,
+    "points": 61,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-pain-conduit.png",
     "xws": "painconduitart"
   },
   {
     "name": "shackles art",
-    "points": 45,
+    "points": 62,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-pain-conduit.png",
     "xws": "painconduitart"
   },
   {
     "name": "pyroclast art",
-    "points": 46,
+    "points": 63,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-pyroclast.png",
     "xws": "pyroclastart"
   },
   {
     "name": "meteor art",
-    "points": 47,
+    "points": 64,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-pyroclast.png",
     "xws": "pyroclastart"
   },
   {
     "name": "shattersong art",
-    "points": 48,
+    "points": 65,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-shattersong.png",
     "xws": "shattersongart"
   },
   {
     "name": "shards art",
-    "points": 49,
+    "points": 66,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-shattersong.png",
     "xws": "shattersongart"
   },
   {
     "name": "snowdancer art",
-    "points": 50,
+    "points": 67,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-snowdancer.png",
     "xws": "snowdancerart"
   },
   {
     "name": "snowflake art",
-    "points": 51,
+    "points": 68,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-snowdancer.png",
     "xws": "snowdancerart"
   },
   {
     "name": "trapper art",
-    "points": 52,
+    "points": 69,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-trapper.png",
     "xws": "trapperart"
   },
   {
     "name": "trap art",
-    "points": 53,
+    "points": 70,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/images/fh-trapper.png",
     "xws": "trapperart"
   },
   {
+    "name": "banner spear mini box",
+    "points": 71,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-banner-spear-mini-box.png",
+    "xws": "bannerspearminibox"
+  },
+  {
+    "name": "blinkblade mini box",
+    "points": 72,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-blinkblade-mini-box.png",
+    "xws": "blinkblademinibox"
+  },
+  {
+    "name": "boneshaper mini box",
+    "points": 73,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-boneshaper-mini-box.png",
+    "xws": "boneshaperminibox"
+  },
+  {
+    "name": "crashing tide mini box",
+    "points": 74,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-crashing-tide-mini-box.png",
+    "xws": "crashingtideminibox"
+  },
+  {
+    "name": "deathwalker mini box",
+    "points": 75,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-deathwalker-mini-box.png",
+    "xws": "deathwalkerminibox"
+  },
+  {
+    "name": "deepwraith mini box",
+    "points": 76,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-deepwraith-mini-box.png",
+    "xws": "deepwraithminibox"
+  },
+  {
+    "name": "drifter mini box",
+    "points": 77,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-drifter-mini-box.png",
+    "xws": "drifterminibox"
+  },
+  {
+    "name": "frozen fist mini box",
+    "points": 78,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-frozen-fist-mini-box.png",
+    "xws": "frozenfistminibox"
+  },
+  {
+    "name": "geminate melee mini box",
+    "points": 79,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-geminate-melee-mini-box.png",
+    "xws": "geminatemeleeminibox"
+  },
+  {
+    "name": "geminate ranged mini box",
+    "points": 80,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-geminate-ranged-mini-box.png",
+    "xws": "geminaterangedminibox"
+  },
+  {
+    "name": "hive mini box",
+    "points": 81,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-hive-mini-box.png",
+    "xws": "hiveminibox"
+  },
+  {
+    "name": "infuser mini box",
+    "points": 82,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-infuser-mini-box.png",
+    "xws": "infuserminibox"
+  },
+  {
+    "name": "metal mosaic mini box",
+    "points": 83,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-metal-mosaic-mini-box.png",
+    "xws": "metalmosaicminibox"
+  },
+  {
+    "name": "pain conduit mini box",
+    "points": 84,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-pain-conduit-mini-box.png",
+    "xws": "painconduitminibox"
+  },
+  {
+    "name": "pyroclast mini box",
+    "points": 85,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-pyroclast-mini-box.png",
+    "xws": "pyroclastminibox"
+  },
+  {
+    "name": "shattersong mini box",
+    "points": 86,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-shattersong-mini-box.png",
+    "xws": "shattersongminibox"
+  },
+  {
+    "name": "snowdancer mini box",
+    "points": 87,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-snowdancer-mini-box.png",
+    "xws": "snowdancerminibox"
+  },
+  {
+    "name": "trapper mini box",
+    "points": 88,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/characters/mini-boxes/fh-trapper-mini-box.png",
+    "xws": "trapperminibox"
+  },
+  {
     "name": "banner spear standee",
-    "points": 54,
+    "points": 89,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-banner-spear-standee-front.png",
     "xws": "bannerspearstandeefront"
   },
   {
     "name": "banner spear standee",
-    "points": 55,
+    "points": 90,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-banner-spear-standee-back.png",
     "xws": "bannerspearstandeeback"
   },
   {
     "name": "blinkblade standee",
-    "points": 56,
+    "points": 91,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-blinkblade-standee-front.png",
     "xws": "blinkbladestandeefront"
   },
   {
     "name": "blinkblade standee",
-    "points": 57,
+    "points": 92,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-blinkblade-standee-back.png",
     "xws": "blinkbladestandeeback"
   },
   {
     "name": "boneshaper standee",
-    "points": 58,
+    "points": 93,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-boneshaper-standee-front.png",
     "xws": "boneshaperstandeefront"
   },
   {
     "name": "boneshaper standee",
-    "points": 59,
+    "points": 94,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-boneshaper-standee-back.png",
     "xws": "boneshaperstandeeback"
   },
   {
     "name": "crashing tide standee",
-    "points": 60,
+    "points": 95,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-crashing-tide-standee-front.png",
     "xws": "crashingtidestandeefront"
   },
   {
     "name": "crashing tide standee",
-    "points": 61,
+    "points": 96,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-crashing-tide-standee-back.png",
     "xws": "crashingtidestandeeback"
   },
   {
     "name": "coral standee",
-    "points": 62,
+    "points": 97,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-crashing-tide-standee-front.png",
     "xws": "crashingtidestandeefront"
   },
   {
     "name": "coral standee",
-    "points": 63,
+    "points": 98,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-crashing-tide-standee-back.png",
     "xws": "crashingtidestandeeback"
   },
   {
     "name": "deathwalker standee",
-    "points": 64,
+    "points": 99,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-deathwalker-standee-front.png",
     "xws": "deathwalkerstandeefront"
   },
   {
     "name": "deathwalker standee",
-    "points": 65,
+    "points": 100,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-deathwalker-standee-back.png",
     "xws": "deathwalkerstandeeback"
   },
   {
     "name": "deepwraith standee",
-    "points": 66,
+    "points": 101,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-deepwraith-standee-front.png",
     "xws": "deepwraithstandeefront"
   },
   {
     "name": "deepwraith standee",
-    "points": 67,
+    "points": 102,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-deepwraith-standee-back.png",
     "xws": "deepwraithstandeeback"
   },
   {
     "name": "kelp standee",
-    "points": 68,
+    "points": 103,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-deepwraith-standee-front.png",
     "xws": "deepwraithstandeefront"
   },
   {
     "name": "kelp standee",
-    "points": 69,
+    "points": 104,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-deepwraith-standee-back.png",
     "xws": "deepwraithstandeeback"
   },
   {
     "name": "drifter standee",
-    "points": 70,
+    "points": 105,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-drifter-standee-front.png",
     "xws": "drifterstandeefront"
   },
   {
     "name": "drifter standee",
-    "points": 71,
+    "points": 106,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-drifter-standee-back.png",
     "xws": "drifterstandeeback"
   },
   {
     "name": "frozen fist standee",
-    "points": 72,
+    "points": 107,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-frozen-fist-standee-front.png",
     "xws": "frozenfiststandeefront"
   },
   {
     "name": "frozen fist standee",
-    "points": 73,
+    "points": 108,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-frozen-fist-standee-back.png",
     "xws": "frozenfiststandeeback"
   },
   {
     "name": "fist standee",
-    "points": 74,
+    "points": 109,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-frozen-fist-standee-front.png",
     "xws": "frozenfiststandeefront"
   },
   {
     "name": "fist standee",
-    "points": 75,
+    "points": 110,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-frozen-fist-standee-back.png",
     "xws": "frozenfiststandeeback"
   },
   {
     "name": "geminate melee standee",
-    "points": 76,
+    "points": 111,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-geminate-melee-standee-front.png",
     "xws": "geminatemeleestandeefront"
   },
   {
     "name": "geminate melee standee",
-    "points": 77,
+    "points": 112,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-geminate-melee-standee-back.png",
     "xws": "geminatemeleestandeeback"
   },
   {
     "name": "geminate ranged standee",
-    "points": 78,
+    "points": 113,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-geminate-ranged-standee-front.png",
     "xws": "geminaterangedstandeefront"
   },
   {
     "name": "geminate ranged standee",
-    "points": 79,
+    "points": 114,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-geminate-ranged-standee-back.png",
     "xws": "geminaterangedstandeeback"
   },
   {
     "name": "hive standee",
-    "points": 80,
+    "points": 115,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-hive-standee-front.png",
     "xws": "hivestandeefront"
   },
   {
     "name": "hive standee",
-    "points": 81,
+    "points": 116,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-hive-standee-back.png",
     "xws": "hivestandeeback"
   },
   {
     "name": "prism standee",
-    "points": 82,
+    "points": 117,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-hive-standee-front.png",
     "xws": "hivestandeefront"
   },
   {
     "name": "prism standee",
-    "points": 83,
+    "points": 118,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-hive-standee-back.png",
     "xws": "hivestandeeback"
   },
   {
     "name": "infuser standee",
-    "points": 84,
+    "points": 119,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-infuser-standee-front.png",
     "xws": "infuserstandeefront"
   },
   {
     "name": "infuser standee",
-    "points": 85,
+    "points": 120,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-infuser-standee-back.png",
     "xws": "infuserstandeeback"
   },
   {
     "name": "astral standee",
-    "points": 86,
+    "points": 121,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-infuser-standee-front.png",
     "xws": "infuserstandeefront"
   },
   {
     "name": "astral standee",
-    "points": 87,
+    "points": 122,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-infuser-standee-back.png",
     "xws": "infuserstandeeback"
   },
   {
     "name": "metal mosaic standee",
-    "points": 88,
+    "points": 123,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-metal-mosaic-standee-front.png",
     "xws": "metalmosaicstandeefront"
   },
   {
     "name": "metal mosaic standee",
-    "points": 89,
+    "points": 124,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-metal-mosaic-standee-back.png",
     "xws": "metalmosaicstandeeback"
   },
   {
     "name": "drill standee",
-    "points": 90,
+    "points": 125,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-metal-mosaic-standee-front.png",
     "xws": "metalmosaicstandeefront"
   },
   {
     "name": "drill standee",
-    "points": 91,
+    "points": 126,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-metal-mosaic-standee-back.png",
     "xws": "metalmosaicstandeeback"
   },
   {
     "name": "pain conduit standee",
-    "points": 92,
+    "points": 127,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-pain-conduit-standee-front.png",
     "xws": "painconduitstandeefront"
   },
   {
     "name": "pain conduit standee",
-    "points": 93,
+    "points": 128,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-pain-conduit-standee-back.png",
     "xws": "painconduitstandeeback"
   },
   {
     "name": "shackles standee",
-    "points": 94,
+    "points": 129,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-pain-conduit-standee-front.png",
     "xws": "painconduitstandeefront"
   },
   {
     "name": "shackles standee",
-    "points": 95,
+    "points": 130,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-pain-conduit-standee-back.png",
     "xws": "painconduitstandeeback"
   },
   {
     "name": "pyroclast standee",
-    "points": 96,
+    "points": 131,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-pyroclast-standee-front.png",
     "xws": "pyroclaststandeefront"
   },
   {
     "name": "pyroclast standee",
-    "points": 97,
+    "points": 132,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-pyroclast-standee-back.png",
     "xws": "pyroclaststandeeback"
   },
   {
     "name": "meteor standee",
-    "points": 98,
+    "points": 133,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-pyroclast-standee-front.png",
     "xws": "pyroclaststandeefront"
   },
   {
     "name": "meteor standee",
-    "points": 99,
+    "points": 134,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-pyroclast-standee-back.png",
     "xws": "pyroclaststandeeback"
   },
   {
     "name": "shattersong standee",
-    "points": 100,
+    "points": 135,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-shattersong-standee-front.png",
     "xws": "shattersongstandeefront"
   },
   {
     "name": "shattersong standee",
-    "points": 101,
+    "points": 136,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-shattersong-standee-back.png",
     "xws": "shattersongstandeeback"
   },
   {
     "name": "shards standee",
-    "points": 102,
+    "points": 137,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-shattersong-standee-front.png",
     "xws": "shattersongstandeefront"
   },
   {
     "name": "shards standee",
-    "points": 103,
+    "points": 138,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-shattersong-standee-back.png",
     "xws": "shattersongstandeeback"
   },
   {
     "name": "snowdancer standee",
-    "points": 104,
+    "points": 139,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-snowdancer-standee-front.png",
     "xws": "snowdancerstandeefront"
   },
   {
     "name": "snowdancer standee",
-    "points": 105,
+    "points": 140,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-snowdancer-standee-back.png",
     "xws": "snowdancerstandeeback"
   },
   {
     "name": "snowflake standee",
-    "points": 106,
+    "points": 141,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-snowdancer-standee-front.png",
     "xws": "snowdancerstandeefront"
   },
   {
     "name": "snowflake standee",
-    "points": 107,
+    "points": 142,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-snowdancer-standee-back.png",
     "xws": "snowdancerstandeeback"
   },
   {
     "name": "trapper standee",
-    "points": 108,
+    "points": 143,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-trapper-standee-front.png",
     "xws": "trapperstandeefront"
   },
   {
     "name": "trapper standee",
-    "points": 109,
+    "points": 144,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-trapper-standee-back.png",
     "xws": "trapperstandeeback"
   },
   {
     "name": "trap standee",
-    "points": 110,
+    "points": 145,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-trapper-standee-front.png",
     "xws": "trapperstandeefront"
   },
   {
     "name": "trap standee",
-    "points": 111,
+    "points": 146,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/standees/fh-trapper-standee-back.png",
     "xws": "trapperstandeeback"
   },
   {
     "name": "2 white owls 1",
-    "points": 112,
+    "points": 147,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-2-white-owls-1-front.png",
     "xws": "summon2whiteowls1front"
   },
   {
     "name": "2 white owls 1",
-    "points": 113,
+    "points": 148,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-2-white-owls-1-back.png",
     "xws": "summon2whiteowls1back"
   },
   {
     "name": "2 white owls 2",
-    "points": 114,
+    "points": 149,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-2-white-owls-2-front.png",
     "xws": "summon2whiteowls2front"
   },
   {
     "name": "2 white owls 2",
-    "points": 115,
+    "points": 150,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-2-white-owls-2-back.png",
     "xws": "summon2whiteowls2back"
   },
   {
     "name": "animated claymore",
-    "points": 116,
+    "points": 151,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-animated-claymore-front.png",
     "xws": "summonanimatedclaymorefront"
   },
   {
     "name": "animated claymore",
-    "points": 117,
+    "points": 152,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-animated-claymore-back.png",
     "xws": "summonanimatedclaymoreback"
   },
   {
     "name": "arcing generator",
-    "points": 118,
+    "points": 153,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-arcing-generator-front.png",
     "xws": "summonarcinggeneratorfront"
   },
   {
     "name": "arcing generator",
-    "points": 119,
+    "points": 154,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-arcing-generator-back.png",
     "xws": "summonarcinggeneratorback"
   },
   {
     "name": "armored tank",
-    "points": 120,
+    "points": 155,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-armored-tank-front.png",
     "xws": "summonarmoredtankfront"
   },
   {
     "name": "armored tank",
-    "points": 121,
+    "points": 156,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-armored-tank-back.png",
     "xws": "summonarmoredtankback"
   },
   {
     "name": "banner of courage",
-    "points": 122,
+    "points": 157,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-courage-front.png",
     "xws": "summonbannerofcouragefront"
   },
   {
     "name": "banner of courage",
-    "points": 123,
+    "points": 158,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-courage-back.png",
     "xws": "summonbannerofcourageback"
   },
   {
     "name": "banner of doom",
-    "points": 124,
+    "points": 159,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-doom-front.png",
     "xws": "summonbannerofdoomfront"
   },
   {
     "name": "banner of doom",
-    "points": 125,
+    "points": 160,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-doom-back.png",
     "xws": "summonbannerofdoomback"
   },
   {
     "name": "banner of hope",
-    "points": 126,
+    "points": 161,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-hope-front.png",
     "xws": "summonbannerofhopefront"
   },
   {
     "name": "banner of hope",
-    "points": 127,
+    "points": 162,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-hope-back.png",
     "xws": "summonbannerofhopeback"
   },
   {
     "name": "banner of strength",
-    "points": 128,
+    "points": 163,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-strength-front.png",
     "xws": "summonbannerofstrengthfront"
   },
   {
     "name": "banner of strength",
-    "points": 129,
+    "points": 164,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-strength-back.png",
     "xws": "summonbannerofstrengthback"
   },
   {
     "name": "banner of valor",
-    "points": 130,
+    "points": 165,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-valor-front.png",
     "xws": "summonbannerofvalorfront"
   },
   {
     "name": "banner of valor",
-    "points": 131,
+    "points": 166,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-banner-of-valor-back.png",
     "xws": "summonbannerofvalorback"
   },
   {
     "name": "bombardier",
-    "points": 132,
+    "points": 167,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-bombardier-front.png",
     "xws": "summonbombardierfront"
   },
   {
     "name": "bombardier",
-    "points": 133,
+    "points": 168,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-bombardier-back.png",
     "xws": "summonbombardierback"
   },
   {
     "name": "bone horde",
-    "points": 134,
+    "points": 169,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-bone-horde-front.png",
     "xws": "summonbonehordefront"
   },
   {
     "name": "bone horde",
-    "points": 135,
+    "points": 170,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-bone-horde-back.png",
     "xws": "summonbonehordeback"
   },
   {
     "name": "dampening unit",
-    "points": 136,
+    "points": 171,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-dampening-unit-front.png",
     "xws": "summondampeningunitfront"
   },
   {
     "name": "dampening unit",
-    "points": 137,
+    "points": 172,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-dampening-unit-back.png",
     "xws": "summondampeningunitback"
   },
   {
     "name": "defense grid",
-    "points": 138,
+    "points": 173,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-defense-grid-front.png",
     "xws": "summondefensegridfront"
   },
   {
     "name": "defense grid",
-    "points": 139,
+    "points": 174,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-defense-grid-back.png",
     "xws": "summondefensegridback"
   },
   {
     "name": "flesh bomb",
-    "points": 140,
+    "points": 175,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-flesh-bomb-front.png",
     "xws": "summonfleshbombfront"
   },
   {
     "name": "flesh bomb",
-    "points": 141,
+    "points": 176,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-flesh-bomb-back.png",
     "xws": "summonfleshbombback"
   },
   {
     "name": "flesh fiend",
-    "points": 142,
+    "points": 177,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-flesh-fiend-front.png",
     "xws": "summonfleshfiendfront"
   },
   {
     "name": "flesh fiend",
-    "points": 143,
+    "points": 178,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-flesh-fiend-back.png",
     "xws": "summonfleshfiendback"
   },
   {
     "name": "jackal mech",
-    "points": 144,
+    "points": 179,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-jackal-mech-front.png",
     "xws": "summonjackalmechfront"
   },
   {
     "name": "jackal mech",
-    "points": 145,
+    "points": 180,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-jackal-mech-back.png",
     "xws": "summonjackalmechback"
   },
   {
     "name": "leaper",
-    "points": 146,
+    "points": 181,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-leaper-front.png",
     "xws": "summonleaperfront"
   },
   {
     "name": "leaper",
-    "points": 147,
+    "points": 182,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-leaper-back.png",
     "xws": "summonleaperback"
   },
   {
     "name": "longbowman",
-    "points": 148,
+    "points": 183,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-longbowman-front.png",
     "xws": "summonlongbowmanfront"
   },
   {
     "name": "longbowman",
-    "points": 149,
+    "points": 184,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-longbowman-back.png",
     "xws": "summonlongbowmanback"
   },
   {
     "name": "machine bolter",
-    "points": 150,
+    "points": 185,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-machine-bolter-front.png",
     "xws": "summonmachinebolterfront"
   },
   {
     "name": "machine bolter",
-    "points": 151,
+    "points": 186,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-machine-bolter-back.png",
     "xws": "summonmachinebolterback"
   },
   {
     "name": "polar cat",
-    "points": 152,
+    "points": 187,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-polar-cat-front.png",
     "xws": "summonpolarcatfront"
   },
   {
     "name": "polar cat",
-    "points": 153,
+    "points": 188,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-polar-cat-back.png",
     "xws": "summonpolarcatback"
   },
   {
     "name": "raging corpse",
-    "points": 154,
+    "points": 189,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-raging-corpse-front.png",
     "xws": "summonragingcorpsefront"
   },
   {
     "name": "raging corpse",
-    "points": 155,
+    "points": 190,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-raging-corpse-back.png",
     "xws": "summonragingcorpseback"
   },
   {
     "name": "reinforcement",
-    "points": 156,
+    "points": 191,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-reinforcement-front.png",
     "xws": "summonreinforcementfront"
   },
   {
     "name": "reinforcement",
-    "points": 157,
+    "points": 192,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-reinforcement-back.png",
     "xws": "summonreinforcementback"
   },
   {
     "name": "repair drone",
-    "points": 158,
+    "points": 193,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-repair-drone-front.png",
     "xws": "summonrepairdronefront"
   },
   {
     "name": "repair drone",
-    "points": 159,
+    "points": 194,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-repair-drone-back.png",
     "xws": "summonrepairdroneback"
   },
   {
     "name": "shadow beast",
-    "points": 160,
+    "points": 195,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shadow-beast-front.png",
     "xws": "summonshadowbeastfront"
   },
   {
     "name": "shadow beast",
-    "points": 161,
+    "points": 196,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shadow-beast-back.png",
     "xws": "summonshadowbeastback"
   },
   {
     "name": "shadow horror",
-    "points": 162,
+    "points": 197,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shadow-horror-front.png",
     "xws": "summonshadowhorrorfront"
   },
   {
     "name": "shadow horror",
-    "points": 163,
+    "points": 198,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shadow-horror-back.png",
     "xws": "summonshadowhorrorback"
   },
   {
     "name": "shaggy lure",
-    "points": 164,
+    "points": 199,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shaggy-lure-front.png",
     "xws": "summonshaggylurefront"
   },
   {
     "name": "shaggy lure",
-    "points": 165,
+    "points": 200,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shaggy-lure-back.png",
     "xws": "summonshaggylureback"
   },
   {
     "name": "shambling skeleton 1",
-    "points": 166,
+    "points": 201,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-1-front.png",
     "xws": "summonshamblingskeleton1front"
   },
   {
     "name": "shambling skeleton 1",
-    "points": 167,
+    "points": 202,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-1-back.png",
     "xws": "summonshamblingskeleton1back"
   },
   {
     "name": "shambling skeleton 2",
-    "points": 168,
+    "points": 203,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-2-front.png",
     "xws": "summonshamblingskeleton2front"
   },
   {
     "name": "shambling skeleton 2",
-    "points": 169,
+    "points": 204,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-2-back.png",
     "xws": "summonshamblingskeleton2back"
   },
   {
     "name": "shambling skeleton 3",
-    "points": 170,
+    "points": 205,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-3-front.png",
     "xws": "summonshamblingskeleton3front"
   },
   {
     "name": "shambling skeleton 3",
-    "points": 171,
+    "points": 206,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-3-back.png",
     "xws": "summonshamblingskeleton3back"
   },
   {
     "name": "shambling skeleton 4",
-    "points": 172,
+    "points": 207,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-4-front.png",
     "xws": "summonshamblingskeleton4front"
   },
   {
     "name": "shambling skeleton 4",
-    "points": 173,
+    "points": 208,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-4-back.png",
     "xws": "summonshamblingskeleton4back"
   },
   {
     "name": "shambling skeleton 5",
-    "points": 174,
+    "points": 209,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-5-front.png",
     "xws": "summonshamblingskeleton5front"
   },
   {
     "name": "shambling skeleton 5",
-    "points": 175,
+    "points": 210,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-5-back.png",
     "xws": "summonshamblingskeleton5back"
   },
   {
     "name": "shambling skeleton 6",
-    "points": 176,
+    "points": 211,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-6-front.png",
     "xws": "summonshamblingskeleton6front"
   },
   {
     "name": "shambling skeleton 6",
-    "points": 177,
+    "points": 212,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shambling-skeleton-6-back.png",
     "xws": "summonshamblingskeleton6back"
   },
   {
     "name": "shield spider",
-    "points": 178,
+    "points": 213,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shield-spider-front.png",
     "xws": "summonshieldspiderfront"
   },
   {
     "name": "shield spider",
-    "points": 179,
+    "points": 214,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-shield-spider-back.png",
     "xws": "summonshieldspiderback"
   },
   {
     "name": "skeleton sorcerer",
-    "points": 180,
+    "points": 215,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-skeleton-sorcerer-front.png",
     "xws": "summonskeletonsorcererfront"
   },
   {
     "name": "skeleton sorcerer",
-    "points": 181,
+    "points": 216,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-skeleton-sorcerer-back.png",
     "xws": "summonskeletonsorcererback"
   },
   {
     "name": "sledge driver",
-    "points": 182,
+    "points": 217,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-sledge-driver-front.png",
     "xws": "summonsledgedriverfront"
   },
   {
     "name": "sledge driver",
-    "points": 183,
+    "points": 218,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-sledge-driver-back.png",
     "xws": "summonsledgedriverback"
   },
   {
     "name": "sniper turret",
-    "points": 184,
+    "points": 219,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-sniper-turret-front.png",
     "xws": "summonsniperturretfront"
   },
   {
     "name": "sniper turret",
-    "points": 185,
+    "points": 220,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-sniper-turret-back.png",
     "xws": "summonsniperturretback"
   },
   {
     "name": "snow fox",
-    "points": 186,
+    "points": 221,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-snow-fox-front.png",
     "xws": "summonsnowfoxfront"
   },
   {
     "name": "snow fox",
-    "points": 187,
+    "points": 222,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-snow-fox-back.png",
     "xws": "summonsnowfoxback"
   },
   {
     "name": "spiritbound falchion",
-    "points": 188,
+    "points": 223,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-spiritbound-falchion-front.png",
     "xws": "summonspiritboundfalchionfront"
   },
   {
     "name": "spiritbound falchion",
-    "points": 189,
+    "points": 224,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-spiritbound-falchion-back.png",
     "xws": "summonspiritboundfalchionback"
   },
   {
     "name": "stitched atrocity",
-    "points": 190,
+    "points": 225,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-stitched-atrocity-front.png",
     "xws": "summonstitchedatrocityfront"
   },
   {
     "name": "stitched atrocity",
-    "points": 191,
+    "points": 226,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-stitched-atrocity-back.png",
     "xws": "summonstitchedatrocityback"
   },
   {
     "name": "sword propeller",
-    "points": 192,
+    "points": 227,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-sword-propeller-front.png",
     "xws": "summonswordpropellerfront"
   },
   {
     "name": "sword propeller",
-    "points": 193,
+    "points": 228,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-sword-propeller-back.png",
     "xws": "summonswordpropellerback"
   },
   {
     "name": "torch bearer",
-    "points": 194,
+    "points": 229,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-torch-bearer-front.png",
     "xws": "summontorchbearerfront"
   },
   {
     "name": "torch bearer",
-    "points": 195,
+    "points": 230,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-torch-bearer-back.png",
     "xws": "summontorchbearerback"
   },
   {
     "name": "toxin distributor",
-    "points": 196,
+    "points": 231,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-toxin-distributor-front.png",
     "xws": "summontoxindistributorfront"
   },
   {
     "name": "toxin distributor",
-    "points": 197,
+    "points": 232,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-toxin-distributor-back.png",
     "xws": "summontoxindistributorback"
   },
   {
     "name": "trained falcon",
-    "points": 198,
+    "points": 233,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-trained-falcon-front.png",
     "xws": "summontrainedfalconfront"
   },
   {
     "name": "trained falcon",
-    "points": 199,
+    "points": 234,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-trained-falcon-back.png",
     "xws": "summontrainedfalconback"
   },
   {
     "name": "trapping unit",
-    "points": 200,
+    "points": 235,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-trapping-unit-front.png",
     "xws": "summontrappingunitfront"
   },
   {
     "name": "trapping unit",
-    "points": 201,
+    "points": 236,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-trapping-unit-back.png",
     "xws": "summontrappingunitback"
   },
   {
     "name": "wraith",
-    "points": 202,
+    "points": 237,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-wraith-front.png",
     "xws": "summonwraithfront"
   },
   {
     "name": "wraith",
-    "points": 203,
+    "points": 238,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/summons/fh-summon-wraith-back.png",
     "xws": "summonwraithback"
   },
   {
     "name": "banner spear character token",
-    "points": 204,
+    "points": 239,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-banner-spear-character-token.png",
     "xws": "bannerspearcharactertokenfront"
   },
   {
     "name": "banner spear initiative order token",
-    "points": 205,
+    "points": 240,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-banner-spear-initiative-order-token-front.png",
     "xws": "bannerspearinitiativeordertokenfront"
   },
   {
     "name": "banner spear initiative order token",
-    "points": 206,
+    "points": 241,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-banner-spear-initiative-order-token-back.png",
     "xws": "bannerspearinitiativeordertokenback"
   },
   {
     "name": "blinkblade character token",
-    "points": 207,
+    "points": 242,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-blinkblade-character-token.png",
     "xws": "blinkbladecharactertoken"
   },
   {
     "name": "blinkblade initiative order token",
-    "points": 208,
+    "points": 243,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-blinkblade-initiative-order-token-front.png",
     "xws": "blinkbladeinitiativeordertokenfront"
   },
   {
     "name": "blinkblade initiative order token",
-    "points": 209,
+    "points": 244,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-blinkblade-initiative-order-token-back.png",
     "xws": "blinkbladeinitiativeordertokenback"
   },
   {
     "name": "blinkblade time token",
-    "points": 210,
+    "points": 245,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-blinkblade-time-token.png",
     "xws": "blinkbladetimetoken"
   },
   {
     "name": "boneshaper character token",
-    "points": 211,
+    "points": 246,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-boneshaper-character-token.png",
     "xws": "boneshapercharactertoken"
   },
   {
     "name": "boneshaper initiative order token",
-    "points": 212,
+    "points": 247,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-boneshaper-initiative-order-token-front.png",
     "xws": "boneshaperinitiativeordertokenfront"
   },
   {
     "name": "boneshaper initiative order token",
-    "points": 213,
+    "points": 248,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-boneshaper-initiative-order-token-back.png",
     "xws": "boneshaperinitiativeordertokenback"
   },
   {
     "name": "boneshaper shambling skeleton tracking token 1",
-    "points": 214,
+    "points": 249,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-boneshaper-shambling-skeleton-tracking-token-1.png",
     "xws": "boneshapershamblingskeletontrackingtoken1"
   },
   {
     "name": "boneshaper shambling skeleton tracking token 2",
-    "points": 215,
+    "points": 250,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-boneshaper-shambling-skeleton-tracking-token-2.png",
     "xws": "boneshapershamblingskeletontrackingtoken2"
   },
   {
     "name": "boneshaper shambling skeleton tracking token 3",
-    "points": 216,
+    "points": 251,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-boneshaper-shambling-skeleton-tracking-token-3.png",
     "xws": "boneshapershamblingskeletontrackingtoken3"
   },
   {
     "name": "boneshaper shambling skeleton tracking token 4",
-    "points": 217,
+    "points": 252,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-boneshaper-shambling-skeleton-tracking-token-4.png",
     "xws": "boneshapershamblingskeletontrackingtoken4"
   },
   {
     "name": "boneshaper shambling skeleton tracking token 5",
-    "points": 218,
+    "points": 253,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-boneshaper-shambling-skeleton-tracking-token-5.png",
     "xws": "boneshapershamblingskeletontrackingtoken5"
   },
   {
     "name": "boneshaper shambling skeleton tracking token 6",
-    "points": 219,
+    "points": 254,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-boneshaper-shambling-skeleton-tracking-token-6.png",
     "xws": "boneshapershamblingskeletontrackingtoken6"
   },
   {
     "name": "crashing tide character token",
-    "points": 220,
+    "points": 255,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-crashing-tide-character-token.png",
     "xws": "crashingtidecharactertoken"
   },
   {
     "name": "crashing tide initiative order token",
-    "points": 221,
+    "points": 256,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-crashing-tide-initiative-order-token-front.png",
     "xws": "crashingtideinitiativeordertokenfront"
   },
   {
     "name": "crashing tide initiative order token",
-    "points": 222,
+    "points": 257,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-crashing-tide-initiative-order-token-back.png",
     "xws": "crashingtideinitiativeordertokenback"
   },
   {
     "name": "coral character token",
-    "points": 223,
+    "points": 258,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-crashing-tide-character-token.png",
     "xws": "crashingtidecharactertoken"
   },
   {
     "name": "coral initiative order token",
-    "points": 224,
+    "points": 259,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-crashing-tide-initiative-order-token-front.png",
     "xws": "crashingtideinitiativeordertokenfront"
   },
   {
     "name": "coral initiative order token",
-    "points": 225,
+    "points": 260,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-crashing-tide-initiative-order-token-back.png",
     "xws": "crashingtideinitiativeordertokenback"
   },
   {
     "name": "deathwalker character token",
-    "points": 226,
+    "points": 261,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deathwalker-character-token.png",
     "xws": "deathwalkercharactertoken"
   },
   {
     "name": "deathwalker initiative order token",
-    "points": 227,
+    "points": 262,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deathwalker-initiative-order-token-front.png",
     "xws": "deathwalkerinitiativeordertokenfront"
   },
   {
     "name": "deathwalker initiative order token",
-    "points": 228,
+    "points": 263,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deathwalker-initiative-order-token-back.png",
     "xws": "deathwalkerinitiativeordertokenback"
   },
   {
     "name": "deathwalker shadow token",
-    "points": 229,
+    "points": 264,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deathwalker-shadow-token.png",
     "xws": "deathwalkershadowtoken"
   },
   {
     "name": "deepwraith character token",
-    "points": 230,
+    "points": 265,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deepwraith-character-token.png",
     "xws": "deepwraithcharactertoken"
   },
   {
     "name": "deepwraith initiative order token",
-    "points": 231,
+    "points": 266,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deepwraith-initiative-order-token-front.png",
     "xws": "deepwraithinitiativeordertokenfront"
   },
   {
     "name": "deepwraith initiative order token",
-    "points": 232,
+    "points": 267,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deepwraith-initiative-order-token-back.png",
     "xws": "deepwraithinitiativeordertokenback"
   },
   {
     "name": "deepwraith trophy token",
-    "points": 233,
+    "points": 268,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deepwraith-trophy-token.png",
     "xws": "deepwraithtrophytoken"
   },
   {
     "name": "kelp character token",
-    "points": 234,
+    "points": 269,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deepwraith-character-token.png",
     "xws": "deepwraithcharactertoken"
   },
   {
     "name": "kelp initiative order token",
-    "points": 235,
+    "points": 270,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deepwraith-initiative-order-token-front.png",
     "xws": "deepwraithinitiativeordertokenfront"
   },
   {
     "name": "kelp initiative order token",
-    "points": 236,
+    "points": 271,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deepwraith-initiative-order-token-back.png",
     "xws": "deepwraithinitiativeordertokenback"
   },
   {
     "name": "kelp trophy token",
-    "points": 237,
+    "points": 272,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-deepwraith-trophy-token.png",
     "xws": "deepwraithtrophytoken"
   },
   {
     "name": "drifter character token",
-    "points": 238,
+    "points": 273,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-drifter-character-token.png",
     "xws": "driftercharactertoken"
   },
   {
     "name": "drifter initiative order token",
-    "points": 239,
+    "points": 274,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-drifter-initiative-order-token-front.png",
     "xws": "drifterinitiativeordertokenfront"
   },
   {
     "name": "drifter initiative order token",
-    "points": 240,
+    "points": 275,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-drifter-initiative-order-token-back.png",
     "xws": "drifterinitiativeordertokenback"
   },
   {
     "name": "frozen fist character token",
-    "points": 241,
+    "points": 276,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-frozen-fist-character-token.png",
     "xws": "frozenfistcharactertoken"
   },
   {
     "name": "frozen fist initiative order token",
-    "points": 242,
+    "points": 277,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-frozen-fist-initiative-order-token-front.png",
     "xws": "frozenfistinitiativeordertokenfront"
   },
   {
     "name": "frozen fist initiative order token",
-    "points": 243,
+    "points": 278,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-frozen-fist-initiative-order-token-back.png",
     "xws": "frozenfistinitiativeordertokenback"
   },
   {
     "name": "fist character token",
-    "points": 244,
+    "points": 279,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-frozen-fist-character-token.png",
     "xws": "frozenfistcharactertoken"
   },
   {
     "name": "fist initiative order token",
-    "points": 245,
+    "points": 280,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-frozen-fist-initiative-order-token-front.png",
     "xws": "frozenfistinitiativeordertokenfront"
   },
   {
     "name": "fist initiative order token",
-    "points": 246,
+    "points": 281,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-frozen-fist-initiative-order-token-back.png",
     "xws": "frozenfistinitiativeordertokenback"
   },
   {
     "name": "geminate character token",
-    "points": 247,
+    "points": 282,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-geminate-character-token.png",
     "xws": "geminatecharactertoken"
   },
   {
     "name": "geminate initiative order token",
-    "points": 248,
+    "points": 283,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-geminate-initiative-order-token-front.png",
     "xws": "geminateinitiativeordertokenfront"
   },
   {
     "name": "geminate initiative order token",
-    "points": 249,
+    "points": 284,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-geminate-initiative-order-token-back.png",
     "xws": "geminateinitiativeordertokenback"
   },
   {
     "name": "geminate melee token",
-    "points": 250,
+    "points": 285,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-geminate-melee-token.png",
     "xws": "geminatemeleetoken"
   },
   {
     "name": "geminate ranged token",
-    "points": 251,
+    "points": 286,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-geminate-ranged-token.png",
     "xws": "geminaterangedtoken"
   },
   {
     "name": "hive character token",
-    "points": 252,
+    "points": 287,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-hive-character-token.png",
     "xws": "hivecharactertoken"
   },
   {
     "name": "hive initiative order token",
-    "points": 253,
+    "points": 288,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-hive-initiative-order-token-front.png",
     "xws": "hiveinitiativeordertokenfront"
   },
   {
     "name": "hive initiative order token",
-    "points": 254,
+    "points": 289,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-hive-initiative-order-token-back.png",
     "xws": "hiveinitiativeordertokenback"
   },
   {
     "name": "hive mode token",
-    "points": 255,
+    "points": 290,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-hive-mode-token.png",
     "xws": "hivemodetoken"
   },
   {
     "name": "prism character token",
-    "points": 256,
+    "points": 291,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-hive-character-token.png",
     "xws": "hivecharactertoken"
   },
   {
     "name": "prism initiative order token",
-    "points": 257,
+    "points": 292,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-hive-initiative-order-token-front.png",
     "xws": "hiveinitiativeordertokenfront"
   },
   {
     "name": "prism initiative order token",
-    "points": 258,
+    "points": 293,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-hive-initiative-order-token-back.png",
     "xws": "hiveinitiativeordertokenback"
   },
   {
     "name": "prism mode token",
-    "points": 259,
+    "points": 294,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-hive-mode-token.png",
     "xws": "hivemodetoken"
   },
   {
     "name": "infuser character token",
-    "points": 260,
+    "points": 295,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-infuser-character-token.png",
     "xws": "infusercharactertoken"
   },
   {
     "name": "infuser initiative order token",
-    "points": 261,
+    "points": 296,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-infuser-initiative-order-token-front.png",
     "xws": "infuserinitiativeordertokenfront"
   },
   {
     "name": "infuser initiative order token",
-    "points": 262,
+    "points": 297,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-infuser-initiative-order-token-back.png",
     "xws": "infuserinitiativeordertokenback"
   },
   {
     "name": "astral character token",
-    "points": 263,
+    "points": 298,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-infuser-character-token.png",
     "xws": "infusercharactertoken"
   },
   {
     "name": "astral initiative order token",
-    "points": 264,
+    "points": 299,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-infuser-initiative-order-token-front.png",
     "xws": "infuserinitiativeordertokenfront"
   },
   {
     "name": "astral initiative order token",
-    "points": 265,
+    "points": 300,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-infuser-initiative-order-token-back.png",
     "xws": "infuserinitiativeordertokenback"
   },
   {
     "name": "metal mosaic character token",
-    "points": 266,
+    "points": 301,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-metal-mosaic-character-token.png",
     "xws": "metalmosaiccharactertoken"
   },
   {
     "name": "metal mosaic initiative order token",
-    "points": 267,
+    "points": 302,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-metal-mosaic-initiative-order-token-front.png",
     "xws": "metalmosaicinitiativeordertokenfront"
   },
   {
     "name": "metal mosaic initiative order token",
-    "points": 268,
+    "points": 303,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-metal-mosaic-initiative-order-token-back.png",
     "xws": "metalmosaicinitiativeordertokenback"
   },
   {
     "name": "metal mosaic pressure token",
-    "points": 269,
+    "points": 304,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-metal-mosaic-pressure-token.png",
     "xws": "metalmosaicpressuretoken"
   },
   {
     "name": "drill character token",
-    "points": 270,
+    "points": 305,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-metal-mosaic-character-token.png",
     "xws": "metalmosaiccharactertoken"
   },
   {
     "name": "drill initiative order token",
-    "points": 271,
+    "points": 306,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-metal-mosaic-initiative-order-token-front.png",
     "xws": "metalmosaicinitiativeordertokenfront"
   },
   {
     "name": "drill initiative order token",
-    "points": 272,
+    "points": 307,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-metal-mosaic-initiative-order-token-back.png",
     "xws": "metalmosaicinitiativeordertokenback"
   },
   {
     "name": "drill pressure token",
-    "points": 273,
+    "points": 308,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-metal-mosaic-pressure-token.png",
     "xws": "metalmosaicpressuretoken"
   },
   {
     "name": "pain conduit character token",
-    "points": 274,
+    "points": 309,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pain-conduit-character-token.png",
     "xws": "painconduitcharactertoken"
   },
   {
     "name": "pain conduit initiative order token",
-    "points": 275,
+    "points": 310,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pain-conduit-initiative-order-token-front.png",
     "xws": "painconduitinitiativeordertokenfront"
   },
   {
     "name": "pain conduit initiative order token",
-    "points": 276,
+    "points": 311,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pain-conduit-initiative-order-token-back.png",
     "xws": "painconduitinitiativeordertokenback"
   },
   {
     "name": "shackles character token",
-    "points": 277,
+    "points": 312,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pain-conduit-character-token.png",
     "xws": "painconduitcharactertoken"
   },
   {
     "name": "shackles initiative order token",
-    "points": 278,
+    "points": 313,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pain-conduit-initiative-order-token-front.png",
     "xws": "painconduitinitiativeordertokenfront"
   },
   {
     "name": "shackles initiative order token",
-    "points": 279,
+    "points": 314,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pain-conduit-initiative-order-token-back.png",
     "xws": "painconduitinitiativeordertokenback"
   },
   {
     "name": "pyroclast character token",
-    "points": 280,
+    "points": 315,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pyroclast-character-token.png",
     "xws": "pyroclastcharactertoken"
   },
   {
     "name": "pyroclast hazardous terrain token",
-    "points": 281,
+    "points": 316,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pyroclast-hazardous-terrain-token.png",
     "xws": "pyroclasthazardousterraintoken"
   },
   {
     "name": "pyroclast initiative order token",
-    "points": 282,
+    "points": 317,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pyroclast-initiative-order-token-front.png",
     "xws": "pyroclastinitiativeordertokenfront"
   },
   {
     "name": "pyroclast initiative order token",
-    "points": 283,
+    "points": 318,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pyroclast-initiative-order-token-back.png",
     "xws": "pyroclastinitiativeordertokenback"
   },
   {
     "name": "meteor character token",
-    "points": 284,
+    "points": 319,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pyroclast-character-token.png",
     "xws": "pyroclastcharactertoken"
   },
   {
     "name": "meteor hazardous terrain token",
-    "points": 285,
+    "points": 320,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pyroclast-hazardous-terrain-token.png",
     "xws": "pyroclasthazardousterraintoken"
   },
   {
     "name": "meteor initiative order token",
-    "points": 286,
+    "points": 321,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pyroclast-initiative-order-token-front.png",
     "xws": "pyroclastinitiativeordertokenfront"
   },
   {
     "name": "meteor initiative order token",
-    "points": 287,
+    "points": 322,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-pyroclast-initiative-order-token-back.png",
     "xws": "pyroclastinitiativeordertokenback"
   },
   {
     "name": "shattersong character token",
-    "points": 288,
+    "points": 323,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-shattersong-character-token.png",
     "xws": "shattersongcharactertoken"
   },
   {
     "name": "shattersong initiative order token",
-    "points": 289,
+    "points": 324,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-shattersong-initiative-order-token-front.png",
     "xws": "shattersonginitiativeordertokenfront"
   },
   {
     "name": "shattersong initiative order token",
-    "points": 290,
+    "points": 325,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-shattersong-initiative-order-token-back.png",
     "xws": "shattersonginitiativeordertokenback"
   },
   {
     "name": "shattersong resonance token",
-    "points": 291,
+    "points": 326,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-shattersong-resonance-token.png",
     "xws": "shattersongresonancetoken"
   },
   {
     "name": "shards character token",
-    "points": 292,
+    "points": 327,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-shattersong-character-token.png",
     "xws": "shattersongcharactertoken"
   },
   {
     "name": "shards initiative order token",
-    "points": 293,
+    "points": 328,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-shattersong-initiative-order-token-front.png",
     "xws": "shattersonginitiativeordertokenfront"
   },
   {
     "name": "shards initiative order token",
-    "points": 294,
+    "points": 329,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-shattersong-initiative-order-token-back.png",
     "xws": "shattersonginitiativeordertokenback"
   },
   {
     "name": "shards resonance token",
-    "points": 295,
+    "points": 330,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-shattersong-resonance-token.png",
     "xws": "shattersongresonancetoken"
   },
   {
     "name": "snowdancer character token",
-    "points": 296,
+    "points": 331,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-snowdancer-character-token.png",
     "xws": "snowdancercharactertoken"
   },
   {
     "name": "snowdancer initiative order token",
-    "points": 297,
+    "points": 332,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-snowdancer-initiative-order-token-front.png",
     "xws": "snowdancerinitiativeordertokenfront"
   },
   {
     "name": "snowdancer initiative order token",
-    "points": 298,
+    "points": 333,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-snowdancer-initiative-order-token-back.png",
     "xws": "snowdancerinitiativeordertokenback"
   },
   {
     "name": "snowflake character token",
-    "points": 299,
+    "points": 334,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-snowdancer-character-token.png",
     "xws": "snowdancercharactertoken"
   },
   {
     "name": "snowflake initiative order token",
-    "points": 300,
+    "points": 335,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-snowdancer-initiative-order-token-front.png",
     "xws": "snowdancerinitiativeordertokenfront"
   },
   {
     "name": "snowflake initiative order token",
-    "points": 301,
+    "points": 336,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-snowdancer-initiative-order-token-back.png",
     "xws": "snowdancerinitiativeordertokenback"
   },
   {
     "name": "trapper character token",
-    "points": 302,
+    "points": 337,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-character-token.png",
     "xws": "trappercharactertoken"
   },
   {
     "name": "trapper initiative order token",
-    "points": 303,
+    "points": 338,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-initiative-order-token-front.png",
     "xws": "trapperinitiativeordertokenfront"
   },
   {
     "name": "trapper initiative order token",
-    "points": 304,
+    "points": 339,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-initiative-order-token-back.png",
     "xws": "trapperinitiativeordertokenback"
   },
   {
     "name": "trapper negative trap token",
-    "points": 305,
+    "points": 340,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-negative-trap-token.png",
     "xws": "trappernegativetraptoken"
   },
   {
     "name": "trapper positive trap token",
-    "points": 306,
+    "points": 341,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-positive-trap-token.png",
     "xws": "trapperpositivetraptoken"
   },
   {
     "name": "trap character token",
-    "points": 307,
+    "points": 342,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-character-token.png",
     "xws": "trappercharactertoken"
   },
   {
     "name": "trap initiative order token",
-    "points": 308,
+    "points": 343,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-initiative-order-token-front.png",
     "xws": "trapperinitiativeordertokenfront"
   },
   {
     "name": "trap initiative order token",
-    "points": 309,
+    "points": 344,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-initiative-order-token-back.png",
     "xws": "trapperinitiativeordertokenback"
   },
   {
     "name": "trap negative trap token",
-    "points": 310,
+    "points": 345,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-negative-trap-token.png",
     "xws": "trappernegativetraptoken"
   },
   {
     "name": "trap positive trap token",
-    "points": 311,
+    "points": 346,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/characters/tokens/fh-trapper-positive-trap-token.png",
     "xws": "trapperpositivetraptoken"
   },
   {
     "name": "21 inn envelope",
-    "points": 312,
+    "points": 347,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-21-inn-envelope.png",
     "xws": "21innenvelope"
   },
   {
     "name": "24 garden envelope",
-    "points": 313,
+    "points": 348,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-24-garden-envelope.png",
     "xws": "24gardenenvelope"
   },
   {
     "name": "37 trading post envelope",
-    "points": 314,
+    "points": 349,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-37-trading-post-envelope.png",
     "xws": "37tradingpostenvelope"
   },
   {
     "name": "39 jeweler envelope",
-    "points": 315,
+    "points": 350,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-39-jeweler-envelope.png",
     "xws": "39jewelerenvelope"
   },
   {
     "name": "42 temple envelope",
-    "points": 316,
+    "points": 351,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-42-temple-envelope.png",
     "xws": "42templeenvelope"
   },
   {
     "name": "44 enhancer envelope",
-    "points": 317,
+    "points": 352,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-44-enhancer-envelope.png",
     "xws": "44enhancerenvelope"
   },
   {
     "name": "65 metal depot envelope",
-    "points": 318,
+    "points": 353,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-65-metal-depot-envelope.png",
     "xws": "65metaldepotenvelope"
   },
   {
     "name": "67 lumber depot envelope",
-    "points": 319,
+    "points": 354,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-67-lumber-depot-envelope.png",
     "xws": "67lumberdepotenvelope"
   },
   {
     "name": "72 hide depot envelope",
-    "points": 320,
+    "points": 355,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-72-hide-depot-envelope.png",
     "xws": "72hidedepotenvelope"
   },
   {
     "name": "74 tavern envelope",
-    "points": 321,
+    "points": 356,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-74-tavern-envelope.png",
     "xws": "74tavernenvelope"
   },
   {
     "name": "81 hall of revelry envelope",
-    "points": 322,
+    "points": 357,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-81-hall-of-revelry-envelope.png",
     "xws": "81hallofrevelryenvelope"
   },
   {
     "name": "83 library envelope",
-    "points": 323,
+    "points": 358,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-83-library-envelope.png",
     "xws": "83libraryenvelope"
   },
   {
     "name": "85 carpenter envelope",
-    "points": 324,
+    "points": 359,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-85-carpenter-envelope.png",
     "xws": "85carpenterenvelope"
   },
   {
     "name": "88 stables envelope",
-    "points": 325,
+    "points": 360,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-88-stables-envelope.png",
     "xws": "88stablesenvelope"
   },
   {
     "name": "90 town hall envelope",
-    "points": 326,
+    "points": 361,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-90-town-hall-envelope.png",
     "xws": "90townhallenvelope"
   },
   {
     "name": "a hall of revelry level 2 envelope",
-    "points": 327,
+    "points": 362,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-a-hall-of-revelry-level-2-envelope.png",
     "xws": "ahallofrevelrylevel2envelope"
   },
   {
     "name": "b boat envelope",
-    "points": 328,
+    "points": 363,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/envelopes/fh-b-boat-envelope.png",
     "xws": "bboatenvelope"
   },
   {
     "name": "game box top",
-    "points": 329,
+    "points": 364,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/game-box/fh-game-box-top.png",
     "xws": "gameboxtop"
   },
   {
     "name": "game box top longside",
-    "points": 330,
+    "points": 365,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/game-box/fh-game-box-top-longside.png",
     "xws": "gameboxtoplongside"
   },
   {
     "name": "game box top shortside",
-    "points": 331,
+    "points": 366,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/game-box/fh-game-box-top-shortside.png",
     "xws": "gameboxtopshortside"
   },
   {
     "name": "game box bottom",
-    "points": 332,
+    "points": 367,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/game-box/fh-game-box-bottom.png",
     "xws": "gameboxbottom"
   },
   {
     "name": "game box bottom longside",
-    "points": 333,
+    "points": 368,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/game-box/fh-game-box-bottom-longside.png",
     "xws": "gameboxbottomlongside"
   },
   {
     "name": "game box bottom shortside",
-    "points": 334,
+    "points": 369,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/game-box/fh-game-box-bottom-shortside.png",
     "xws": "gameboxbottom-shortside"
   },
   {
     "name": "2x icon",
-    "points": 335,
+    "points": 370,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/attack-modifiers/fh-2x-bw-icon.png",
     "xws": "2xbwicon"
   },
   {
     "name": "minus 1 icon",
-    "points": 336,
+    "points": 371,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/attack-modifiers/fh-minus-1-bw-icon.png",
     "xws": "minus1bwicon"
   },
   {
     "name": "minus 1 modifier card icon",
-    "points": 337,
+    "points": 372,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/attack-modifiers/fh-minus-1-modifier-card-bw-icon.png",
     "xws": "minus1modifiercardbwicon"
   },
   {
     "name": "minus 2 icon",
-    "points": 338,
+    "points": 373,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/attack-modifiers/fh-minus-2-bw-icon.png",
     "xws": "minus2bwicon"
   },
   {
     "name": "plus 0 icon",
-    "points": 339,
+    "points": 374,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/attack-modifiers/fh-plus-0-bw-icon.png",
     "xws": "plus0bwicon"
   },
   {
     "name": "plus 1 icon",
-    "points": 340,
+    "points": 375,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/attack-modifiers/fh-plus-1-bw-icon.png",
     "xws": "plus1bwicon"
   },
   {
     "name": "plus 2 icon",
-    "points": 341,
+    "points": 376,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/attack-modifiers/fh-plus-2-bw-icon.png",
     "xws": "plus2bwicon"
   },
   {
     "name": "plus 3 icon",
-    "points": 342,
+    "points": 377,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/attack-modifiers/fh-plus-3-bw-icon.png",
     "xws": "plus3bwicon"
   },
   {
     "name": "plus 4 icon",
-    "points": 343,
+    "points": 378,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/attack-modifiers/fh-plus-4-bw-icon.png",
     "xws": "plus4bwicon"
   },
   {
     "name": "banner spear icon",
-    "points": 344,
+    "points": 379,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-banner-spear-bw-icon.png",
     "xws": "bannerspearbwicon"
   },
   {
     "name": "blinkblade icon",
-    "points": 345,
+    "points": 380,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-blinkblade-bw-icon.png",
     "xws": "blinkbladebwicon"
   },
   {
     "name": "boneshaper icon",
-    "points": 346,
+    "points": 381,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-boneshaper-bw-icon.png",
     "xws": "boneshaperbwicon"
   },
   {
     "name": "crashing tide icon",
-    "points": 347,
+    "points": 382,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-crashing-tide-bw-icon.png",
     "xws": "crashingtidebwicon"
   },
   {
     "name": "coral icon",
-    "points": 348,
+    "points": 383,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-crashing-tide-bw-icon.png",
     "xws": "crashingtidebwicon"
   },
   {
     "name": "deathwalker icon",
-    "points": 349,
+    "points": 384,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-deathwalker-bw-icon.png",
     "xws": "deathwalkerbwicon"
   },
   {
     "name": "deepwraith icon",
-    "points": 350,
+    "points": 385,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-deepwraith-bw-icon.png",
     "xws": "deepwraithbwicon"
   },
   {
     "name": "kelp icon",
-    "points": 351,
+    "points": 386,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-deepwraith-bw-icon.png",
     "xws": "deepwraithbwicon"
   },
   {
     "name": "drifter icon",
-    "points": 352,
+    "points": 387,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-drifter-bw-icon.png",
     "xws": "drifterbwicon"
   },
   {
     "name": "frozen fist icon",
-    "points": 353,
+    "points": 388,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-frozen-fist-bw-icon.png",
     "xws": "frozenfistbwicon"
   },
   {
     "name": "fist icon",
-    "points": 354,
+    "points": 389,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-frozen-fist-bw-icon.png",
     "xws": "frozenfistbwicon"
   },
   {
     "name": "geminate icon",
-    "points": 355,
+    "points": 390,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-geminate-bw-icon.png",
     "xws": "geminatebwicon"
   },
   {
     "name": "hive icon",
-    "points": 356,
+    "points": 391,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-hive-bw-icon.png",
     "xws": "hivebwicon"
   },
   {
     "name": "prism icon",
-    "points": 357,
+    "points": 392,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-hive-bw-icon.png",
     "xws": "hivebwicon"
   },
   {
     "name": "infuser icon",
-    "points": 358,
+    "points": 393,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-infuser-bw-icon.png",
     "xws": "infuserbwicon"
   },
   {
     "name": "astral icon",
-    "points": 359,
+    "points": 394,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-infuser-bw-icon.png",
     "xws": "infuserbwicon"
   },
   {
     "name": "metal mosaic icon",
-    "points": 360,
+    "points": 395,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-metal-mosaic-bw-icon.png",
     "xws": "metalmosaicbwicon"
   },
   {
     "name": "drill icon",
-    "points": 361,
+    "points": 396,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-metal-mosaic-bw-icon.png",
     "xws": "metalmosaicbwicon"
   },
   {
     "name": "pain conduit icon",
-    "points": 362,
+    "points": 397,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-pain-conduit-bw-icon.png",
     "xws": "painconduitbwicon"
   },
   {
     "name": "shackles icon",
-    "points": 363,
+    "points": 398,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-pain-conduit-bw-icon.png",
     "xws": "painconduitbwicon"
   },
   {
     "name": "pyroclast icon",
-    "points": 364,
+    "points": 399,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-pyroclast-bw-icon.png",
     "xws": "pyroclastbwicon"
   },
   {
     "name": "meteor icon",
-    "points": 365,
+    "points": 400,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-pyroclast-bw-icon.png",
     "xws": "pyroclastbwicon"
   },
   {
     "name": "shattersong icon",
-    "points": 366,
+    "points": 401,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-shattersong-bw-icon.png",
     "xws": "shattersongbwicon"
   },
   {
     "name": "shards icon",
-    "points": 367,
+    "points": 402,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-shattersong-bw-icon.png",
     "xws": "shattersongbwicon"
   },
   {
     "name": "snowdancer icon",
-    "points": 368,
+    "points": 403,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-snowdancer-bw-icon.png",
     "xws": "snowdancerbwicon"
   },
   {
     "name": "snowflake icon",
-    "points": 369,
+    "points": 404,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-snowdancer-bw-icon.png",
     "xws": "snowdancerbwicon"
   },
   {
     "name": "trapper icon",
-    "points": 370,
+    "points": 405,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-trapper-bw-icon.png",
     "xws": "trapperbwicon"
   },
   {
     "name": "trap icon",
-    "points": 371,
+    "points": 406,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/characters/fh-trapper-bw-icon.png",
     "xws": "trapperbwicon"
   },
   {
     "name": "blinkblade fast icon",
-    "points": 372,
+    "points": 407,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-blinkblade-fast-bw-icon.png",
     "xws": "blinkbladefastbwicon"
   },
   {
     "name": "blinkblade fast icon",
-    "points": 373,
+    "points": 408,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-blinkblade-fast-color-icon.png",
     "xws": "blinkbladefastcoloricon"
   },
   {
     "name": "blinkblade slow icon",
-    "points": 374,
+    "points": 409,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-blinkblade-slow-bw-icon.png",
     "xws": "blinkbladeslowbwicon"
   },
   {
     "name": "blinkblade slow icon",
-    "points": 375,
+    "points": 410,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-blinkblade-slow-color-icon.png",
     "xws": "blinkbladeslowcoloricon"
   },
   {
     "name": "blinkblade time icon",
-    "points": 376,
+    "points": 411,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-blinkblade-time-bw-icon.png",
     "xws": "blinkbladetimebwicon"
   },
   {
     "name": "blinkblade time icon",
-    "points": 377,
+    "points": 412,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-blinkblade-time-color-icon.png",
     "xws": "blinkbladetimecoloricon"
   },
   {
     "name": "crashing tide tide icon",
-    "points": 378,
+    "points": 413,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-crashing-tide-tide-bw-icon.png",
     "xws": "crashingtidetidebwicon"
   },
   {
     "name": "crashing tide tide icon",
-    "points": 379,
+    "points": 414,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-crashing-tide-tide-color-icon.png",
     "xws": "crashingtidetidecoloricon"
   },
   {
     "name": "coral tide icon",
-    "points": 380,
+    "points": 415,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-crashing-tide-tide-bw-icon.png",
     "xws": "crashingtidetidebwicon"
   },
   {
     "name": "coral tide icon",
-    "points": 381,
+    "points": 416,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-crashing-tide-tide-color-icon.png",
     "xws": "crashingtidetidecoloricon"
   },
   {
     "name": "deathwalker shadow icon",
-    "points": 382,
+    "points": 417,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-deathwalker-shadow-bw-icon.png",
     "xws": "deathwalkershadowbwicon"
   },
   {
     "name": "deathwalker shadow icon",
-    "points": 383,
+    "points": 418,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-deathwalker-shadow-color-icon.png",
     "xws": "deathwalkershadowcoloricon"
   },
   {
     "name": "deepwraith trophy icon",
-    "points": 384,
+    "points": 419,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-deepwraith-trophy-bw-icon.png",
     "xws": "deepwraithtrophybwicon"
   },
   {
     "name": "deepwraith trophy icon",
-    "points": 385,
+    "points": 420,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-deepwraith-trophy-color-icon.png",
     "xws": "deepwraithtrophycoloricon"
   },
   {
     "name": "kelp trophy icon",
-    "points": 386,
+    "points": 421,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-deepwraith-trophy-bw-icon.png",
     "xws": "deepwraithtrophybwicon"
   },
   {
     "name": "kelp trophy icon",
-    "points": 387,
+    "points": 422,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-deepwraith-trophy-color-icon.png",
     "xws": "deepwraithtrophycoloricon"
   },
   {
     "name": "geminate melee icon",
-    "points": 388,
+    "points": 423,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-geminate-melee-bw-icon.png",
     "xws": "geminatemeleebwicon"
   },
   {
     "name": "geminate melee icon",
-    "points": 389,
+    "points": 424,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-geminate-melee-color-icon.png",
     "xws": "geminatemeleecoloricon"
   },
   {
     "name": "geminate ranged icon",
-    "points": 390,
+    "points": 425,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-geminate-ranged-bw-icon.png",
     "xws": "geminaterangedbwicon"
   },
   {
     "name": "geminate ranged icon",
-    "points": 391,
+    "points": 426,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-geminate-ranged-color-icon.png",
     "xws": "geminaterangedcoloricon"
   },
   {
     "name": "hive mode icon",
-    "points": 392,
+    "points": 427,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-hive-mode-bw-icon.png",
     "xws": "hivemodebwicon"
   },
   {
     "name": "hive mode icon",
-    "points": 393,
+    "points": 428,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-hive-mode-color-icon.png",
     "xws": "hivemodecoloricon"
   },
   {
     "name": "hive transfer icon",
-    "points": 394,
+    "points": 429,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-hive-transfer-bw-icon.png",
     "xws": "hivetransferbwicon"
   },
   {
     "name": "hive transfer icon",
-    "points": 395,
+    "points": 430,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-hive-transfer-color-icon.png",
     "xws": "hivetransfercoloricon"
   },
   {
     "name": "prism mode icon",
-    "points": 396,
+    "points": 431,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-hive-mode-bw-icon.png",
     "xws": "hivemodebwicon"
   },
   {
     "name": "prism mode icon",
-    "points": 397,
+    "points": 432,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-hive-mode-color-icon.png",
     "xws": "hivemodecoloricon"
   },
   {
     "name": "prism transfer icon",
-    "points": 398,
+    "points": 433,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-hive-transfer-bw-icon.png",
     "xws": "hivetransferbwicon"
   },
   {
     "name": "prism transfer icon",
-    "points": 399,
+    "points": 434,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-hive-transfer-color-icon.png",
     "xws": "hivetransfercoloricon"
   },
   {
     "name": "infuser infusion icon",
-    "points": 400,
+    "points": 435,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-infuser-infusion-bw-icon.png",
     "xws": "infuserinfusionbwicon"
   },
   {
     "name": "infuser infusion icon",
-    "points": 401,
+    "points": 436,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-infuser-infusion-color-icon.png",
     "xws": "infuserinfusioncoloricon"
   },
   {
     "name": "astral infusion icon",
-    "points": 402,
+    "points": 437,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-infuser-infusion-bw-icon.png",
     "xws": "infuserinfusionbwicon"
   },
   {
     "name": "astral infusion icon",
-    "points": 403,
+    "points": 438,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-infuser-infusion-color-icon.png",
     "xws": "infuserinfusioncoloricon"
   },
   {
     "name": "metal mosaic 1 pressure low icon",
-    "points": 404,
+    "points": 439,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-1-pressure-low-bw-icon.png",
     "xws": "metalmosaic1pressurelowbwicon"
   },
   {
     "name": "metal mosaic 1 pressure low icon",
-    "points": 405,
+    "points": 440,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-1-pressure-low-color-icon.png",
     "xws": "metalmosaic1pressurelowcoloricon"
   },
   {
     "name": "metal mosaic 2 pressure regular icon",
-    "points": 406,
+    "points": 441,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-2-pressure-regular-bw-icon.png",
     "xws": "metalmosaic2pressureregularbwicon"
   },
   {
     "name": "metal mosaic 2 pressure regular icon",
-    "points": 407,
+    "points": 442,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-2-pressure-regular-color-icon.png",
     "xws": "metalmosaic2pressureregularcoloricon"
   },
   {
     "name": "metal mosaic 3 pressure high icon",
-    "points": 408,
+    "points": 443,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-3-pressure-high-bw-icon.png",
     "xws": "metalmosaic3pressurehighbwicon"
   },
   {
     "name": "metal mosaic 3 pressure high icon",
-    "points": 409,
+    "points": 444,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-3-pressure-high-color-icon.png",
     "xws": "metalmosaic3pressurehighcoloricon"
   },
   {
     "name": "metal mosaic 4 pressure over icon",
-    "points": 410,
+    "points": 445,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-4-pressure-over-bw-icon.png",
     "xws": "metalmosaic4pressureoverbwicon"
   },
   {
     "name": "metal mosaic 4 pressure over icon",
-    "points": 411,
+    "points": 446,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-4-pressure-over-color-icon.png",
     "xws": "metalmosaic4pressureovercoloricon"
   },
   {
     "name": "metal mosaic pressure icon",
-    "points": 412,
+    "points": 447,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-bw-icon.png",
     "xws": "metalmosaicpressurebwicon"
   },
   {
     "name": "metal mosaic pressure icon",
-    "points": 413,
+    "points": 448,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-color-icon.png",
     "xws": "metalmosaicpressurecoloricon"
   },
   {
     "name": "metal mosaic pressure down icon",
-    "points": 414,
+    "points": 449,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-down-bw-icon.png",
     "xws": "metalmosaicpressuredownbwicon"
   },
   {
     "name": "metal mosaic pressure down icon",
-    "points": 415,
+    "points": 450,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-down-color-icon.png",
     "xws": "metalmosaicpressuredowncoloricon"
   },
   {
     "name": "metal mosaic pressure up icon",
-    "points": 416,
+    "points": 451,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-up-bw-icon.png",
     "xws": "metalmosaicpressureupbwicon"
   },
   {
     "name": "metal mosaic pressure up icon",
-    "points": 417,
+    "points": 452,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-up-color-icon.png",
     "xws": "metalmosaicpressureupcoloricon"
   },
   {
     "name": "drill 1 pressure low icon",
-    "points": 418,
+    "points": 453,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-1-pressure-low-bw-icon.png",
     "xws": "metalmosaic1pressurelowbwicon"
   },
   {
     "name": "drill 1 pressure low icon",
-    "points": 419,
+    "points": 454,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-1-pressure-low-color-icon.png",
     "xws": "metalmosaic1pressurelowcoloricon"
   },
   {
     "name": "drill 2 pressure regular icon",
-    "points": 420,
+    "points": 455,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-2-pressure-regular-bw-icon.png",
     "xws": "metalmosaic2pressureregularbwicon"
   },
   {
     "name": "drill 2 pressure regular icon",
-    "points": 421,
+    "points": 456,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-2-pressure-regular-color-icon.png",
     "xws": "metalmosaic2pressureregularcoloricon"
   },
   {
     "name": "drill 3 pressure high icon",
-    "points": 422,
+    "points": 457,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-3-pressure-high-bw-icon.png",
     "xws": "metalmosaic3pressurehighbwicon"
   },
   {
     "name": "drill 3 pressure high icon",
-    "points": 423,
+    "points": 458,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-3-pressure-high-color-icon.png",
     "xws": "metalmosaic3pressurehighcoloricon"
   },
   {
     "name": "drill 4 pressure over icon",
-    "points": 424,
+    "points": 459,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-4-pressure-over-bw-icon.png",
     "xws": "metalmosaic4pressureoverbwicon"
   },
   {
     "name": "drill 4 pressure over icon",
-    "points": 425,
+    "points": 460,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-4-pressure-over-color-icon.png",
     "xws": "metalmosaic4pressureovercoloricon"
   },
   {
     "name": "drill pressure icon",
-    "points": 426,
+    "points": 461,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-bw-icon.png",
     "xws": "metalmosaicpressurebwicon"
   },
   {
     "name": "drill pressure icon",
-    "points": 427,
+    "points": 462,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-color-icon.png",
     "xws": "metalmosaicpressurecoloricon"
   },
   {
     "name": "drill pressure down icon",
-    "points": 428,
+    "points": 463,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-down-bw-icon.png",
     "xws": "metalmosaicpressuredownbwicon"
   },
   {
     "name": "drill pressure down icon",
-    "points": 429,
+    "points": 464,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-down-color-icon.png",
     "xws": "metalmosaicpressuredowncoloricon"
   },
   {
     "name": "drill pressure up icon",
-    "points": 430,
+    "points": 465,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-up-bw-icon.png",
     "xws": "metalmosaicpressureupbwicon"
   },
   {
     "name": "drill pressure up icon",
-    "points": 431,
+    "points": 466,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-metal-mosaic-pressure-up-color-icon.png",
     "xws": "metalmosaicpressureupcoloricon"
   },
   {
     "name": "shattersong resonance icon",
-    "points": 432,
+    "points": 467,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-shattersong-resonance-bw-icon.png",
     "xws": "shattersongresonancebwicon"
   },
   {
     "name": "shattersong resonance icon",
-    "points": 433,
+    "points": 468,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-shattersong-resonance-color-icon.png",
     "xws": "shattersongresonancecoloricon"
   },
   {
     "name": "shards resonance icon",
-    "points": 434,
+    "points": 469,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-shattersong-resonance-bw-icon.png",
     "xws": "shattersongresonancebwicon"
   },
   {
     "name": "shards resonance icon",
-    "points": 435,
+    "points": 470,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/class/fh-shattersong-resonance-color-icon.png",
     "xws": "shattersongresonancecoloricon"
   },
   {
     "name": "bane icon",
-    "points": 436,
+    "points": 471,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-bane-bw-icon.png",
     "xws": "banebwicon"
   },
   {
     "name": "bless icon",
-    "points": 437,
+    "points": 472,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-bless-bw-icon.png",
     "xws": "blessbwicon"
   },
   {
     "name": "brittle icon",
-    "points": 438,
+    "points": 473,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-brittle-bw-icon.png",
     "xws": "brittlebwicon"
   },
   {
     "name": "brittle immune icon",
-    "points": 439,
+    "points": 474,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-brittle-immune-color-icon.png",
     "xws": "brittleimmunecoloricon"
   },
   {
     "name": "curse icon",
-    "points": 440,
+    "points": 475,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-curse-bw-icon.png",
     "xws": "cursebwicon"
   },
   {
     "name": "curse immune icon",
-    "points": 441,
+    "points": 476,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-curse-immune-color-icon.png",
     "xws": "curseimmunecoloricon"
   },
   {
     "name": "disarm icon",
-    "points": 442,
+    "points": 477,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-disarm-bw-icon.png",
     "xws": "disarmbwicon"
   },
   {
     "name": "disarm immune icon",
-    "points": 443,
+    "points": 478,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-disarm-immune-color-icon.png",
     "xws": "disarmimmunecoloricon"
   },
   {
     "name": "immobilize icon",
-    "points": 444,
+    "points": 479,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-immobilize-bw-icon.png",
     "xws": "immobilizebwicon"
   },
   {
     "name": "immobilize immune icon",
-    "points": 445,
+    "points": 480,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-immobilize-immune-color-icon.png",
     "xws": "immobilizeimmunecoloricon"
   },
   {
     "name": "impair icon",
-    "points": 446,
+    "points": 481,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-impair-bw-icon.png",
     "xws": "impairbwicon"
   },
   {
     "name": "invisible icon",
-    "points": 447,
+    "points": 482,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-invisible-bw-icon.png",
     "xws": "invisiblebwicon"
   },
   {
     "name": "muddle icon",
-    "points": 448,
+    "points": 483,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-muddle-bw-icon.png",
     "xws": "muddlebwicon"
   },
   {
     "name": "muddle immune icon",
-    "points": 449,
+    "points": 484,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-muddle-immune-color-icon.png",
     "xws": "muddleimmunecoloricon"
   },
   {
     "name": "pierce icon",
-    "points": 450,
+    "points": 485,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-pierce-bw-icon.png",
     "xws": "piercebwicon"
   },
   {
     "name": "poison icon",
-    "points": 451,
+    "points": 486,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-poison-bw-icon.png",
     "xws": "poisonbwicon"
   },
   {
     "name": "poison immune icon",
-    "points": 452,
+    "points": 487,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-poison-immune-color-icon.png",
     "xws": "poisonimmunecoloricon"
   },
   {
     "name": "pull icon",
-    "points": 453,
+    "points": 488,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-pull-bw-icon.png",
     "xws": "pullbwicon"
   },
   {
     "name": "push icon",
-    "points": 454,
+    "points": 489,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-push-bw-icon.png",
     "xws": "pushbwicon"
   },
   {
     "name": "regenerate icon",
-    "points": 455,
+    "points": 490,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-regenerate-bw-icon.png",
     "xws": "regeneratebwicon"
   },
   {
     "name": "rolling icon",
-    "points": 456,
+    "points": 491,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-rolling-bw-icon.png",
     "xws": "rollingbwicon"
   },
   {
     "name": "strengthen icon",
-    "points": 457,
+    "points": 492,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-strengthen-bw-icon.png",
     "xws": "strengthenbwicon"
   },
   {
     "name": "stun icon",
-    "points": 458,
+    "points": 493,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-stun-bw-icon.png",
     "xws": "stunbwicon"
   },
   {
     "name": "stun immune icon",
-    "points": 459,
+    "points": 494,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-stun-immune-color-icon.png",
     "xws": "stunimmunecoloricon"
   },
   {
     "name": "ward icon",
-    "points": 460,
+    "points": 495,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-ward-bw-icon.png",
     "xws": "wardbwicon"
   },
   {
     "name": "wound icon",
-    "points": 461,
+    "points": 496,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-wound-bw-icon.png",
     "xws": "woundbwicon"
   },
   {
     "name": "wound immune icon",
-    "points": 462,
+    "points": 497,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/conditions/fh-wound-immune-color-icon.png",
     "xws": "woundimmunecoloricon"
   },
   {
     "name": "air icon",
-    "points": 463,
+    "points": 498,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-air-bw-icon.png",
     "xws": "airbwicon"
   },
   {
     "name": "air dark icon",
-    "points": 464,
+    "points": 499,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-air-dark-bw-icon.png",
     "xws": "airdarkbwicon"
   },
   {
     "name": "air earth icon",
-    "points": 465,
+    "points": 500,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-air-earth-bw-icon.png",
     "xws": "airearthbwicon"
   },
   {
     "name": "air light icon",
-    "points": 466,
+    "points": 501,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-air-light-bw-icon.png",
     "xws": "airlightbwicon"
   },
   {
     "name": "consume icon",
-    "points": 467,
+    "points": 502,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-consume-color-icon.png",
     "xws": "consumecoloricon"
   },
   {
     "name": "dark icon",
-    "points": 468,
+    "points": 503,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-dark-bw-icon.png",
     "xws": "darkbwicon"
   },
   {
     "name": "earth icon",
-    "points": 469,
+    "points": 504,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-earth-bw-icon.png",
     "xws": "earthbwicon"
   },
   {
     "name": "earth dark icon",
-    "points": 470,
+    "points": 505,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-earth-dark-bw-icon.png",
     "xws": "earthdarkbwicon"
   },
   {
     "name": "fire air icon",
-    "points": 471,
+    "points": 506,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-fire-air-bw-icon.png",
     "xws": "fireairbwicon"
   },
   {
     "name": "fire icon",
-    "points": 472,
+    "points": 507,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-fire-bw-icon.png",
     "xws": "firebwicon"
   },
   {
     "name": "fire earth icon",
-    "points": 473,
+    "points": 508,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-fire-earth-bw-icon.png",
     "xws": "fireearthbwicon"
   },
   {
     "name": "ice air icon",
-    "points": 474,
+    "points": 509,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-ice-air-bw-icon.png",
     "xws": "iceairbwicon"
   },
   {
     "name": "ice icon",
-    "points": 475,
+    "points": 510,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-ice-bw-icon.png",
     "xws": "icebwicon"
   },
   {
     "name": "ice earth icon",
-    "points": 476,
+    "points": 511,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-ice-earth-bw-icon.png",
     "xws": "iceearthbwicon"
   },
   {
     "name": "light icon",
-    "points": 477,
+    "points": 512,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-light-bw-icon.png",
     "xws": "lightbwicon"
   },
   {
     "name": "wild icon",
-    "points": 478,
+    "points": 513,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-wild-bw-icon.png",
     "xws": "wildbwicon"
   },
   {
     "name": "wild icon",
-    "points": 479,
+    "points": 514,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/elements/fh-wild-color-icon.png",
     "xws": "wildcoloricon"
   },
   {
     "name": "ally modifier card icon",
-    "points": 480,
+    "points": 515,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-ally-modifier-card-bw-icon.png",
     "xws": "allymodifiercardbwicon"
   },
   {
     "name": "attack icon",
-    "points": 481,
+    "points": 516,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-attack-bw-icon.png",
     "xws": "attackbwicon"
   },
   {
     "name": "battle goal check mark icon",
-    "points": 482,
+    "points": 517,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-battle-goal-check-mark-bw-icon.png",
     "xws": "battlegoalcheckmarkbwicon"
   },
   {
     "name": "building downtime icon",
-    "points": 483,
+    "points": 518,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-building-downtime-bw-icon.png",
     "xws": "buildingdowntimebwicon"
   },
   {
     "name": "building envelope icon",
-    "points": 484,
+    "points": 519,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-building-envelope-bw-icon.png",
     "xws": "buildingenvelopebwicon"
   },
   {
     "name": "building operation icon",
-    "points": 485,
+    "points": 520,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-building-operation-bw-icon.png",
     "xws": "buildingoperationbwicon"
   },
   {
     "name": "building prosperity icon",
-    "points": 486,
+    "points": 521,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-building-prosperity-bw-icon.png",
     "xws": "buildingprosperitybwicon"
   },
   {
     "name": "building repair icon",
-    "points": 487,
+    "points": 522,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-building-repair-bw-icon.png",
     "xws": "buildingrepairbwicon"
   },
   {
     "name": "building upgrade icon",
-    "points": 488,
+    "points": 523,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-building-upgrade-bw-icon.png",
     "xws": "buildingupgradebwicon"
   },
   {
     "name": "building wrecked icon",
-    "points": 489,
+    "points": 524,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-building-wrecked-bw-icon.png",
     "xws": "buildingwreckedbwicon"
   },
   {
     "name": "damage icon",
-    "points": 490,
+    "points": 525,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-damage-bw-icon.png",
     "xws": "damagebwicon"
   },
   {
     "name": "equip slot body icon",
-    "points": 491,
+    "points": 526,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-equip-slot-body-bw-icon.png",
     "xws": "equipslotbodybwicon"
   },
   {
     "name": "equip slot dual hand icon",
-    "points": 492,
+    "points": 527,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-equip-slot-dual-hand-bw-icon.png",
     "xws": "equipslotdualhandbwicon"
   },
   {
     "name": "equip slot head icon",
-    "points": 493,
+    "points": 528,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-equip-slot-head-bw-icon.png",
     "xws": "equipslotheadbwicon"
   },
   {
     "name": "equip slot item icon",
-    "points": 494,
+    "points": 529,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-equip-slot-item-bw-icon.png",
     "xws": "equipslotitembwicon"
   },
   {
     "name": "equip slot legs icon",
-    "points": 495,
+    "points": 530,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-equip-slot-legs-bw-icon.png",
     "xws": "equipslotlegsbwicon"
   },
   {
     "name": "equip slot single hand icon",
-    "points": 496,
+    "points": 531,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-equip-slot-single-hand-bw-icon.png",
     "xws": "equipslotsinglehandbwicon"
   },
   {
     "name": "flight icon",
-    "points": 497,
+    "points": 532,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-flight-bw-icon.png",
     "xws": "flightbwicon"
   },
   {
     "name": "flip back to front icon",
-    "points": 498,
+    "points": 533,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-flip-back-to-front-color-icon.png",
     "xws": "flipbacktofrontcoloricon"
   },
   {
     "name": "flip back to front generic icon",
-    "points": 499,
+    "points": 534,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-flip-back-to-front-generic-color-icon.png",
     "xws": "flipbacktofrontgenericcoloricon"
   },
   {
     "name": "flip front to back icon",
-    "points": 500,
+    "points": 535,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-flip-front-to-back-color-icon.png",
     "xws": "flipfronttobackcoloricon"
   },
   {
     "name": "frosthaven identifier icon",
-    "points": 501,
+    "points": 536,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-frosthaven-identifier-bw-icon.png",
     "xws": "frosthavenidentifierbwicon"
   },
   {
     "name": "heal icon",
-    "points": 502,
+    "points": 537,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-heal-bw-icon.png",
     "xws": "healbwicon"
   },
   {
     "name": "hex attack icon",
-    "points": 503,
+    "points": 538,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-hex-attack-color-icon.png",
     "xws": "hexattackcoloricon"
   },
   {
     "name": "hex empty icon",
-    "points": 504,
+    "points": 539,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-hex-empty-color-icon.png",
     "xws": "hexemptycoloricon"
   },
   {
     "name": "hex player icon",
-    "points": 505,
+    "points": 540,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-hex-player-color-icon.png",
     "xws": "hexplayercoloricon"
   },
   {
     "name": "hex summon icon",
-    "points": 506,
+    "points": 541,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-hex-summon-color-icon.png",
     "xws": "hexsummoncoloricon"
   },
   {
     "name": "item card icon",
-    "points": 507,
+    "points": 542,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-item-card-bw-icon.png",
     "xws": "itemcardbwicon"
   },
   {
     "name": "jump icon",
-    "points": 508,
+    "points": 543,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-jump-bw-icon.png",
     "xws": "jumpbwicon"
   },
   {
     "name": "level crown icon",
-    "points": 509,
+    "points": 544,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-level-crown-bw-icon.png",
     "xws": "levelcrownbwicon"
   },
   {
     "name": "linked icon",
-    "points": 510,
+    "points": 545,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-linked-bw-icon.png",
     "xws": "linkedbwicon"
   },
   {
     "name": "linked forced icon",
-    "points": 511,
+    "points": 546,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-linked-forced-color-icon.png",
     "xws": "linkedforcedcoloricon"
   },
   {
     "name": "locked out icon",
-    "points": 512,
+    "points": 547,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-locked-out-color-icon.png",
     "xws": "lockedoutcoloricon"
   },
   {
     "name": "loot icon",
-    "points": 513,
+    "points": 548,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-loot-bw-icon.png",
     "xws": "lootbwicon"
   },
   {
     "name": "loot location icon",
-    "points": 514,
+    "points": 549,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-loot-location-color-icon.png",
     "xws": "lootlocationcoloricon"
   },
   {
     "name": "lost black card icon",
-    "points": 515,
+    "points": 550,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-lost-black-card-color-icon.png",
     "xws": "lostblackcardcoloricon"
   },
   {
     "name": "lost icon",
-    "points": 516,
+    "points": 551,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-lost-color-icon.png",
     "xws": "lostcoloricon"
   },
   {
     "name": "money icon",
-    "points": 517,
+    "points": 552,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-money-bw-icon.png",
     "xws": "moneybwicon"
   },
   {
     "name": "move icon",
-    "points": 518,
+    "points": 553,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-move-bw-icon.png",
     "xws": "movebwicon"
   },
   {
     "name": "non return card icon",
-    "points": 519,
+    "points": 554,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-non-return-card-color-icon.png",
     "xws": "nonreturncardcoloricon"
   },
   {
     "name": "persistent bonus icon",
-    "points": 520,
+    "points": 555,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-persistent-bonus-color-icon.png",
     "xws": "persistentbonuscoloricon"
   },
   {
     "name": "players 2-3 icon",
-    "points": 521,
+    "points": 556,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-players-2-3-bw-icon.png",
     "xws": "players23bwicon"
   },
   {
     "name": "players 2 icon",
-    "points": 522,
+    "points": 557,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-players-2-bw-icon.png",
     "xws": "players2bwicon"
   },
   {
     "name": "players 3-4 icon",
-    "points": 523,
+    "points": 558,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-players-3-4-bw-icon.png",
     "xws": "players34bwicon"
   },
   {
     "name": "players 4 icon",
-    "points": 524,
+    "points": 559,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-players-4-bw-icon.png",
     "xws": "players4bwicon"
   },
   {
     "name": "range icon",
-    "points": 525,
+    "points": 560,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-range-bw-icon.png",
     "xws": "rangebwicon"
   },
   {
     "name": "recover card icon",
-    "points": 526,
+    "points": 561,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-recover-card-color-icon.png",
     "xws": "recovercardcoloricon"
   },
   {
     "name": "retaliate icon",
-    "points": 527,
+    "points": 562,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-retaliate-bw-icon.png",
     "xws": "retaliatebwicon"
   },
   {
     "name": "return card icon",
-    "points": 528,
+    "points": 563,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-return-card-bw-icon.png",
     "xws": "returncardbwicon"
   },
   {
     "name": "round bonus icon",
-    "points": 529,
+    "points": 564,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-round-bonus-color-icon.png",
     "xws": "roundbonuscoloricon"
   },
   {
     "name": "section icon",
-    "points": 530,
+    "points": 565,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-section-bw-icon.png",
     "xws": "sectionbwicon"
   },
   {
     "name": "shield icon",
-    "points": 531,
+    "points": 566,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-shield-bw-icon.png",
     "xws": "shieldbwicon"
   },
   {
     "name": "spent icon",
-    "points": 532,
+    "points": 567,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-spent-bw-icon.png",
     "xws": "spentbwicon"
   },
   {
     "name": "start location icon",
-    "points": 533,
+    "points": 568,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-start-location-color-icon.png",
     "xws": "startlocationcoloricon"
   },
   {
     "name": "tap card icon",
-    "points": 534,
+    "points": 569,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-tap-card-color-icon.png",
     "xws": "tapcardcoloricon"
   },
   {
     "name": "target icon",
-    "points": 535,
+    "points": 570,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-target-bw-icon.png",
     "xws": "targetbwicon"
   },
   {
     "name": "teleport icon",
-    "points": 536,
+    "points": 571,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-teleport-bw-icon.png",
     "xws": "teleportbwicon"
   },
   {
     "name": "trait icon",
-    "points": 537,
+    "points": 572,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-trait-bw-icon.png",
     "xws": "traitbwicon"
   },
   {
     "name": "treasure chest icon",
-    "points": 538,
+    "points": 573,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-treasure-chest-bw-icon.png",
     "xws": "treasurechestbwicon"
   },
   {
     "name": "xp icon",
-    "points": 539,
+    "points": 574,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/general/fh-xp-bw-icon.png",
     "xws": "xpbwicon"
   },
   {
     "name": "arrowvine icon",
-    "points": 540,
+    "points": 575,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/loot/fh-arrowvine-bw-icon.png",
     "xws": "arrowvinebwicon"
   },
   {
     "name": "axenut icon",
-    "points": 541,
+    "points": 576,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/loot/fh-axenut-bw-icon.png",
     "xws": "axenutbwicon"
   },
   {
     "name": "corpsecap icon",
-    "points": 542,
+    "points": 577,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/loot/fh-corpsecap-bw-icon.png",
     "xws": "corpsecapbwicon"
   },
   {
     "name": "flamefruit icon",
-    "points": 543,
+    "points": 578,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/loot/fh-flamefruit-bw-icon.png",
     "xws": "flamefruitbwicon"
   },
   {
     "name": "hide icon",
-    "points": 544,
+    "points": 579,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/loot/fh-hide-bw-icon.png",
     "xws": "hidebwicon"
   },
   {
     "name": "lumber icon",
-    "points": 545,
+    "points": 580,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/loot/fh-lumber-bw-icon.png",
     "xws": "lumberbwicon"
   },
   {
     "name": "metal icon",
-    "points": 546,
+    "points": 581,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/loot/fh-metal-bw-icon.png",
     "xws": "metalbwicon"
   },
   {
     "name": "rockroot icon",
-    "points": 547,
+    "points": 582,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/loot/fh-rockroot-bw-icon.png",
     "xws": "rockrootbwicon"
   },
   {
     "name": "snowthistle icon",
-    "points": 548,
+    "points": 583,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/loot/fh-snowthistle-bw-icon.png",
     "xws": "snowthistlebwicon"
   },
   {
     "name": "boat icon",
-    "points": 549,
+    "points": 584,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/outpost/fh-boat-bw-icon.png",
     "xws": "boatbwicon"
   },
   {
     "name": "climbing gear icon",
-    "points": 550,
+    "points": 585,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/outpost/fh-climbing-gear-bw-icon.png",
     "xws": "climbinggearbwicon"
   },
   {
     "name": "sled icon",
-    "points": 551,
+    "points": 586,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/outpost/fh-sled-bw-icon.png",
     "xws": "sledbwicon"
   },
   {
     "name": "overlay tile corridor icon",
-    "points": 552,
+    "points": 587,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-corridor-color-icon.png",
     "xws": "overlaytilecorridorcoloricon"
   },
   {
     "name": "overlay tile difficult terrain icon",
-    "points": 553,
+    "points": 588,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-difficult-terrain-color-icon.png",
     "xws": "overlaytiledifficultterraincoloricon"
   },
   {
     "name": "overlay tile door icon",
-    "points": 554,
+    "points": 589,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-door-color-icon.png",
     "xws": "overlaytiledoorcoloricon"
   },
   {
     "name": "overlay tile hazardous terrain icon",
-    "points": 555,
+    "points": 590,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-hazardous-terrain-color-icon.png",
     "xws": "overlaytilehazardousterraincoloricon"
   },
   {
     "name": "overlay tile icy terrain icon",
-    "points": 556,
+    "points": 591,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-icy-terrain-color-icon.png",
     "xws": "overlaytileicyterraincoloricon"
   },
   {
     "name": "overlay tile objective icon",
-    "points": 557,
+    "points": 592,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-objective-color-icon.png",
     "xws": "overlaytileobjectivecoloricon"
   },
   {
     "name": "overlay tile obstacle icon",
-    "points": 558,
+    "points": 593,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-obstacle-color-icon.png",
     "xws": "overlaytileobstaclecoloricon"
   },
   {
     "name": "overlay tile pressure plate icon",
-    "points": 559,
+    "points": 594,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-pressure-plate-color-icon.png",
     "xws": "overlaytilepressureplatecoloricon"
   },
   {
     "name": "overlay tile trap icon",
-    "points": 560,
+    "points": 595,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-trap-color-icon.png",
     "xws": "overlaytiletrapcoloricon"
   },
   {
     "name": "overlay tile wall icon",
-    "points": 561,
+    "points": 596,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/overlay-tiles/fh-overlay-tile-wall-color-icon.png",
     "xws": "overlaytilewallcoloricon"
   },
   {
     "name": "calendar icon",
-    "points": 562,
+    "points": 597,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/scenario-flowchart/fh-calendar-bw-icon.png",
     "xws": "calendarbwicon"
   },
   {
     "name": "event icon",
-    "points": 563,
+    "points": 598,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/scenario-flowchart/fh-event-bw-icon.png",
     "xws": "eventbwicon"
   },
   {
     "name": "personal quest icon",
-    "points": 564,
+    "points": 599,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/scenario-flowchart/fh-personal-quest-bw-icon.png",
     "xws": "personalquestbwicon"
   },
   {
     "name": "puzzle icon",
-    "points": 565,
+    "points": 600,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/scenario-flowchart/fh-puzzle-bw-icon.png",
     "xws": "puzzlebwicon"
   },
   {
     "name": "random scenario icon",
-    "points": 566,
+    "points": 601,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/scenario-flowchart/fh-random-scenario-bw-icon.png",
     "xws": "randomscenariobwicon"
   },
   {
     "name": "town hall icon",
-    "points": 567,
+    "points": 602,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/icons/scenario-flowchart/fh-town-hall-bw-icon.png",
     "xws": "townhallbwicon"
   },
   {
     "name": "frosthaven logo",
-    "points": 568,
+    "points": 603,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/logos/fh-frosthaven-logo.png",
     "xws": "frosthavenlogo"
   },
   {
     "name": "abael herder art",
-    "points": 569,
+    "points": 604,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-abael-herder.png",
     "xws": "abaelherderart"
   },
   {
     "name": "abael scout art",
-    "points": 570,
+    "points": 605,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-abael-scout.png",
     "xws": "abaelscoutart"
   },
   {
     "name": "algox archer art",
-    "points": 571,
+    "points": 606,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-algox-archer.png",
     "xws": "algoxarcherart"
   },
   {
     "name": "algox guard art",
-    "points": 572,
+    "points": 607,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-algox-guard.png",
     "xws": "algoxguardart"
   },
   {
     "name": "algox icespeaker art",
-    "points": 573,
+    "points": 608,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-algox-icespeaker.png",
     "xws": "algoxicespeakerart"
   },
   {
     "name": "algox priest art",
-    "points": 574,
+    "points": 609,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-algox-priest.png",
     "xws": "algoxpriestart"
   },
   {
     "name": "algox scout art",
-    "points": 575,
+    "points": 610,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-algox-scout.png",
     "xws": "algoxscoutart"
   },
   {
     "name": "algox snowspeaker art",
-    "points": 576,
+    "points": 611,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-algox-snowspeaker.png",
     "xws": "algoxsnowspeakerart"
   },
   {
     "name": "algox stormcaller art",
-    "points": 577,
+    "points": 612,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-algox-stormcaller.png",
     "xws": "algoxstormcallerart"
   },
   {
     "name": "ancient artillery art",
-    "points": 578,
+    "points": 613,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-ancient-artillery.png",
     "xws": "ancientartilleryart"
   },
   {
     "name": "black imp art",
-    "points": 579,
+    "points": 614,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-black-imp.png",
     "xws": "blackimpart"
   },
   {
     "name": "burrowing blade art",
-    "points": 580,
+    "points": 615,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-burrowing-blade.png",
     "xws": "burrowingbladeart"
   },
   {
     "name": "chaos demon art",
-    "points": 581,
+    "points": 616,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-chaos-demon.png",
     "xws": "chaosdemonart"
   },
   {
     "name": "city guard art",
-    "points": 582,
+    "points": 617,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-city-guard.png",
     "xws": "cityguardart"
   },
   {
     "name": "deep terror art",
-    "points": 583,
+    "points": 618,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-deep-terror.png",
     "xws": "deepterrorart"
   },
   {
     "name": "earth demon art",
-    "points": 584,
+    "points": 619,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-earth-demon.png",
     "xws": "earthdemonart"
   },
   {
     "name": "elder ooze art",
-    "points": 585,
+    "points": 620,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-elder-ooze.png",
     "xws": "elderoozeart"
   },
   {
     "name": "fish king art",
-    "points": 586,
+    "points": 621,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-fish-king.png",
     "xws": "fishkingart"
   },
   {
     "name": "flame demon art",
-    "points": 587,
+    "points": 622,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-flame-demon.png",
     "xws": "flamedemonart"
   },
   {
     "name": "flaming bladespinner art",
-    "points": 588,
+    "points": 623,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-flaming-bladespinner.png",
     "xws": "flamingbladespinnerart"
   },
   {
     "name": "forest imp art",
-    "points": 589,
+    "points": 624,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-forest-imp.png",
     "xws": "forestimpart"
   },
   {
     "name": "fracture of the deep art",
-    "points": 590,
+    "points": 625,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-fracture-of-the-deep.png",
     "xws": "fractureofthedeepart"
   },
   {
     "name": "frost demon art",
-    "points": 591,
+    "points": 626,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-frost-demon.png",
     "xws": "frostdemonart"
   },
   {
     "name": "frozen corpse art",
-    "points": 592,
+    "points": 627,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-frozen-corpse.png",
     "xws": "frozencorpseart"
   },
   {
     "name": "frozen fist art",
-    "points": 593,
+    "points": 628,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-frozen-fist.png",
     "xws": "frozenfistart"
   },
   {
     "name": "harbinger of shadow art",
-    "points": 594,
+    "points": 629,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-harbinger-of-shadow.png",
     "xws": "harbingerofshadowart"
   },
   {
     "name": "harrower infester art",
-    "points": 595,
+    "points": 630,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-harrower-infester.png",
     "xws": "harrowerinfesterart"
   },
   {
     "name": "hound art",
-    "points": 596,
+    "points": 631,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-hound.png",
     "xws": "houndart"
   },
   {
     "name": "ice wraith art",
-    "points": 597,
+    "points": 632,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-ice-wraith.png",
     "xws": "icewraithart"
   },
   {
     "name": "lightning eel art",
-    "points": 598,
+    "points": 633,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-lightning-eel.png",
     "xws": "lightningeelart"
   },
   {
     "name": "living bones art",
-    "points": 599,
+    "points": 634,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-living-bones.png",
     "xws": "livingbonesart"
   },
   {
     "name": "living doom art",
-    "points": 600,
+    "points": 635,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-living-doom.png",
     "xws": "livingdoomart"
   },
   {
     "name": "living spirit art",
-    "points": 601,
+    "points": 636,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-living-spirit.png",
     "xws": "livingspiritart"
   },
   {
     "name": "lord of chaos art",
-    "points": 602,
+    "points": 637,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-lord-of-chaos.png",
     "xws": "lordofchaosart"
   },
   {
     "name": "lurker clawcrusher art",
-    "points": 603,
+    "points": 638,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-lurker-clawcrusher.png",
     "xws": "lurkerclawcrusherart"
   },
   {
     "name": "lurker mindsnipper art",
-    "points": 604,
+    "points": 639,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-lurker-mindsnipper.png",
     "xws": "lurkermindsnipperart"
   },
   {
     "name": "lurker soldier art",
-    "points": 605,
+    "points": 640,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-lurker-soldier.png",
     "xws": "lurkersoldierart"
   },
   {
     "name": "lurker wavethrower art",
-    "points": 606,
+    "points": 641,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-lurker-wavethrower.png",
     "xws": "lurkerwavethrowerart"
   },
   {
     "name": "night demon art",
-    "points": 607,
+    "points": 642,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-night-demon.png",
     "xws": "nightdemonart"
   },
   {
     "name": "ooze art",
-    "points": 608,
+    "points": 643,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-ooze.png",
     "xws": "oozeart"
   },
   {
     "name": "piranha pig art",
-    "points": 609,
+    "points": 644,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-piranha-pig.png",
     "xws": "piranhapigart"
   },
   {
     "name": "polar bear art",
-    "points": 610,
+    "points": 645,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-polar-bear.png",
     "xws": "polarbearart"
   },
   {
     "name": "prince of frost art",
-    "points": 611,
+    "points": 646,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-prince-of-frost.png",
     "xws": "princeoffrostart"
   },
   {
     "name": "program director art",
-    "points": 612,
+    "points": 647,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-program-director.png",
     "xws": "programdirectorart"
   },
   {
     "name": "rending drake art",
-    "points": 613,
+    "points": 648,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-rending-drake.png",
     "xws": "rendingdrakeart"
   },
   {
     "name": "robotic boltshooter art",
-    "points": 614,
+    "points": 649,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-robotic-boltshooter.png",
     "xws": "roboticboltshooterart"
   },
   {
     "name": "ruined machine art",
-    "points": 615,
+    "points": 650,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-ruined-machine.png",
     "xws": "ruinedmachineart"
   },
   {
     "name": "savvas icestorm art",
-    "points": 616,
+    "points": 651,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-savvas-icestorm.png",
     "xws": "savvasicestormart"
   },
   {
     "name": "savvas lavaflow art",
-    "points": 617,
+    "points": 652,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-savvas-lavaflow.png",
     "xws": "savvaslavaflowart"
   },
   {
     "name": "seeker of the abyss art",
-    "points": 618,
+    "points": 653,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-seeker-of-the-abyss.png",
     "xws": "seekeroftheabyssart"
   },
   {
     "name": "shrike fiend art",
-    "points": 619,
+    "points": 654,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-shrike-fiend.png",
     "xws": "shrikefiendart"
   },
   {
     "name": "snowdancer art",
-    "points": 620,
+    "points": 655,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-snowdancer.png",
     "xws": "snowdancerart"
   },
   {
     "name": "snow imp art",
-    "points": 621,
+    "points": 656,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-snow-imp.png",
     "xws": "snowimpart"
   },
   {
     "name": "spitting drake art",
-    "points": 622,
+    "points": 657,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-spitting-drake.png",
     "xws": "spittingdrakeart"
   },
   {
     "name": "steel automaton art",
-    "points": 623,
+    "points": 658,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-steel-automaton.png",
     "xws": "steelautomatonart"
   },
   {
     "name": "sun demon art",
-    "points": 624,
+    "points": 659,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-sun-demon.png",
     "xws": "sundemonart"
   },
   {
     "name": "the collector art",
-    "points": 625,
+    "points": 660,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-the-collector.png",
     "xws": "thecollectorart"
   },
   {
     "name": "the orphan art",
-    "points": 626,
+    "points": 661,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-the-orphan.png",
     "xws": "theorphanart"
   },
   {
     "name": "the relic art",
-    "points": 627,
+    "points": 662,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-the-relic.png",
     "xws": "therelicart"
   },
   {
     "name": "the render art",
-    "points": 628,
+    "points": 663,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-the-render.png",
     "xws": "therenderart"
   },
   {
     "name": "vermling priest art",
-    "points": 629,
+    "points": 664,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-vermling-priest.png",
     "xws": "vermlingpriestart"
   },
   {
     "name": "vermling scout art",
-    "points": 630,
+    "points": 665,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-vermling-scout.png",
     "xws": "vermlingscoutart"
   },
   {
     "name": "vestige of the imprisoned god art",
-    "points": 631,
+    "points": 666,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-vestige-of-the-imprisoned-god.png",
     "xws": "vestigeoftheimprisonedgodart"
   },
   {
     "name": "wind demon art",
-    "points": 632,
+    "points": 667,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/images/fh-wind-demon.png",
     "xws": "winddemonart"
   },
   {
     "name": "abael herder standee",
-    "points": 633,
+    "points": 668,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-abael-herder-standee.png",
     "xws": "abaelherderstandee"
   },
   {
     "name": "abael scout standee",
-    "points": 634,
+    "points": 669,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-abael-scout-standee.png",
     "xws": "abaelscoutstandee"
   },
   {
     "name": "algox archer standee",
-    "points": 635,
+    "points": 670,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-algox-archer-standee.png",
     "xws": "algoxarcherstandee"
   },
   {
     "name": "algox guard standee",
-    "points": 636,
+    "points": 671,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-algox-guard-standee.png",
     "xws": "algoxguardstandee"
   },
   {
     "name": "algox icespeaker standee",
-    "points": 637,
+    "points": 672,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-algox-icespeaker-standee.png",
     "xws": "algoxicespeakerstandee"
   },
   {
     "name": "algox priest standee",
-    "points": 638,
+    "points": 673,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-algox-priest-standee.png",
     "xws": "algoxprieststandee"
   },
   {
     "name": "algox scout standee",
-    "points": 639,
+    "points": 674,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-algox-scout-standee.png",
     "xws": "algoxscoutstandee"
   },
   {
     "name": "algox snowspeaker standee",
-    "points": 640,
+    "points": 675,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-algox-snowspeaker-standee.png",
     "xws": "algoxsnowspeakerstandee"
   },
   {
     "name": "algox stormcaller standee",
-    "points": 641,
+    "points": 676,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-algox-stormcaller-standee.png",
     "xws": "algoxstormcallerstandee"
   },
   {
     "name": "ancient artillery standee",
-    "points": 642,
+    "points": 677,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-ancient-artillery-standee.png",
     "xws": "ancientartillerystandee"
   },
   {
     "name": "black imp standee",
-    "points": 643,
+    "points": 678,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-black-imp-standee.png",
     "xws": "blackimpstandee"
   },
   {
     "name": "burrowing blade standee",
-    "points": 644,
+    "points": 679,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-burrowing-blade-standee.png",
     "xws": "burrowingbladestandee"
   },
   {
     "name": "chaos demon standee",
-    "points": 645,
+    "points": 680,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-chaos-demon-standee.png",
     "xws": "chaosdemonstandee"
   },
   {
     "name": "city guard standee",
-    "points": 646,
+    "points": 681,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-city-guard-standee.png",
     "xws": "cityguardstandee"
   },
   {
     "name": "deep terror standee",
-    "points": 647,
+    "points": 682,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-deep-terror-standee.png",
     "xws": "deepterrorstandee"
   },
   {
     "name": "earth demon standee",
-    "points": 648,
+    "points": 683,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-earth-demon-standee.png",
     "xws": "earthdemonstandee"
   },
   {
     "name": "elder ooze standee",
-    "points": 649,
+    "points": 684,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-elder-ooze-standee.png",
     "xws": "elderoozestandee"
   },
   {
     "name": "fish king standee",
-    "points": 650,
+    "points": 685,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-fish-king-standee.png",
     "xws": "fishkingstandee"
   },
   {
     "name": "flame demon standee",
-    "points": 651,
+    "points": 686,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-flame-demon-standee.png",
     "xws": "flamedemonstandee"
   },
   {
     "name": "flaming bladespinner standee",
-    "points": 652,
+    "points": 687,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-flaming-bladespinner-standee.png",
     "xws": "flamingbladespinnerstandee"
   },
   {
     "name": "forest imp standee",
-    "points": 653,
+    "points": 688,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-forest-imp-standee.png",
     "xws": "forestimpstandee"
   },
   {
     "name": "fracture of the deep standee",
-    "points": 654,
+    "points": 689,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-fracture-of-the-deep-standee.png",
     "xws": "fractureofthedeepstandee"
   },
   {
     "name": "frost demon standee",
-    "points": 655,
+    "points": 690,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-frost-demon-standee.png",
     "xws": "frostdemonstandee"
   },
   {
     "name": "frozen corpse standee",
-    "points": 656,
+    "points": 691,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-frozen-corpse-standee.png",
     "xws": "frozencorpsestandee"
   },
   {
     "name": "harbinger of shadow standee",
-    "points": 657,
+    "points": 692,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-harbinger-of-shadow-standee.png",
     "xws": "harbingerofshadowstandee"
   },
   {
     "name": "harrower infester standee",
-    "points": 658,
+    "points": 693,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-harrower-infester-standee.png",
     "xws": "harrowerinfesterstandee"
   },
   {
     "name": "hound standee",
-    "points": 659,
+    "points": 694,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-hound-standee.png",
     "xws": "houndstandee"
   },
   {
     "name": "ice wraith standee",
-    "points": 660,
+    "points": 695,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-ice-wraith-standee.png",
     "xws": "icewraithstandee"
   },
   {
     "name": "lightning eel standee",
-    "points": 661,
+    "points": 696,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-lightning-eel-standee.png",
     "xws": "lightningeelstandee"
   },
   {
     "name": "living bones standee",
-    "points": 662,
+    "points": 697,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-living-bones-standee.png",
     "xws": "livingbonesstandee"
   },
   {
     "name": "living doom standee",
-    "points": 663,
+    "points": 698,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-living-doom-standee.png",
     "xws": "livingdoomstandee"
   },
   {
     "name": "living spirit standee",
-    "points": 664,
+    "points": 699,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-living-spirit-standee.png",
     "xws": "livingspiritstandee"
   },
   {
     "name": "lord of chaos standee",
-    "points": 665,
+    "points": 700,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-lord-of-chaos-standee.png",
     "xws": "lordofchaosstandee"
   },
   {
     "name": "lurker clawcrusher standee",
-    "points": 666,
+    "points": 701,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-lurker-clawcrusher-standee.png",
     "xws": "lurkerclawcrusherstandee"
   },
   {
     "name": "lurker mindsnipper standee",
-    "points": 667,
+    "points": 702,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-lurker-mindsnipper-standee.png",
     "xws": "lurkermindsnipperstandee"
   },
   {
     "name": "lurker soldier standee",
-    "points": 668,
+    "points": 703,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-lurker-soldier-standee.png",
     "xws": "lurkersoldierstandee"
   },
   {
     "name": "lurker wavethrower standee",
-    "points": 669,
+    "points": 704,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-lurker-wavethrower-standee.png",
     "xws": "lurkerwavethrowerstandee"
   },
   {
     "name": "night demon standee",
-    "points": 670,
+    "points": 705,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-night-demon-standee.png",
     "xws": "nightdemonstandee"
   },
   {
     "name": "ooze standee",
-    "points": 671,
+    "points": 706,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-ooze-standee.png",
     "xws": "oozestandee"
   },
   {
     "name": "piranha pig standee",
-    "points": 672,
+    "points": 707,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-piranha-pig-standee.png",
     "xws": "piranhapigstandee"
   },
   {
     "name": "polar bear standee",
-    "points": 673,
+    "points": 708,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-polar-bear-standee.png",
     "xws": "polarbearstandee"
   },
   {
     "name": "prince of frost standee",
-    "points": 674,
+    "points": 709,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-prince-of-frost-standee.png",
     "xws": "princeoffroststandee"
   },
   {
     "name": "program director standee",
-    "points": 675,
+    "points": 710,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-program-director-standee.png",
     "xws": "programdirectorstandee"
   },
   {
     "name": "rending drake standee",
-    "points": 676,
+    "points": 711,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-rending-drake-standee.png",
     "xws": "rendingdrakestandee"
   },
   {
     "name": "robotic boltshooter standee",
-    "points": 677,
+    "points": 712,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-robotic-boltshooter-standee.png",
     "xws": "roboticboltshooterstandee"
   },
   {
     "name": "ruined machine standee",
-    "points": 678,
+    "points": 713,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-ruined-machine-standee.png",
     "xws": "ruinedmachinestandee"
   },
   {
     "name": "savvas icestorm standee",
-    "points": 679,
+    "points": 714,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-savvas-icestorm-standee.png",
     "xws": "savvasicestormstandee"
   },
   {
     "name": "savvas lavaflow standee",
-    "points": 680,
+    "points": 715,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-savvas-lavaflow-standee.png",
     "xws": "savvaslavaflowstandee"
   },
   {
     "name": "seeker of the abyss standee",
-    "points": 681,
+    "points": 716,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-seeker-of-the-abyss-standee.png",
     "xws": "seekeroftheabyssstandee"
   },
   {
     "name": "shrike fiend standee",
-    "points": 682,
+    "points": 717,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-shrike-fiend-standee.png",
     "xws": "shrikefiendstandee"
   },
   {
     "name": "snow imp standee",
-    "points": 683,
+    "points": 718,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-snow-imp-standee.png",
     "xws": "snowimpstandee"
   },
   {
     "name": "spitting drake standee",
-    "points": 684,
+    "points": 719,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-spitting-drake-standee.png",
     "xws": "spittingdrakestandee"
   },
   {
     "name": "steel automaton standee",
-    "points": 685,
+    "points": 720,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-steel-automaton-standee.png",
     "xws": "steelautomatonstandee"
   },
   {
     "name": "sun demon standee",
-    "points": 686,
+    "points": 721,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-sun-demon-standee.png",
     "xws": "sundemonstandee"
   },
   {
     "name": "the collector standee",
-    "points": 687,
+    "points": 722,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-the-collector-standee.png",
     "xws": "thecollectorstandee"
   },
   {
     "name": "the orphan standee",
-    "points": 688,
+    "points": 723,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-the-orphan-standee.png",
     "xws": "theorphanstandee"
   },
   {
     "name": "the relic standee",
-    "points": 689,
+    "points": 724,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-the-relic-standee.png",
     "xws": "therelicstandee"
   },
   {
     "name": "the render standee",
-    "points": 690,
+    "points": 725,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-the-render-standee.png",
     "xws": "therenderstandee"
   },
   {
     "name": "vermling priest standee",
-    "points": 691,
+    "points": 726,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-vermling-priest-standee.png",
     "xws": "vermlingprieststandee"
   },
   {
     "name": "vermling scout standee",
-    "points": 692,
+    "points": 727,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-vermling-scout-standee.png",
     "xws": "vermlingscoutstandee"
   },
   {
     "name": "vestige of the imprisoned god standee",
-    "points": 693,
+    "points": 728,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-vestige-of-the-imprisoned-god-standee.png",
     "xws": "vestigeoftheimprisonedgodstandee"
   },
   {
     "name": "wind demon standee",
-    "points": 694,
+    "points": 729,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/monsters/standees/fh-wind-demon-standee.png",
     "xws": "winddemonstandee"
   },
   {
     "name": "banner spear punchboard front",
-    "points": 695,
+    "points": 730,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-banner-spear-punchboard-front.png",
     "xws": "bannerspearpunchboardfront"
   },
   {
     "name": "banner spear punchboard back",
-    "points": 696,
+    "points": 731,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-banner-spear-punchboard-back.png",
     "xws": "bannerspearpunchboardback"
   },
   {
     "name": "blinkblade punchboard front",
-    "points": 697,
+    "points": 732,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-blinkblade-punchboard-front.png",
     "xws": "blinkbladepunchboardfront"
   },
   {
     "name": "blinkblade punchboard back",
-    "points": 698,
+    "points": 733,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-blinkblade-punchboard-back.png",
     "xws": "blinkbladepunchboardback"
   },
   {
     "name": "boneshaper punchboard 01 front",
-    "points": 699,
+    "points": 734,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-boneshaper-punchboard-01-front.png",
     "xws": "boneshaperpunchboard01front"
   },
   {
     "name": "boneshaper punchboard 01 back",
-    "points": 700,
+    "points": 735,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-boneshaper-punchboard-01-back.png",
     "xws": "boneshaperpunchboard01back"
   },
   {
     "name": "boneshaper punchboard 02 front",
-    "points": 701,
+    "points": 736,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-boneshaper-punchboard-02-front.png",
     "xws": "boneshaperpunchboard02front"
   },
   {
     "name": "boneshaper punchboard 02 back",
-    "points": 702,
+    "points": 737,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-boneshaper-punchboard-02-back.png",
     "xws": "boneshaperpunchboard02back"
   },
   {
     "name": "crashing tide punchboard front",
-    "points": 703,
+    "points": 738,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-crashing-tide-punchboard-front.png",
     "xws": "crashingtidepunchboardfront"
   },
   {
     "name": "crashing tide punchboard back",
-    "points": 704,
+    "points": 739,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-crashing-tide-punchboard-back.png",
     "xws": "crashingtidepunchboardback"
   },
   {
     "name": "coral punchboard front",
-    "points": 705,
+    "points": 740,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-crashing-tide-punchboard-front.png",
     "xws": "crashingtidepunchboardfront"
   },
   {
     "name": "coral punchboard back",
-    "points": 706,
+    "points": 741,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-crashing-tide-punchboard-back.png",
     "xws": "crashingtidepunchboardback"
   },
   {
     "name": "deathwalker punchboard front",
-    "points": 707,
+    "points": 742,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-deathwalker-punchboard-front.png",
     "xws": "deathwalkerpunchboardfront"
   },
   {
     "name": "deathwalker punchboard back",
-    "points": 708,
+    "points": 743,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-deathwalker-punchboard-back.png",
     "xws": "deathwalkerpunchboardback"
   },
   {
     "name": "deepwraith punchboard front",
-    "points": 709,
+    "points": 744,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-deepwraith-punchboard-front.png",
     "xws": "deepwraithpunchboardfront"
   },
   {
     "name": "deepwraith punchboard back",
-    "points": 710,
+    "points": 745,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-deepwraith-punchboard-back.png",
     "xws": "deepwraithpunchboardback"
   },
   {
     "name": "kelp punchboard front",
-    "points": 711,
+    "points": 746,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-deepwraith-punchboard-front.png",
     "xws": "deepwraithpunchboardfront"
   },
   {
     "name": "kelp punchboard back",
-    "points": 712,
+    "points": 747,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-deepwraith-punchboard-back.png",
     "xws": "deepwraithpunchboardback"
   },
   {
     "name": "drifter punchboard front",
-    "points": 713,
+    "points": 748,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-drifter-punchboard-front.png",
     "xws": "drifterpunchboardfront"
   },
   {
     "name": "drifter punchboard back",
-    "points": 714,
+    "points": 749,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-drifter-punchboard-back.png",
     "xws": "drifterpunchboardback"
   },
   {
     "name": "frozen fist punchboard front",
-    "points": 715,
+    "points": 750,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-frozen-fist-punchboard-front.png",
     "xws": "frozenfistpunchboardfront"
   },
   {
     "name": "frozen fist punchboard back",
-    "points": 716,
+    "points": 751,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-frozen-fist-punchboard-back.png",
     "xws": "frozenfistpunchboardback"
   },
   {
     "name": "fist punchboard front",
-    "points": 717,
+    "points": 752,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-frozen-fist-punchboard-front.png",
     "xws": "frozenfistpunchboardfront"
   },
   {
     "name": "fist punchboard back",
-    "points": 718,
+    "points": 753,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-frozen-fist-punchboard-back.png",
     "xws": "frozenfistpunchboardback"
   },
   {
     "name": "geminate punchboard front",
-    "points": 719,
+    "points": 754,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-geminate-punchboard-front.png",
     "xws": "geminatepunchboardfront"
   },
   {
     "name": "geminate punchboard back",
-    "points": 720,
+    "points": 755,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-geminate-punchboard-back.png",
     "xws": "geminatepunchboardback"
   },
   {
     "name": "hive punchboard 01 front",
-    "points": 721,
+    "points": 756,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-hive-punchboard-01-front.png",
     "xws": "hivepunchboard01front"
   },
   {
     "name": "hive punchboard 01 back",
-    "points": 722,
+    "points": 757,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-hive-punchboard-01-back.png",
     "xws": "hivepunchboard01back"
   },
   {
     "name": "hive punchboard 02 front",
-    "points": 723,
+    "points": 758,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-hive-punchboard-02-front.png",
     "xws": "hivepunchboard02front"
   },
   {
     "name": "hive punchboard 02 back",
-    "points": 724,
+    "points": 759,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-hive-punchboard-02-back.png",
     "xws": "hivepunchboard02back"
   },
   {
     "name": "prism punchboard 01 front",
-    "points": 725,
+    "points": 760,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-hive-punchboard-01-front.png",
     "xws": "hivepunchboard01front"
   },
   {
     "name": "prism punchboard 01 back",
-    "points": 726,
+    "points": 761,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-hive-punchboard-01-back.png",
     "xws": "hivepunchboard01back"
   },
   {
     "name": "prism punchboard 02 front",
-    "points": 727,
+    "points": 762,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-hive-punchboard-02-front.png",
     "xws": "hivepunchboard02front"
   },
   {
     "name": "prism punchboard 02 back",
-    "points": 728,
+    "points": 763,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-hive-punchboard-02-back.png",
     "xws": "hivepunchboard02back"
   },
   {
     "name": "infuser punchboard front",
-    "points": 729,
+    "points": 764,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-infuser-punchboard-front.png",
     "xws": "infuserpunchboardfront"
   },
   {
     "name": "infuser punchboard back",
-    "points": 730,
+    "points": 765,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-infuser-punchboard-back.png",
     "xws": "infuserpunchboardback"
   },
   {
     "name": "astral punchboard front",
-    "points": 731,
+    "points": 766,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-infuser-punchboard-front.png",
     "xws": "infuserpunchboardfront"
   },
   {
     "name": "astral punchboard back",
-    "points": 732,
+    "points": 767,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-infuser-punchboard-back.png",
     "xws": "infuserpunchboardback"
   },
   {
     "name": "metal mosaic punchboard front",
-    "points": 733,
+    "points": 768,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-metal-mosaic-punchboard-front.png",
     "xws": "metalmosaicpunchboardfront"
   },
   {
     "name": "metal mosaic punchboard back",
-    "points": 734,
+    "points": 769,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-metal-mosaic-punchboard-back.png",
     "xws": "metalmosaicpunchboardback"
   },
   {
     "name": "drill punchboard front",
-    "points": 735,
+    "points": 770,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-metal-mosaic-punchboard-front.png",
     "xws": "metalmosaicpunchboardfront"
   },
   {
     "name": "drill punchboard back",
-    "points": 736,
+    "points": 771,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-metal-mosaic-punchboard-back.png",
     "xws": "metalmosaicpunchboardback"
   },
   {
     "name": "pain conduit punchboard front",
-    "points": 737,
+    "points": 772,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-pain-conduit-punchboard-front.png",
     "xws": "painconduitpunchboardfront"
   },
   {
     "name": "pain conduit punchboard back",
-    "points": 738,
+    "points": 773,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-pain-conduit-punchboard-back.png",
     "xws": "painconduitpunchboardback"
   },
   {
     "name": "shackles punchboard front",
-    "points": 739,
+    "points": 774,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-pain-conduit-punchboard-front.png",
     "xws": "painconduitpunchboardfront"
   },
   {
     "name": "shackles punchboard back",
-    "points": 740,
+    "points": 775,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-pain-conduit-punchboard-back.png",
     "xws": "painconduitpunchboardback"
   },
   {
     "name": "pyroclast punchboard front",
-    "points": 741,
+    "points": 776,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-pyroclast-punchboard-front.png",
     "xws": "pyroclastpunchboardfront"
   },
   {
     "name": "pyroclast punchboard back",
-    "points": 742,
+    "points": 777,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-pyroclast-punchboard-back.png",
     "xws": "pyroclastpunchboardback"
   },
   {
     "name": "meteor punchboard front",
-    "points": 743,
+    "points": 778,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-pyroclast-punchboard-front.png",
     "xws": "pyroclastpunchboardfront"
   },
   {
     "name": "meteor punchboard back",
-    "points": 744,
+    "points": 779,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-pyroclast-punchboard-back.png",
     "xws": "pyroclastpunchboardback"
   },
   {
     "name": "shattersong punchboard front",
-    "points": 745,
+    "points": 780,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-shattersong-punchboard-front.png",
     "xws": "shattersongpunchboardfront"
   },
   {
     "name": "shattersong punchboard back",
-    "points": 746,
+    "points": 781,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-shattersong-punchboard-back.png",
     "xws": "shattersongpunchboardback"
   },
   {
     "name": "shards punchboard front",
-    "points": 747,
+    "points": 782,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-shattersong-punchboard-front.png",
     "xws": "shattersongpunchboardfront"
   },
   {
     "name": "shards punchboard back",
-    "points": 748,
+    "points": 783,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-shattersong-punchboard-back.png",
     "xws": "shattersongpunchboardback"
   },
   {
     "name": "snowdancer punchboard front",
-    "points": 749,
+    "points": 784,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-snowdancer-punchboard-front.png",
     "xws": "snowdancerpunchboardfront"
   },
   {
     "name": "snowdancer punchboard back",
-    "points": 750,
+    "points": 785,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-snowdancer-punchboard-back.png",
     "xws": "snowdancerpunchboardback"
   },
   {
     "name": "snowflake punchboard front",
-    "points": 751,
+    "points": 786,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-snowdancer-punchboard-front.png",
     "xws": "snowdancerpunchboardfront"
   },
   {
     "name": "snowflake punchboard back",
-    "points": 752,
+    "points": 787,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-snowdancer-punchboard-back.png",
     "xws": "snowdancerpunchboardback"
   },
   {
     "name": "trapper punchboard 01 front",
-    "points": 753,
+    "points": 788,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-trapper-punchboard-01-front.png",
     "xws": "trapperpunchboard01front"
   },
   {
     "name": "trapper punchboard 01 back",
-    "points": 754,
+    "points": 789,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-trapper-punchboard-01-back.png",
     "xws": "trapperpunchboard01back"
   },
   {
     "name": "trapper punchboard 02 front",
-    "points": 755,
+    "points": 790,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-trapper-punchboard-02-front.png",
     "xws": "trapperpunchboard02front"
   },
   {
     "name": "trapper punchboard 02 back",
-    "points": 756,
+    "points": 791,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-trapper-punchboard-02-back.png",
     "xws": "trapperpunchboard02back"
   },
   {
     "name": "trap punchboard 01 front",
-    "points": 757,
+    "points": 792,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-trapper-punchboard-01-front.png",
     "xws": "trapperpunchboard01front"
   },
   {
     "name": "trap punchboard 01 back",
-    "points": 758,
+    "points": 793,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-trapper-punchboard-01-back.png",
     "xws": "trapperpunchboard01back"
   },
   {
     "name": "trap punchboard 02 front",
-    "points": 759,
+    "points": 794,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-trapper-punchboard-02-front.png",
     "xws": "trapperpunchboard02front"
   },
   {
     "name": "trap punchboard 02 back",
-    "points": 760,
+    "points": 795,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/characters/fh-trapper-punchboard-02-back.png",
     "xws": "trapperpunchboard02back"
   },
   {
     "name": "punchboard 01 front",
-    "points": 761,
+    "points": 796,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-01-front.png",
     "xws": "punchboard01front"
   },
   {
     "name": "punchboard 01 back",
-    "points": 762,
+    "points": 797,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-01-back.png",
     "xws": "punchboard01back"
   },
   {
     "name": "punchboard 02 front",
-    "points": 763,
+    "points": 798,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-02-front.png",
     "xws": "punchboard02front"
   },
   {
     "name": "punchboard 02 back",
-    "points": 764,
+    "points": 799,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-02-back.png",
     "xws": "punchboard02back"
   },
   {
     "name": "punchboard 03 front",
-    "points": 765,
+    "points": 800,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-03-front.png",
     "xws": "punchboard03front"
   },
   {
     "name": "punchboard 03 back",
-    "points": 766,
+    "points": 801,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-03-back.png",
     "xws": "punchboard03back"
   },
   {
     "name": "punchboard 04 front",
-    "points": 767,
+    "points": 802,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-04-front.png",
     "xws": "punchboard04front"
   },
   {
     "name": "punchboard 04 back",
-    "points": 768,
+    "points": 803,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-04-back.png",
     "xws": "punchboard04back"
   },
   {
     "name": "punchboard 05 front",
-    "points": 769,
+    "points": 804,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-05-front.png",
     "xws": "punchboard05front"
   },
   {
     "name": "punchboard 05 back",
-    "points": 770,
+    "points": 805,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-05-back.png",
     "xws": "punchboard05back"
   },
   {
     "name": "punchboard 06 front",
-    "points": 771,
+    "points": 806,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-06-front.png",
     "xws": "punchboard06front"
   },
   {
     "name": "punchboard 06 back",
-    "points": 772,
+    "points": 807,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-06-back.png",
     "xws": "punchboard06back"
   },
   {
     "name": "punchboard 07 front",
-    "points": 773,
+    "points": 808,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-07-front.png",
     "xws": "punchboard07front"
   },
   {
     "name": "punchboard 07 back",
-    "points": 774,
+    "points": 809,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-07-back.png",
     "xws": "punchboard07back"
   },
   {
     "name": "punchboard 08 front",
-    "points": 775,
+    "points": 810,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-08-front.png",
     "xws": "punchboard08front"
   },
   {
     "name": "punchboard 08 back",
-    "points": 776,
+    "points": 811,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-08-back.png",
     "xws": "punchboard08back"
   },
   {
     "name": "punchboard 09 front",
-    "points": 777,
+    "points": 812,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-09-front.png",
     "xws": "punchboard09front"
   },
   {
     "name": "punchboard 09 back",
-    "points": 778,
+    "points": 813,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-09-back.png",
     "xws": "punchboard09back"
   },
   {
     "name": "punchboard 10 front",
-    "points": 779,
+    "points": 814,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-10-front.png",
     "xws": "punchboard10front"
   },
   {
     "name": "punchboard 10 back",
-    "points": 780,
+    "points": 815,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-10-back.png",
     "xws": "punchboard10back"
   },
   {
     "name": "punchboard 11 front",
-    "points": 781,
+    "points": 816,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-11-front.png",
     "xws": "punchboard11front"
   },
   {
     "name": "punchboard 11 back",
-    "points": 782,
+    "points": 817,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-11-back.png",
     "xws": "punchboard11back"
   },
   {
     "name": "punchboard 12 front",
-    "points": 783,
+    "points": 818,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-12-front.png",
     "xws": "punchboard12front"
   },
   {
     "name": "punchboard 12 back",
-    "points": 784,
+    "points": 819,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-12-back.png",
     "xws": "punchboard12back"
   },
   {
     "name": "punchboard 13 front",
-    "points": 785,
+    "points": 820,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-13-front.png",
     "xws": "punchboard13front"
   },
   {
     "name": "punchboard 13 back",
-    "points": 786,
+    "points": 821,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-13-back.png",
     "xws": "punchboard13back"
   },
   {
     "name": "punchboard 14 front",
-    "points": 787,
+    "points": 822,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-14-front.png",
     "xws": "punchboard14front"
   },
   {
     "name": "punchboard 14 back",
-    "points": 788,
+    "points": 823,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-14-back.png",
     "xws": "punchboard14back"
   },
   {
     "name": "punchboard 15 front",
-    "points": 789,
+    "points": 824,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-15-front.png",
     "xws": "punchboard15front"
   },
   {
     "name": "punchboard 15 back",
-    "points": 790,
+    "points": 825,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-15-back.png",
     "xws": "punchboard15back"
   },
   {
     "name": "punchboard 16 front",
-    "points": 791,
+    "points": 826,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-16-front.png",
     "xws": "punchboard16front"
   },
   {
     "name": "punchboard 16 back",
-    "points": 792,
+    "points": 827,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-16-back.png",
     "xws": "punchboard16back"
   },
   {
     "name": "punchboard 17 front",
-    "points": 793,
+    "points": 828,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-17-front.png",
     "xws": "punchboard17front"
   },
   {
     "name": "punchboard 17 back",
-    "points": 794,
+    "points": 829,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-17-back.png",
     "xws": "punchboard17back"
   },
   {
     "name": "punchboard 18 front",
-    "points": 795,
+    "points": 830,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-18-front.png",
     "xws": "punchboard18front"
   },
   {
     "name": "punchboard 18 back",
-    "points": 796,
+    "points": 831,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-18-back.png",
     "xws": "punchboard18back"
   },
   {
     "name": "punchboard 19 front",
-    "points": 797,
+    "points": 832,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-19-front.png",
     "xws": "punchboard19front"
   },
   {
     "name": "punchboard 19 back",
-    "points": 798,
+    "points": 833,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-19-back.png",
     "xws": "punchboard19back"
   },
   {
     "name": "punchboard 20 front",
-    "points": 799,
+    "points": 834,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-20-front.png",
     "xws": "punchboard20front"
   },
   {
     "name": "punchboard 20 back",
-    "points": 800,
+    "points": 835,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-20-back.png",
     "xws": "punchboard20back"
   },
   {
     "name": "punchboard 21 front",
-    "points": 801,
+    "points": 836,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-21-front.png",
     "xws": "punchboard21front"
   },
   {
     "name": "punchboard 21 back",
-    "points": 802,
+    "points": 837,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-21-back.png",
     "xws": "punchboard21back"
   },
   {
     "name": "punchboard 22 front",
-    "points": 803,
+    "points": 838,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-22-front.png",
     "xws": "punchboard22front"
   },
   {
     "name": "punchboard 22 back",
-    "points": 804,
+    "points": 839,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-22-back.png",
     "xws": "punchboard22back"
   },
   {
     "name": "punchboard 23 front",
-    "points": 805,
+    "points": 840,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-23-front.png",
     "xws": "punchboard23front"
   },
   {
     "name": "punchboard 23 back",
-    "points": 806,
+    "points": 841,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-23-back.png",
     "xws": "punchboard23back"
   },
   {
     "name": "punchboard 24 front",
-    "points": 807,
+    "points": 842,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-24-front.png",
     "xws": "punchboard24front"
   },
   {
     "name": "punchboard 24 back",
-    "points": 808,
+    "points": 843,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-24-back.png",
     "xws": "punchboard24back"
   },
   {
     "name": "punchboard 25 front",
-    "points": 809,
+    "points": 844,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-25-front.png",
     "xws": "punchboard25front"
   },
   {
     "name": "punchboard 25 back",
-    "points": 810,
+    "points": 845,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-25-back.png",
     "xws": "punchboard25back"
   },
   {
     "name": "punchboard 26 front",
-    "points": 811,
+    "points": 846,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-26-front.png",
     "xws": "punchboard26front"
   },
   {
     "name": "punchboard 26 back",
-    "points": 812,
+    "points": 847,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-26-back.png",
     "xws": "punchboard26back"
   },
   {
     "name": "punchboard 27 front",
-    "points": 813,
+    "points": 848,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-27-front.png",
     "xws": "punchboard27front"
   },
   {
     "name": "punchboard 27 back",
-    "points": 814,
+    "points": 849,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-27-back.png",
     "xws": "punchboard27back"
   },
   {
     "name": "punchboard 28 front",
-    "points": 815,
+    "points": 850,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-28-front.png",
     "xws": "punchboard28front"
   },
   {
     "name": "punchboard 28 back",
-    "points": 816,
+    "points": 851,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/punchboards/general/fh-punchboard-28-back.png",
     "xws": "punchboard28back"
   },
   {
     "name": "campaign stickers",
-    "points": 817,
+    "points": 852,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-campaign-stickers.png",
     "xws": "campaignstickers"
   },
   {
     "name": "enhancement stickers",
-    "points": 818,
+    "points": 853,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-enhancement-stickers.png",
     "xws": "enhancementstickers"
   },
   {
     "name": "location stickers 1",
-    "points": 819,
+    "points": 854,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-1.png",
     "xws": "locationstickers1"
   },
   {
     "name": "location stickers 2",
-    "points": 820,
+    "points": 855,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-2.png",
     "xws": "locationstickers2"
   },
   {
     "name": "location stickers 3",
-    "points": 821,
+    "points": 856,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-3.png",
     "xws": "locationstickers3"
   },
   {
     "name": "location stickers 4",
-    "points": 822,
+    "points": 857,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-4.png",
     "xws": "locationstickers4"
   },
   {
     "name": "location stickers 5",
-    "points": 823,
+    "points": 858,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-location-stickers-5.png",
     "xws": "locationstickers5"
   },
   {
     "name": "outpost stickers 21 inn",
-    "points": 824,
+    "points": 859,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-21-inn.png",
     "xws": "outpoststickers21inn"
   },
   {
     "name": "outpost stickers 24a garden",
-    "points": 825,
+    "points": 860,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-24a-garden.png",
     "xws": "outpoststickers24agarden"
   },
   {
     "name": "outpost stickers 24b garden",
-    "points": 826,
+    "points": 861,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-24b-garden.png",
     "xws": "outpoststickers24bgarden"
   },
   {
     "name": "outpost stickers 37 trading post",
-    "points": 827,
+    "points": 862,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-37-trading-post.png",
     "xws": "outpoststickers37tradingpost"
   },
   {
     "name": "outpost stickers 39 jeweler",
-    "points": 828,
+    "points": 863,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-39-jeweler.png",
     "xws": "outpoststickers39jeweler"
   },
   {
     "name": "outpost stickers 42 temple",
-    "points": 829,
+    "points": 864,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-42-temple.png",
     "xws": "outpoststickers42temple"
   },
   {
     "name": "outpost stickers 44 enhancer",
-    "points": 830,
+    "points": 865,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-44-enhancer.png",
     "xws": "outpoststickers44enhancer"
   },
   {
     "name": "outpost stickers 65 metal depot",
-    "points": 831,
+    "points": 866,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-65-metal-depot.png",
     "xws": "outpoststickers65metaldepot"
   },
   {
     "name": "outpost stickers 67 lumber depot",
-    "points": 832,
+    "points": 867,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-67-lumber-depot.png",
     "xws": "outpoststickers67lumberdepot"
   },
   {
     "name": "outpost stickers 72 hide depot",
-    "points": 833,
+    "points": 868,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-72-hide-depot.png",
     "xws": "outpoststickers72hidedepot"
   },
   {
     "name": "outpost stickers 74 tavern",
-    "points": 834,
+    "points": 869,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-74-tavern.png",
     "xws": "outpoststickers74tavern"
   },
   {
     "name": "outpost stickers 81 hall of revelry 1",
-    "points": 835,
+    "points": 870,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-81-hall-of-revelry-1.png",
     "xws": "outpoststickers81hallofrevelry1"
   },
   {
     "name": "outpost stickers 81 hall of revelry 2",
-    "points": 836,
+    "points": 871,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-81-hall-of-revelry-2.png",
     "xws": "outpoststickers81hallofrevelry2"
   },
   {
     "name": "outpost stickers 83 library",
-    "points": 837,
+    "points": 872,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-83-library.png",
     "xws": "outpoststickers83library"
   },
   {
     "name": "outpost stickers 85 carpenter",
-    "points": 838,
+    "points": 873,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-85-carpenter.png",
     "xws": "outpoststickers85carpenter"
   },
   {
     "name": "outpost stickers 88 stables",
-    "points": 839,
+    "points": 874,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-88-stables.png",
     "xws": "outpoststickers88stables"
   },
   {
     "name": "outpost stickers 90 town hall",
-    "points": 840,
+    "points": 875,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-90-town-hall.png",
     "xws": "outpoststickers90townhall"
   },
   {
     "name": "outpost stickers large 1",
-    "points": 841,
+    "points": 876,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-large-1.png",
     "xws": "outpoststickerslarge1"
   },
   {
     "name": "outpost stickers large 2",
-    "points": 842,
+    "points": 877,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-large-2.png",
     "xws": "outpoststickerslarge2"
   },
   {
     "name": "outpost stickers large 3",
-    "points": 843,
+    "points": 878,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-outpost-stickers-large-3.png",
     "xws": "outpoststickerslarge3"
   },
   {
     "name": "removable sticker set 1",
-    "points": 844,
+    "points": 879,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-removable-sticker-set-1.png",
     "xws": "removablestickerset1"
   },
   {
     "name": "removable sticker set 2",
-    "points": 845,
+    "points": 880,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-removable-sticker-set-2.png",
     "xws": "removablestickerset2"
   },
   {
     "name": "wax seal stickers",
-    "points": 846,
+    "points": 881,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/fh-wax-seal-stickers.png",
     "xws": "waxsealstickers"
   }
 ]
-
