@@ -6307,232 +6307,246 @@
     "xws": "outpoststickerslarge3dl"
   },
   {
-    "name": "removable sticker set 1 dl",
+    "name": "puzzle book dl",
     "points": 901,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/die-lines/fh-puzzle-book-dl.png",
+    "xws": "puzzlebookdl"
+  },
+  {
+    "name": "removable sticker set 1 dl",
+    "points": 902,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/die-lines/fh-removable-sticker-set-1-dl.png",
     "xws": "removablestickerset1dl"
   },
   {
     "name": "removable sticker set 2 dl",
-    "points": 902,
+    "points": 903,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/die-lines/fh-removable-sticker-set-2-dl.png",
     "xws": "removablestickerset2dl"
   },
   {
     "name": "wax seal stickers dl",
-    "points": 903,
+    "points": 904,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/die-lines/fh-wax-seal-stickers-dl.png",
     "xws": "waxsealstickersdl"
   },
   {
     "name": "campaign stickers ndl",
-    "points": 904,
+    "points": 905,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-campaign-stickers-ndl.png",
     "xws": "campaignstickersndl"
   },
   {
     "name": "enhancement stickers ndl",
-    "points": 905,
+    "points": 906,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-enhancement-stickers-ndl.png",
     "xws": "enhancementstickersndl"
   },
   {
     "name": "location stickers 1 ndl",
-    "points": 906,
+    "points": 907,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-1-ndl.png",
     "xws": "locationstickers1ndl"
   },
   {
     "name": "location stickers 2 ndl",
-    "points": 907,
+    "points": 908,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-2-ndl.png",
     "xws": "locationstickers2ndl"
   },
   {
     "name": "location stickers 3 ndl",
-    "points": 908,
+    "points": 909,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-3-ndl.png",
     "xws": "locationstickers3ndl"
   },
   {
     "name": "location stickers 4 ndl",
-    "points": 909,
+    "points": 910,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-4-ndl.png",
     "xws": "locationstickers4ndl"
   },
   {
     "name": "location stickers 5 ndl",
-    "points": 910,
+    "points": 911,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-5-ndl.png",
     "xws": "locationstickers5ndl"
   },
   {
     "name": "outpost stickers 21 inn ndl",
-    "points": 911,
+    "points": 912,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-21-inn-ndl.png",
     "xws": "outpoststickers21innndl"
   },
   {
     "name": "outpost stickers 24a garden ndl",
-    "points": 912,
+    "points": 913,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-24a-garden-ndl.png",
     "xws": "outpoststickers24agardenndl"
   },
   {
     "name": "outpost stickers 24b garden ndl",
-    "points": 913,
+    "points": 914,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-24b-garden-ndl.png",
     "xws": "outpoststickers24bgardenndl"
   },
   {
     "name": "outpost stickers 37 trading post ndl",
-    "points": 914,
+    "points": 915,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-37-trading-post-ndl.png",
     "xws": "outpoststickers37tradingpostndl"
   },
   {
     "name": "outpost stickers 39 jeweler ndl",
-    "points": 915,
+    "points": 916,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-39-jeweler-ndl.png",
     "xws": "outpoststickers39jewelerndl"
   },
   {
     "name": "outpost stickers 42 temple ndl",
-    "points": 916,
+    "points": 917,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-42-temple-ndl.png",
     "xws": "outpoststickers42templendl"
   },
   {
     "name": "outpost stickers 44 enhancer ndl",
-    "points": 917,
+    "points": 918,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-44-enhancer-ndl.png",
     "xws": "outpoststickers44enhancerndl"
   },
   {
     "name": "outpost stickers 65 metal depot ndl",
-    "points": 918,
+    "points": 919,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-65-metal-depot-ndl.png",
     "xws": "outpoststickers65metaldepotndl"
   },
   {
     "name": "outpost stickers 67 lumber depot ndl",
-    "points": 919,
+    "points": 920,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-67-lumber-depot-ndl.png",
     "xws": "outpoststickers67lumberdepotndl"
   },
   {
     "name": "outpost stickers 72 hide depot ndl",
-    "points": 920,
+    "points": 921,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-72-hide-depot-ndl.png",
     "xws": "outpoststickers72hidedepotndl"
   },
   {
     "name": "outpost stickers 74 tavern ndl",
-    "points": 921,
+    "points": 922,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-74-tavern-ndl.png",
     "xws": "outpoststickers74tavernndl"
   },
   {
     "name": "outpost stickers 81 hall of revelry 1 ndl",
-    "points": 922,
+    "points": 923,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-81-hall-of-revelry-1-ndl.png",
     "xws": "outpoststickers81hallofrevelry1ndl"
   },
   {
     "name": "outpost stickers 81 hall of revelry 2 ndl",
-    "points": 923,
+    "points": 924,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-81-hall-of-revelry-2-ndl.png",
     "xws": "outpoststickers81hallofrevelry2ndl"
   },
   {
     "name": "outpost stickers 83 library ndl",
-    "points": 924,
+    "points": 925,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-83-library-ndl.png",
     "xws": "outpoststickers83libraryndl"
   },
   {
     "name": "outpost stickers 85 carpenter ndl",
-    "points": 925,
+    "points": 926,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-85-carpenter-ndl.png",
     "xws": "outpoststickers85carpenterndl"
   },
   {
     "name": "outpost stickers 88 stables ndl",
-    "points": 926,
+    "points": 927,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-88-stables-ndl.png",
     "xws": "outpoststickers88stablesndl"
   },
   {
     "name": "outpost stickers 90 town hall ndl",
-    "points": 927,
+    "points": 928,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-90-town-hall-ndl.png",
     "xws": "outpoststickers90townhallndl"
   },
   {
     "name": "outpost stickers large 1 ndl",
-    "points": 928,
+    "points": 929,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-large-1-ndl.png",
     "xws": "outpoststickerslarge1ndl"
   },
   {
     "name": "outpost stickers large 2 ndl",
-    "points": 929,
+    "points": 930,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-large-2-ndl.png",
     "xws": "outpoststickerslarge2ndl"
   },
   {
     "name": "outpost stickers large 3 ndl",
-    "points": 930,
+    "points": 931,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-large-3-ndl.png",
     "xws": "outpoststickerslarge3ndl"
   },
   {
+    "name": "puzzle book ndl",
+    "points": 932,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/no-die-lines/fh-puzzle-book-ndl.png",
+    "xws": "puzzlebookndl"
+  },
+  {
     "name": "removable sticker set 1 ndl",
-    "points": 931,
+    "points": 933,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-removable-sticker-set-1-ndl.png",
     "xws": "removablestickerset1ndl"
   },
   {
     "name": "removable sticker set 2 ndl",
-    "points": 932,
+    "points": 934,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-removable-sticker-set-2-ndl.png",
     "xws": "removablestickerset2ndl"
   },
   {
     "name": "wax seal stickers ndl",
-    "points": 933,
+    "points": 935,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/no-die-lines/fh-wax-seal-stickers-ndl.png",
     "xws": "waxsealstickersndl"
