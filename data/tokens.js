@@ -665,63 +665,63 @@
     "xws": "scenarioaidnumberback"
   },
   {
-    "name": "scenario aid number 01",
+    "name": "scenario aid number 1",
     "points": 95,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-01.png",
     "xws": "scenarioaidnumber01"
   },
   {
-    "name": "scenario aid number 02",
+    "name": "scenario aid number 2",
     "points": 96,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-02.png",
     "xws": "scenarioaidnumber02"
   },
   {
-    "name": "scenario aid number 03",
+    "name": "scenario aid number 3",
     "points": 97,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-03.png",
     "xws": "scenarioaidnumber03"
   },
   {
-    "name": "scenario aid number 04",
+    "name": "scenario aid number 4",
     "points": 98,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-04.png",
     "xws": "scenarioaidnumber04"
   },
   {
-    "name": "scenario aid number 05",
+    "name": "scenario aid number 5",
     "points": 99,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-05.png",
     "xws": "scenarioaidnumber05"
   },
   {
-    "name": "scenario aid number 06",
+    "name": "scenario aid number 6",
     "points": 100,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-06.png",
     "xws": "scenarioaidnumber06"
   },
   {
-    "name": "scenario aid number 07",
+    "name": "scenario aid number 7",
     "points": 101,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-07.png",
     "xws": "scenarioaidnumber07"
   },
   {
-    "name": "scenario aid number 08",
+    "name": "scenario aid number 8",
     "points": 102,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-08.png",
     "xws": "scenarioaidnumber08"
   },
   {
-    "name": "scenario aid number 09",
+    "name": "scenario aid number 9",
     "points": 103,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-09.png",
