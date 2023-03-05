@@ -1067,7 +1067,7 @@
     "name": "water",
     "points": 152,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-murky-small.png",
+    "image": "tokens/frosthaven/terrain/fh-water-small.png",
     "xws": "water"
   },
   {
