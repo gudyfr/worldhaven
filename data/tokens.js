@@ -353,708 +353,708 @@
     "name": "bane",
     "points": 50,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-bane.png",
-    "xws": "bane"
+    "image": "tokens/frosthaven/conditions/fh-bane-condition.png",
+    "xws": "banecondition"
   },
   {
     "name": "bless",
     "points": 51,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-bless.png",
-    "xws": "bless"
+    "image": "tokens/frosthaven/conditions/fh-bless-condition.png",
+    "xws": "blesscondition"
   },
   {
     "name": "brittle",
     "points": 52,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-brittle.png",
-    "xws": "brittle"
+    "image": "tokens/frosthaven/conditions/fh-brittle-condition.png",
+    "xws": "brittlecondition"
   },
   {
     "name": "curse",
     "points": 53,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-curse.png",
-    "xws": "curse"
+    "image": "tokens/frosthaven/conditions/fh-curse-condition.png",
+    "xws": "cursecondition"
   },
   {
     "name": "disarm",
     "points": 54,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-disarm.png",
-    "xws": "disarm"
+    "image": "tokens/frosthaven/conditions/fh-disarm-condition.png",
+    "xws": "disarmcondition"
   },
   {
     "name": "immobilize",
     "points": 55,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-immobilize.png",
-    "xws": "immobilize"
+    "image": "tokens/frosthaven/conditions/fh-immobilize-condition.png",
+    "xws": "immobilizecondition"
   },
   {
     "name": "impair",
     "points": 56,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-impair.png",
-    "xws": "impair"
+    "image": "tokens/frosthaven/conditions/fh-impair-condition.png",
+    "xws": "impaircondition"
   },
   {
     "name": "invisible",
     "points": 57,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-invisible.png",
-    "xws": "invisible"
+    "image": "tokens/frosthaven/conditions/fh-invisible-condition.png",
+    "xws": "invisiblecondition"
   },
   {
     "name": "muddle",
     "points": 58,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-muddle.png",
-    "xws": "muddle"
-  },
-  {
-    "name": "pierce",
-    "points": 59,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-pierce.png",
-    "xws": "pierce"
+    "image": "tokens/frosthaven/conditions/fh-muddle-condition.png",
+    "xws": "muddlecondition"
   },
   {
     "name": "poison",
-    "points": 60,
+    "points": 59,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-poison.png",
-    "xws": "poison"
-  },
-  {
-    "name": "pull",
-    "points": 61,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-pull.png",
-    "xws": "pull"
-  },
-  {
-    "name": "push",
-    "points": 62,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-push.png",
-    "xws": "push"
+    "image": "tokens/frosthaven/conditions/fh-poison-condition.png",
+    "xws": "poisoncondition"
   },
   {
     "name": "regenerate",
-    "points": 63,
+    "points": 60,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-regenerate.png",
-    "xws": "regenerate"
+    "image": "tokens/frosthaven/conditions/fh-regenerate-condition.png",
+    "xws": "regeneratecondition"
   },
   {
     "name": "strengthen",
-    "points": 64,
+    "points": 61,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-strengthen.png",
-    "xws": "strengthen"
+    "image": "tokens/frosthaven/conditions/fh-strengthen-condition.png",
+    "xws": "strengthencondition"
   },
   {
     "name": "stun",
-    "points": 65,
+    "points": 62,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-stun.png",
-    "xws": "stun"
+    "image": "tokens/frosthaven/conditions/fh-stun-condition.png",
+    "xws": "stuncondition"
   },
   {
     "name": "ward",
-    "points": 66,
+    "points": 63,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-ward.png",
-    "xws": "ward"
+    "image": "tokens/frosthaven/conditions/fh-ward-condition.png",
+    "xws": "wardcondition"
   },
   {
     "name": "wound",
+    "points": 64,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/conditions/fh-wound-condition.png",
+    "xws": "woundcondition"
+  },
+  {
+    "name": "1 damage",
+    "points": 65,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/damage/fh-1-damage.png",
+    "xws": "1damage"
+  },
+  {
+    "name": "3 damage",
+    "points": 66,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/damage/fh-3-damage.png",
+    "xws": "3damage"
+  },
+  {
+    "name": "10 damage",
     "points": 67,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-wound.png",
-    "xws": "wound"
+    "image": "tokens/frosthaven/damage/fh-10-damage.png",
+    "xws": "10damage"
   },
   {
-    "name": "air",
+    "name": "20 damage",
     "points": 68,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-air.png",
-    "xws": "air"
+    "image": "tokens/frosthaven/damage/fh-20-damage.png",
+    "xws": "20damage"
+  },
+  {
+    "name": "100 damage",
+    "points": 69,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/damage/fh-100-damage.png",
+    "xws": "100damage"
   },
   {
     "name": "air",
-    "points": 69,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-air-consume.png",
-    "xws": "air"
-  },
-  {
-    "name": "dark",
     "points": 70,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-dark.png",
-    "xws": "dark"
+    "image": "tokens/frosthaven/elements/fh-air-element.png",
+    "xws": "airelement"
   },
   {
     "name": "dark",
     "points": 71,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-dark-consume.png",
-    "xws": "dark"
+    "image": "tokens/frosthaven/elements/fh-dark-element.png",
+    "xws": "darkelement"
   },
   {
     "name": "earth",
     "points": 72,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-earth.png",
-    "xws": "earth"
+    "image": "tokens/frosthaven/elements/fh-earth-element.png",
+    "xws": "earthelement"
   },
   {
-    "name": "earth",
+    "name": "fire",
     "points": 73,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-earth-consume.png",
-    "xws": "earth"
+    "image": "tokens/frosthaven/elements/fh-fire-element.png",
+    "xws": "fireelement"
   },
   {
-    "name": "fire",
+    "name": "ice",
     "points": 74,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-fire.png",
-    "xws": "fire"
+    "image": "tokens/frosthaven/elements/fh-ice-element.png",
+    "xws": "iceelement"
   },
   {
-    "name": "fire",
+    "name": "light",
     "points": 75,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-fire-consume.png",
-    "xws": "fire"
-  },
-  {
-    "name": "ice",
-    "points": 76,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-ice.png",
-    "xws": "ice"
-  },
-  {
-    "name": "ice",
-    "points": 77,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-ice-consume.png",
-    "xws": "ice"
-  },
-  {
-    "name": "light",
-    "points": 78,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-light.png",
-    "xws": "light"
-  },
-  {
-    "name": "light",
-    "points": 79,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-light-consume.png",
-    "xws": "light"
-  },
-  {
-    "name": "wild",
-    "points": 80,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-wild.png",
-    "xws": "wild"
-  },
-  {
-    "name": "wild",
-    "points": 81,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-wild-consume.png",
-    "xws": "wild"
+    "image": "tokens/frosthaven/elements/fh-light-element.png",
+    "xws": "lightelement"
   },
   {
     "name": "scenario aid letter a",
-    "points": 82,
+    "points": 76,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-a.png",
     "xws": "scenarioaidlettera"
   },
   {
     "name": "scenario aid letter b",
-    "points": 83,
+    "points": 77,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-b.png",
     "xws": "scenarioaidletterb"
   },
   {
     "name": "scenario aid letter c",
-    "points": 84,
+    "points": 78,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-c.png",
     "xws": "scenarioaidletterc"
   },
   {
     "name": "scenario aid letter d",
-    "points": 85,
+    "points": 79,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-d.png",
     "xws": "scenarioaidletterd"
   },
   {
     "name": "scenario aid letter e",
-    "points": 86,
+    "points": 80,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-e.png",
     "xws": "scenarioaidlettere"
   },
   {
     "name": "scenario aid letter f",
-    "points": 87,
+    "points": 81,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-f.png",
     "xws": "scenarioaidletterf"
   },
   {
     "name": "scenario aid letter g",
-    "points": 88,
+    "points": 82,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-g.png",
     "xws": "scenarioaidletterg"
   },
   {
     "name": "scenario aid letter h",
-    "points": 89,
+    "points": 83,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-h.png",
     "xws": "scenarioaidletterh"
   },
   {
     "name": "scenario aid letter i",
-    "points": 90,
+    "points": 84,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-i.png",
     "xws": "scenarioaidletteri"
   },
   {
     "name": "scenario aid letter j",
-    "points": 91,
+    "points": 85,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-j.png",
     "xws": "scenarioaidletterj"
   },
   {
     "name": "scenario aid letter k",
-    "points": 92,
+    "points": 86,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-k.png",
     "xws": "scenarioaidletterk"
   },
   {
     "name": "scenario aid letter m",
-    "points": 93,
+    "points": 87,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-m.png",
     "xws": "scenarioaidletterm"
   },
   {
     "name": "scenario aid number back",
-    "points": 94,
+    "points": 88,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-back.png",
     "xws": "scenarioaidnumberback"
   },
   {
     "name": "scenario aid number 1",
-    "points": 95,
+    "points": 89,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-01.png",
-    "xws": "scenarioaidnumber01"
+    "xws": "scenarioaidnumber1"
   },
   {
     "name": "scenario aid number 2",
-    "points": 96,
+    "points": 90,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-02.png",
-    "xws": "scenarioaidnumber02"
+    "xws": "scenarioaidnumber2"
   },
   {
     "name": "scenario aid number 3",
-    "points": 97,
+    "points": 91,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-03.png",
-    "xws": "scenarioaidnumber03"
+    "xws": "scenarioaidnumber3"
   },
   {
     "name": "scenario aid number 4",
-    "points": 98,
+    "points": 92,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-04.png",
-    "xws": "scenarioaidnumber04"
+    "xws": "scenarioaidnumber4"
   },
   {
     "name": "scenario aid number 5",
-    "points": 99,
+    "points": 93,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-05.png",
-    "xws": "scenarioaidnumber05"
+    "xws": "scenarioaidnumber5"
   },
   {
     "name": "scenario aid number 6",
-    "points": 100,
+    "points": 94,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-06.png",
-    "xws": "scenarioaidnumber06"
+    "xws": "scenarioaidnumber6"
   },
   {
     "name": "scenario aid number 7",
-    "points": 101,
+    "points": 95,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-07.png",
-    "xws": "scenarioaidnumber07"
+    "xws": "scenarioaidnumber7"
   },
   {
     "name": "scenario aid number 8",
-    "points": 102,
+    "points": 96,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-08.png",
-    "xws": "scenarioaidnumber08"
+    "xws": "scenarioaidnumber8"
   },
   {
     "name": "scenario aid number 9",
-    "points": 103,
+    "points": 97,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-09.png",
-    "xws": "scenarioaidnumber09"
+    "xws": "scenarioaidnumber9"
   },
   {
     "name": "scenario aid number 10",
-    "points": 104,
+    "points": 98,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-10.png",
     "xws": "scenarioaidnumber10"
   },
   {
+    "name": "scenario aid number 11",
+    "points": 99,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-11.png",
+    "xws": "scenarioaidnumber11"
+  },
+  {
+    "name": "scenario aid number 12",
+    "points": 100,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-12.png",
+    "xws": "scenarioaidnumber12"
+  },
+  {
     "name": "altar",
-    "points": 105,
+    "points": 101,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-altar.png",
     "xws": "altar"
   },
   {
-    "name": "barrel",
-    "points": 106,
+    "name": "barrels",
+    "points": 102,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-barrel.png",
-    "xws": "barrel"
+    "image": "tokens/frosthaven/terrain/fh-barrels.png",
+    "xws": "barrels"
   },
   {
     "name": "barricade",
-    "points": 107,
+    "points": 103,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-barricade.png",
     "xws": "barricade"
   },
   {
     "name": "bear trap",
-    "points": 108,
+    "points": 104,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-bear-trap.png",
     "xws": "beartrap"
   },
   {
     "name": "bookshelf",
-    "points": 109,
+    "points": 105,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-bookshelf.png",
     "xws": "bookshelf"
   },
   {
-    "name": "cave",
-    "points": 110,
+    "name": "cave corridor",
+    "points": 106,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-cave-1.png",
-    "xws": "cave"
+    "image": "tokens/frosthaven/terrain/fh-cave-corridor-small.png",
+    "xws": "cave corridor"
   },
   {
-    "name": "cave",
-    "points": 111,
+    "name": "cave corridor",
+    "points": 107,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-cave-2.png",
-    "xws": "cave"
+    "image": "tokens/frosthaven/terrain/fh-cave-corridor-large.png",
+    "xws": "cavecorridor"
   },
   {
     "name": "cave door",
-    "points": 112,
+    "points": 108,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-cave-door.png",
     "xws": "cavedoor"
   },
   {
     "name": "cave rock",
-    "points": 113,
+    "points": 109,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-cave-rock.png",
     "xws": "caverock"
   },
   {
-    "name": "chest",
-    "points": 114,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-chest.png",
-    "xws": "chest"
-  },
-  {
     "name": "control console",
-    "points": 115,
+    "points": 110,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-control-console.png",
     "xws": "controlconsole"
   },
   {
     "name": "crate",
-    "points": 116,
+    "points": 111,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-crate.png",
     "xws": "crate"
   },
   {
     "name": "debris",
-    "points": 117,
+    "points": 112,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-debris-1.png",
+    "image": "tokens/frosthaven/terrain/fh-debris-small.png",
     "xws": "debris"
   },
   {
     "name": "debris",
-    "points": 118,
+    "points": 113,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-debris-2.png",
+    "image": "tokens/frosthaven/terrain/fh-debris-large.png",
     "xws": "debris"
   },
   {
-    "name": "dungeon",
-    "points": 119,
+    "name": "dungeon corridor",
+    "points": 114,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-dungeon-1.png",
-    "xws": "dungeon"
+    "image": "tokens/frosthaven/terrain/fh-dungeon-corridor-small.png",
+    "xws": "dungeoncorridor"
   },
   {
-    "name": "dungeon",
-    "points": 120,
+    "name": "dungeon corridor",
+    "points": 115,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-dungeon-2.png",
-    "xws": "dungeon"
+    "image": "tokens/frosthaven/terrain/fh-dungeon-corridor-large.png",
+    "xws": "dungeoncorridor"
   },
   {
     "name": "dungeon door",
-    "points": 121,
+    "points": 116,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-dungeon-door.png",
-    "xws": "dungeondoor"
+    "image": "tokens/frosthaven/terrain/fh-dungeon-door-closed.png",
+    "xws": "dungeondoorclosed"
+  },
+  {
+    "name": "dungeon door",
+    "points": 117,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-dungeon-door-open.png",
+    "xws": "dungeondooropen"
   },
   {
     "name": "glowing orb",
-    "points": 122,
+    "points": 118,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-glowing-orb.png",
     "xws": "glowingorb"
   },
   {
-    "name": "ice",
-    "points": 123,
+    "name": "ice corridor",
+    "points": 119,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-ice-1.png",
-    "xws": "ice"
+    "image": "tokens/frosthaven/terrain/fh-ice-corridor-small.png",
+    "xws": "icecorridor"
   },
   {
-    "name": "ice",
-    "points": 124,
+    "name": "ice corridor",
+    "points": 120,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-ice-2.png",
-    "xws": "ice"
+    "image": "tokens/frosthaven/terrain/fh-ice-corridor-large.png",
+    "xws": "icecorridor"
   },
   {
     "name": "ice crystal",
-    "points": 125,
+    "points": 121,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-ice-crystal.png",
     "xws": "icecrystal"
   },
   {
     "name": "ice pillar",
-    "points": 126,
+    "points": 122,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-ice-pillar.png",
     "xws": "icepillar"
   },
   {
     "name": "ice spikes",
-    "points": 127,
+    "points": 123,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-ice-spikes.png",
     "xws": "icespikes"
   },
   {
     "name": "lava",
-    "points": 128,
+    "points": 124,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-lava.png",
     "xws": "lava"
   },
   {
     "name": "log",
-    "points": 129,
+    "points": 125,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-log.png",
     "xws": "log"
   },
   {
+    "name": "loot",
+    "points": 126,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-loot.png",
+    "xws": "loot"
+  },
+  {
     "name": "mast",
-    "points": 130,
+    "points": 127,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-mast.png",
     "xws": "mast"
   },
   {
     "name": "metal cabinet",
-    "points": 131,
+    "points": 128,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-metal-cabinet.png",
     "xws": "metalcabinet"
   },
   {
-    "name": "metal",
-    "points": 132,
+    "name": "metal corridor",
+    "points": 129,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-metal-1.png",
-    "xws": "metal"
+    "image": "tokens/frosthaven/terrain/fh-metal-corridor-small.png",
+    "xws": "metalcorridor"
   },
   {
-    "name": "metal",
-    "points": 133,
+    "name": "metal corridor",
+    "points": 130,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-metal-2.png",
-    "xws": "metal"
+    "image": "tokens/frosthaven/terrain/fh-metal-corridor-large.png",
+    "xws": "metalcorridor"
   },
   {
     "name": "metal door",
-    "points": 134,
+    "points": 131,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-metal-door.png",
-    "xws": "metaldoor"
+    "image": "tokens/frosthaven/terrain/fh-metal-door-closed.png",
+    "xws": "metaldoorclosed"
+  },
+  {
+    "name": "metal door",
+    "points": 132,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-metal-door-open.png",
+    "xws": "metaldooropen"
   },
   {
     "name": "nest",
-    "points": 135,
+    "points": 133,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-nest.png",
     "xws": "nest"
   },
   {
     "name": "poison trap",
-    "points": 136,
+    "points": 134,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-poison-trap.png",
     "xws": "poisontrap"
   },
   {
     "name": "power conduit",
-    "points": 137,
+    "points": 135,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-power-conduit.png",
     "xws": "powerconduit"
   },
   {
     "name": "pressure plate",
-    "points": 138,
+    "points": 136,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-pressure-plate.png",
     "xws": "pressureplate"
   },
   {
     "name": "rubble",
-    "points": 139,
+    "points": 137,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-rubble.png",
     "xws": "rubble"
   },
   {
     "name": "sarcophagus",
+    "points": 138,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-sarcophagus-closed.png",
+    "xws": "sarcophagusclosed"
+  },
+  {
+    "name": "sarcophagus",
+    "points": 139,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-sarcophagus-open.png",
+    "xws": "sarcophagusopen"
+  },
+  {
+    "name": "snow corridor",
     "points": 140,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-sarcophagus.png",
-    "xws": "sarcophagus"
+    "image": "tokens/frosthaven/terrain/fh-snow-corridor-small.png",
+    "xws": "snowcorridor"
   },
   {
-    "name": "snow",
+    "name": "snow corridor",
     "points": 141,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-1.png",
-    "xws": "snow"
-  },
-  {
-    "name": "snow",
-    "points": 142,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-2.png",
-    "xws": "snow"
+    "image": "tokens/frosthaven/terrain/fh-snow-corridor-large.png",
+    "xws": "snowcorridor"
   },
   {
     "name": "snow door",
-    "points": 143,
+    "points": 142,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-snow-door.png",
     "xws": "snowdoor"
   },
   {
-    "name": "snow drift",
+    "name": "snowdrift",
+    "points": 143,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-snowdrift.png",
+    "xws": "snowdrift"
+  },
+  {
+    "name": "snow rock",
     "points": 144,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-drift.png",
-    "xws": "snowdrift"
+    "image": "tokens/frosthaven/terrain/fh-snow-rock-small.png",
+    "xws": "snowrock"
   },
   {
     "name": "snow rock",
     "points": 145,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-rock-1.png",
-    "xws": "snow-rock"
-  },
-  {
-    "name": "snow rock",
-    "points": 146,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-rock-2.png",
-    "xws": "snow-rock"
+    "image": "tokens/frosthaven/terrain/fh-snow-rock-large.png",
+    "xws": "snowrock"
   },
   {
     "name": "spike pit trap",
-    "points": 147,
+    "points": 146,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-spike-pit-trap.png",
     "xws": "spikepittrap"
   },
   {
     "name": "stairs",
-    "points": 148,
+    "points": 147,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-stairs.png",
     "xws": "stairs"
   },
   {
     "name": "stalagmites",
-    "points": 149,
+    "points": 148,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-stalagmites.png",
     "xws": "stalagmites"
   },
   {
     "name": "supply shelf",
-    "points": 150,
+    "points": 149,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-supply-shelf.png",
     "xws": "supplyshelf"
+  },
+  {
+    "name": "treasure chest",
+    "points": 150,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-treasure-chest.png",
+    "xws": "treasurechest"
   },
   {
     "name": "tree",
@@ -1067,21 +1067,21 @@
     "name": "water",
     "points": 152,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-water-1.png",
+    "image": "tokens/frosthaven/terrain/fh-murky-small.png",
     "xws": "water"
   },
   {
     "name": "water",
     "points": 153,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-water-2.png",
+    "image": "tokens/frosthaven/terrain/fh-water-large.png",
     "xws": "water"
   },
   {
     "name": "water",
     "points": 154,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-water-3.png",
+    "image": "tokens/frosthaven/terrain/fh-water-huge.png",
     "xws": "water"
   },
   {
