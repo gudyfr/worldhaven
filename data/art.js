@@ -6293,437 +6293,2474 @@
     "xws": "punchboard28back"
   },
   {
-    "name": "campaign stickers dl",
+    "name": "brummix tracks",
     "points": 899,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-campaign-stickers-dl.png",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-brummix-tracks.png",
+    "xws": "brummixtracks"
+  },
+  {
+    "name": "bug in jar",
+    "points": 900,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-bug-in-jar.png",
+    "xws": "buginjar"
+  },
+  {
+    "name": "charged core",
+    "points": 901,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-charged-core.png",
+    "xws": "chargedcore"
+  },
+  {
+    "name": "coral crown",
+    "points": 902,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-coral-crown.png",
+    "xws": "coralcrown"
+  },
+  {
+    "name": "coral crown",
+    "points": 903,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-coral-crown-1.png",
+    "xws": "coralcrown"
+  },
+  {
+    "name": "coral crown",
+    "points": 904,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-coral-crown-2.png",
+    "xws": "coralcrown"
+  },
+  {
+    "name": "coral crown",
+    "points": 905,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-coral-crown-3.png",
+    "xws": "coralcrown"
+  },
+  {
+    "name": "coral crown",
+    "points": 906,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-coral-crown-4.png",
+    "xws": "coralcrown"
+  },
+  {
+    "name": "coral crown",
+    "points": 907,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-coral-crown-5.png",
+    "xws": "coralcrown"
+  },
+  {
+    "name": "coral crown",
+    "points": 908,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-coral-crown-6.png",
+    "xws": "coralcrown"
+  },
+  {
+    "name": "crown united",
+    "points": 909,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-crown-united.png",
+    "xws": "crownunited"
+  },
+  {
+    "name": "destroyer of the icespeakers",
+    "points": 910,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-destroyer-of-the-icespeakers.png",
+    "xws": "destroyeroftheicespeakers"
+  },
+  {
+    "name": "destroyer of the snowspeakers",
+    "points": 911,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-destroyer-of-the-snowspeakers.png",
+    "xws": "destroyerofthesnowspeakers"
+  },
+  {
+    "name": "empty jar",
+    "points": 912,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-empty-jar.png",
+    "xws": "emptyjar"
+  },
+  {
+    "name": "firepepper",
+    "points": 913,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-firepepper.png",
+    "xws": "firepepper"
+  },
+  {
+    "name": "friend of the fish king",
+    "points": 914,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-friend-of-the-fish-king.png",
+    "xws": "friendofthefishking"
+  },
+  {
+    "name": "friend of the frostspeakers",
+    "points": 915,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-friend-of-the-frostspeakers.png",
+    "xws": "friendofthefrostspeakers"
+  },
+  {
+    "name": "friend of the icespeakers",
+    "points": 916,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-friend-of-the-icespeakers.png",
+    "xws": "friendoftheicespeakers"
+  },
+  {
+    "name": "friend of the snowspeakers",
+    "points": 917,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-friend-of-the-snowspeakers.png",
+    "xws": "friendofthesnowspeakers"
+  },
+  {
+    "name": "harvest festival",
+    "points": 918,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-harvest-festival.png",
+    "xws": "harvestfestival"
+  },
+  {
+    "name": "into the forest",
+    "points": 919,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-into-the-forest.png",
+    "xws": "intotheforest"
+  },
+  {
+    "name": "lockout",
+    "points": 920,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-lockout.png",
+    "xws": "lockout"
+  },
+  {
+    "name": "overlay w",
+    "points": 921,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-overlay-w.png",
+    "xws": "overlayw"
+  },
+  {
+    "name": "overlay x",
+    "points": 922,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-overlay-x.png",
+    "xws": "overlayx"
+  },
+  {
+    "name": "overlay y",
+    "points": 923,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-overlay-y.png",
+    "xws": "overlayy"
+  },
+  {
+    "name": "overlay z",
+    "points": 924,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-overlay-z.png",
+    "xws": "overlayz"
+  },
+  {
+    "name": "shard seeker",
+    "points": 925,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-shard-seeker.png",
+    "xws": "shardseeker"
+  },
+  {
+    "name": "uncharged core",
+    "points": 926,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-uncharged-core.png",
+    "xws": "unchargedcore"
+  },
+  {
+    "name": "unfettered allies",
+    "points": 927,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-unfettered-allies.png",
+    "xws": "unfetteredallies"
+  },
+  {
+    "name": "unfettered deactivated",
+    "points": 928,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-unfettered-deactivated.png",
+    "xws": "unfettereddeactivated"
+  },
+  {
+    "name": "air sticker",
+    "points": 929,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-air-sticker.png",
+    "xws": "airsticker"
+  },
+  {
+    "name": "bless sticker",
+    "points": 930,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-bless-sticker.png",
+    "xws": "blesssticker"
+  },
+  {
+    "name": "curse sticker",
+    "points": 931,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-curse-sticker.png",
+    "xws": "cursesticker"
+  },
+  {
+    "name": "dark sticker",
+    "points": 932,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-dark-sticker.png",
+    "xws": "darksticker"
+  },
+  {
+    "name": "earth sticker",
+    "points": 933,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-earth-sticker.png",
+    "xws": "earthsticker"
+  },
+  {
+    "name": "fire sticker",
+    "points": 934,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-fire-sticker.png",
+    "xws": "firesticker"
+  },
+  {
+    "name": "hex attack sticker",
+    "points": 935,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-hex-attack-sticker.png",
+    "xws": "hexattacksticker"
+  },
+  {
+    "name": "ice sticker",
+    "points": 936,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-ice-sticker.png",
+    "xws": "icesticker"
+  },
+  {
+    "name": "immobilize sticker",
+    "points": 937,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-immobilize-sticker.png",
+    "xws": "immobilizesticker"
+  },
+  {
+    "name": "jump sticker",
+    "points": 938,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-jump-sticker.png",
+    "xws": "jumpsticker"
+  },
+  {
+    "name": "light sticker",
+    "points": 939,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-light-sticker.png",
+    "xws": "lightsticker"
+  },
+  {
+    "name": "muddle sticker",
+    "points": 940,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-muddle-sticker.png",
+    "xws": "muddlesticker"
+  },
+  {
+    "name": "plus one sticker",
+    "points": 941,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-plus-one-sticker.png",
+    "xws": "plusonesticker"
+  },
+  {
+    "name": "poison sticker",
+    "points": 942,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-poison-sticker.png",
+    "xws": "poisonsticker"
+  },
+  {
+    "name": "regenerate sticker",
+    "points": 943,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-regenerate-sticker.png",
+    "xws": "regeneratesticker"
+  },
+  {
+    "name": "strengthen sticker",
+    "points": 944,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-strengthen-sticker.png",
+    "xws": "strengthensticker"
+  },
+  {
+    "name": "ward sticker",
+    "points": 945,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-ward-sticker.png",
+    "xws": "wardsticker"
+  },
+  {
+    "name": "wild sticker",
+    "points": 946,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-wild-sticker.png",
+    "xws": "wildsticker"
+  },
+  {
+    "name": "wound sticker",
+    "points": 947,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/enhancement-stickers/fh-wound-sticker.png",
+    "xws": "woundsticker"
+  },
+  {
+    "name": "000 howling in the snow",
+    "points": 948,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-000-howling-in-the-snow.png",
+    "xws": "000howlinginthesnow"
+  },
+  {
+    "name": "001 a town in flames",
+    "points": 949,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-001-a-town-in-flames.png",
+    "xws": "001atowninflames"
+  },
+  {
+    "name": "002 algox scouting",
+    "points": 950,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-002-algox-scouting.png",
+    "xws": "002algoxscouting"
+  },
+  {
+    "name": "003 algox offensive",
+    "points": 951,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-003-algox-offensive.png",
+    "xws": "003algoxoffensive"
+  },
+  {
+    "name": "004 heart of ice",
+    "points": 952,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-004-heart-of-ice.png",
+    "xws": "004heartofice"
+  },
+  {
+    "name": "005 frozen crypt",
+    "points": 953,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-005-frozen-crypt.png",
+    "xws": "005frozencrypt"
+  },
+  {
+    "name": "006 avalanche",
+    "points": 954,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-006-avalanche.png",
+    "xws": "006avalanche"
+  },
+  {
+    "name": "007 edge of the world",
+    "points": 955,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-007-edge-of-the-world.png",
+    "xws": "007edgeoftheworld"
+  },
+  {
+    "name": "008 crystal trench",
+    "points": 956,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-008-crystal-trench.png",
+    "xws": "008crystaltrench"
+  },
+  {
+    "name": "009 glowing catacombs",
+    "points": 957,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-009-glowing-catacombs.png",
+    "xws": "009glowingcatacombs"
+  },
+  {
+    "name": "010 crystal enclosure",
+    "points": 958,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-010-crystal-enclosure.png",
+    "xws": "010crystalenclosure"
+  },
+  {
+    "name": "011 snowscorn peak",
+    "points": 959,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-011-snowscorn-peak.png",
+    "xws": "011snowscornpeak"
+  },
+  {
+    "name": "012 temple entrance",
+    "points": 960,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-012-temple-entrance.png",
+    "xws": "012templeentrance"
+  },
+  {
+    "name": "013 frozen fjord",
+    "points": 961,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-013-frozen-fjord.png",
+    "xws": "013frozenfjord"
+  },
+  {
+    "name": "014 jagged shoals",
+    "points": 962,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-014-jagged-shoals.png",
+    "xws": "014jaggedshoals"
+  },
+  {
+    "name": "015 ancient spire",
+    "points": 963,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-015-ancient-spire.png",
+    "xws": "015ancientspire"
+  },
+  {
+    "name": "016 derelict elevator",
+    "points": 964,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-016-derelict-elevator.png",
+    "xws": "016derelictelevator"
+  },
+  {
+    "name": "017 haunted vault",
+    "points": 965,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-017-haunted-vault.png",
+    "xws": "017hauntedvault"
+  },
+  {
+    "name": "018 crystal fields",
+    "points": 966,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-018-crystal-fields.png",
+    "xws": "018crystalfields"
+  },
+  {
+    "name": "019 skyhall",
+    "points": 967,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-019-skyhall.png",
+    "xws": "019skyhall"
+  },
+  {
+    "name": "020 temple of liberation",
+    "points": 968,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-020-temple-of-liberation.png",
+    "xws": "020templeofliberation"
+  },
+  {
+    "name": "021 realm of endless frost",
+    "points": 969,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-021-realm-of-endless-frost.png",
+    "xws": "021realmofendlessfrost"
+  },
+  {
+    "name": "022 ice floes",
+    "points": 970,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-022-ice-floes.png",
+    "xws": "022icefloes"
+  },
+  {
+    "name": "023 spire basement",
+    "points": 971,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-023-spire-basement.png",
+    "xws": "023spirebasement"
+  },
+  {
+    "name": "024 upper spire",
+    "points": 972,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-024-upper-spire.png",
+    "xws": "024upperspire"
+  },
+  {
+    "name": "025 rusted tunnels",
+    "points": 973,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-025-rusted-tunnels.png",
+    "xws": "025rustedtunnels"
+  },
+  {
+    "name": "026 quatryl library",
+    "points": 974,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-026-quatryl-library.png",
+    "xws": "026quatryllibrary"
+  },
+  {
+    "name": "027 depths of delirium",
+    "points": 975,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-027-depths-of-delirium.png",
+    "xws": "027depthsofdelirium"
+  },
+  {
+    "name": "028 summit meeting",
+    "points": 976,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-028-summit-meeting.png",
+    "xws": "028summitmeeting"
+  },
+  {
+    "name": "029 war of the spire a",
+    "points": 977,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-029-war-of-the-spire-a.png",
+    "xws": "029warofthespirea"
+  },
+  {
+    "name": "030 war of the spire b",
+    "points": 978,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-030-war-of-the-spire-b.png",
+    "xws": "030warofthespireb"
+  },
+  {
+    "name": "031 crackling tunnel",
+    "points": 979,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-031-crackling-tunnel.png",
+    "xws": "031cracklingtunnel"
+  },
+  {
+    "name": "032 ravens roost",
+    "points": 980,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-032-ravens-roost.png",
+    "xws": "032ravensroost"
+  },
+  {
+    "name": "033 thawed wood",
+    "points": 981,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-033-thawed-wood.png",
+    "xws": "033thawedwood"
+  },
+  {
+    "name": "034 top of the spire",
+    "points": 982,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-034-top-of-the-spire.png",
+    "xws": "034topofthespire"
+  },
+  {
+    "name": "035 scrap pit",
+    "points": 983,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-035-scrap-pit.png",
+    "xws": "035scrappit"
+  },
+  {
+    "name": "036 buried ducts",
+    "points": 984,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-036-buried-ducts.png",
+    "xws": "036buriedducts"
+  },
+  {
+    "name": "037 the dead mile",
+    "points": 985,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-037-the-dead-mile.png",
+    "xws": "037thedeadmile"
+  },
+  {
+    "name": "038 the way forward",
+    "points": 986,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-038-the-way-forward.png",
+    "xws": "038thewayforward"
+  },
+  {
+    "name": "039 corrupted camp",
+    "points": 987,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-039-corrupted-camp.png",
+    "xws": "039corruptedcamp"
+  },
+  {
+    "name": "040 relief effort",
+    "points": 988,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-040-relief-effort.png",
+    "xws": "040reliefeffort"
+  },
+  {
+    "name": "041 unfettered shard",
+    "points": 989,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-041-unfettered-shard.png",
+    "xws": "041unfetteredshard"
+  },
+  {
+    "name": "042 sunless trench",
+    "points": 990,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-042-sunless-trench.png",
+    "xws": "042sunlesstrench"
+  },
+  {
+    "name": "043 overrun barricade",
+    "points": 991,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-043-overrun-barricade.png",
+    "xws": "043overrunbarricade"
+  },
+  {
+    "name": "044 nerve center",
+    "points": 992,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-044-nerve-center.png",
+    "xws": "044nervecenter"
+  },
+  {
+    "name": "045 living glacier",
+    "points": 993,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-045-living-glacier.png",
+    "xws": "045livingglacier"
+  },
+  {
+    "name": "046 dead pass",
+    "points": 994,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-046-dead-pass.png",
+    "xws": "046deadpass"
+  },
+  {
+    "name": "047 carrion ridge",
+    "points": 995,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-047-carrion-ridge.png",
+    "xws": "047carrionridge"
+  },
+  {
+    "name": "048 blizzard island",
+    "points": 996,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-048-blizzard-island.png",
+    "xws": "048blizzardisland"
+  },
+  {
+    "name": "049 beneath sea and stone",
+    "points": 997,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-049-beneath-sea-and-stone.png",
+    "xws": "049beneathseaandstone"
+  },
+  {
+    "name": "050 explosive descent",
+    "points": 998,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-050-explosive-descent.png",
+    "xws": "050explosivedescent"
+  },
+  {
+    "name": "051 orphans halls",
+    "points": 999,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-051-orphans-halls.png",
+    "xws": "051orphanshalls"
+  },
+  {
+    "name": "052 fleeting permanence",
+    "points": 1000,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-052-fleeting-permanence.png",
+    "xws": "052fleetingpermanence"
+  },
+  {
+    "name": "053 underwater throne",
+    "points": 1001,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-053-underwater-throne.png",
+    "xws": "053underwaterthrone"
+  },
+  {
+    "name": "054 among the wreckage",
+    "points": 1002,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-054-among-the-wreckage.png",
+    "xws": "054amongthewreckage"
+  },
+  {
+    "name": "055 change of heart",
+    "points": 1003,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-055-change-of-heart.png",
+    "xws": "055changeofheart"
+  },
+  {
+    "name": "056 call of the harbinger",
+    "points": 1004,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-056-call-of-the-harbinger.png",
+    "xws": "056calloftheharbinger"
+  },
+  {
+    "name": "057 sanctuary of snow",
+    "points": 1005,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-057-sanctuary-of-snow.png",
+    "xws": "057sanctuaryofsnow"
+  },
+  {
+    "name": "058 orphans core",
+    "points": 1006,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-058-orphans-core.png",
+    "xws": "058orphanscore"
+  },
+  {
+    "name": "059 automaton uprising",
+    "points": 1007,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-059-automaton-uprising.png",
+    "xws": "059automatonuprising"
+  },
+  {
+    "name": "060 uniting the crown",
+    "points": 1008,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-060-uniting-the-crown.png",
+    "xws": "060unitingthecrown"
+  },
+  {
+    "name": "061 life and death",
+    "points": 1009,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-061-life-and-death.png",
+    "xws": "061lifeanddeath"
+  },
+  {
+    "name": "062 the unfettered seal",
+    "points": 1010,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-062-the-unfettered-seal.png",
+    "xws": "062theunfetteredseal"
+  },
+  {
+    "name": "063 the savvas seal",
+    "points": 1011,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-063-the-savvas-seal.png",
+    "xws": "063thesavvasseal"
+  },
+  {
+    "name": "064 the frosthaven seal",
+    "points": 1012,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-064-the-frosthaven-seal.png",
+    "xws": "064thefrosthavenseal"
+  },
+  {
+    "name": "065 a strong foundation",
+    "points": 1013,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-065-a-strong-foundation.png",
+    "xws": "065astrongfoundation"
+  },
+  {
+    "name": "066 elemental cores",
+    "points": 1014,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-066-elemental-cores.png",
+    "xws": "066elementalcores"
+  },
+  {
+    "name": "067 core attunement",
+    "points": 1015,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-067-core-attunement.png",
+    "xws": "067coreattunement"
+  },
+  {
+    "name": "068 the face of torment",
+    "points": 1016,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-068-the-face-of-torment.png",
+    "xws": "068thefaceoftorment"
+  },
+  {
+    "name": "069 sacred soil",
+    "points": 1017,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-069-sacred-soil.png",
+    "xws": "069sacredsoil"
+  },
+  {
+    "name": "070 the true oak",
+    "points": 1018,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-070-the-true-oak.png",
+    "xws": "070thetrueoak"
+  },
+  {
+    "name": "071 invasion of the dock",
+    "points": 1019,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-071-invasion-of-the-dock.png",
+    "xws": "071invasionofthedock"
+  },
+  {
+    "name": "072 a giant block of ice",
+    "points": 1020,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-072-a-giant-block-of-ice.png",
+    "xws": "072agiantblockofice"
+  },
+  {
+    "name": "073 flotsam",
+    "points": 1021,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-073-flotsam.png",
+    "xws": "073flotsam"
+  },
+  {
+    "name": "074 gaps in the road",
+    "points": 1022,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-074-gaps-in-the-road.png",
+    "xws": "074gapsintheroad"
+  },
+  {
+    "name": "075 infiltrating the lair",
+    "points": 1023,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-075-infiltrating-the-lair.png",
+    "xws": "075infiltratingthelair"
+  },
+  {
+    "name": "076 apotheosis",
+    "points": 1024,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-076-apotheosis.png",
+    "xws": "076apotheosis"
+  },
+  {
+    "name": "077 fish kings ascension",
+    "points": 1025,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-077-fish-kings-ascension.png",
+    "xws": "077fishkingsascension"
+  },
+  {
+    "name": "078 the lurker problem",
+    "points": 1026,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-078-the-lurker-problem.png",
+    "xws": "078thelurkerproblem"
+  },
+  {
+    "name": "079 relic",
+    "points": 1027,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-079-relic.png",
+    "xws": "079relic"
+  },
+  {
+    "name": "080 relic renewed",
+    "points": 1028,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-080-relic-renewed.png",
+    "xws": "080relicrenewed"
+  },
+  {
+    "name": "081 ruinous research lab",
+    "points": 1029,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-081-ruinous-research-lab.png",
+    "xws": "081ruinousresearchlab"
+  },
+  {
+    "name": "082 expedition north",
+    "points": 1030,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-082-expedition-north.png",
+    "xws": "082expeditionnorth"
+  },
+  {
+    "name": "083 rising brine",
+    "points": 1031,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-083-rising-brine.png",
+    "xws": "083risingbrine"
+  },
+  {
+    "name": "084 here there be oozes",
+    "points": 1032,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-084-here-there-be-oozes.png",
+    "xws": "084heretherebeoozes"
+  },
+  {
+    "name": "085 deadly pastimes",
+    "points": 1033,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-085-deadly-pastimes.png",
+    "xws": "085deadlypastimes"
+  },
+  {
+    "name": "086 the lady in white",
+    "points": 1034,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-086-the-lady-in-white.png",
+    "xws": "086theladyinwhite"
+  },
+  {
+    "name": "087 the collection",
+    "points": 1035,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-087-the-collection.png",
+    "xws": "087thecollection"
+  },
+  {
+    "name": "088 the collections capstone",
+    "points": 1036,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-088-the-collections-capstone.png",
+    "xws": "088thecollectionscapstone"
+  },
+  {
+    "name": "089 a contained fire",
+    "points": 1037,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-089-a-contained-fire.png",
+    "xws": "089acontainedfire"
+  },
+  {
+    "name": "090 frozen treasure",
+    "points": 1038,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-090-frozen-treasure.png",
+    "xws": "090frozentreasure"
+  },
+  {
+    "name": "091 shoreline scramble",
+    "points": 1039,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-091-shoreline-scramble.png",
+    "xws": "091shorelinescramble"
+  },
+  {
+    "name": "092 sinking ship",
+    "points": 1040,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-092-sinking-ship.png",
+    "xws": "092sinkingship"
+  },
+  {
+    "name": "093 midwinter brawl",
+    "points": 1041,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-093-midwinter-brawl.png",
+    "xws": "093midwinterbrawl"
+  },
+  {
+    "name": "094 a grand view",
+    "points": 1042,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-094-a-grand-view.png",
+    "xws": "094agrandview"
+  },
+  {
+    "name": "095 to bury the dead",
+    "points": 1043,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-095-to-bury-the-dead.png",
+    "xws": "095toburythedead"
+  },
+  {
+    "name": "096 underground station",
+    "points": 1044,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-096-underground-station.png",
+    "xws": "096undergroundstation"
+  },
+  {
+    "name": "097 program control nexus",
+    "points": 1045,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-097-program-control-nexus.png",
+    "xws": "097programcontrolnexus"
+  },
+  {
+    "name": "098 collapsing vent",
+    "points": 1046,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-098-collapsing-vent.png",
+    "xws": "098collapsingvent"
+  },
+  {
+    "name": "099 prison break",
+    "points": 1047,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-099-prison-break.png",
+    "xws": "099prisonbreak"
+  },
+  {
+    "name": "100 inside the swarm",
+    "points": 1048,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-100-inside-the-swarm.png",
+    "xws": "100insidetheswarm"
+  },
+  {
+    "name": "101 harrower library",
+    "points": 1049,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-101-harrower-library.png",
+    "xws": "101harrowerlibrary"
+  },
+  {
+    "name": "102 into the black",
+    "points": 1050,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-102-into-the-black.png",
+    "xws": "102intotheblack"
+  },
+  {
+    "name": "103 the lead door",
+    "points": 1051,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-103-the-lead-door.png",
+    "xws": "103theleaddoor"
+  },
+  {
+    "name": "104 ruins of the solstice",
+    "points": 1052,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-104-ruins-of-the-solstice.png",
+    "xws": "104ruinsofthesolstice"
+  },
+  {
+    "name": "105 ruins of the equinox",
+    "points": 1053,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-105-ruins-of-the-equinox.png",
+    "xws": "105ruinsoftheequinox"
+  },
+  {
+    "name": "106 the tempus forge",
+    "points": 1054,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-106-the-tempus-forge.png",
+    "xws": "106thetempusforge"
+  },
+  {
+    "name": "107 my private empire",
+    "points": 1055,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-107-my-private-empire.png",
+    "xws": "107myprivateempire"
+  },
+  {
+    "name": "108 lustrous pit",
+    "points": 1056,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-108-lustrous-pit.png",
+    "xws": "108lustrouspit"
+  },
+  {
+    "name": "109 furious factory",
+    "points": 1057,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-109-furious-factory.png",
+    "xws": "109furiousfactory"
+  },
+  {
+    "name": "110 guardians temple",
+    "points": 1058,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-110-guardians-temple.png",
+    "xws": "110guardianstemple"
+  },
+  {
+    "name": "111 ice cave",
+    "points": 1059,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-111-ice-cave.png",
+    "xws": "111icecave"
+  },
+  {
+    "name": "112 raised by wolves",
+    "points": 1060,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-112-raised-by-wolves.png",
+    "xws": "112raisedbywolves"
+  },
+  {
+    "name": "113 lush grotto",
+    "points": 1061,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-113-lush-grotto.png",
+    "xws": "113lushgrotto"
+  },
+  {
+    "name": "114 work freeze",
+    "points": 1062,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-114-work-freeze.png",
+    "xws": "114workfreeze"
+  },
+  {
+    "name": "115 pylon problems",
+    "points": 1063,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-115-pylon-problems.png",
+    "xws": "115pylonproblems"
+  },
+  {
+    "name": "116 caravan guards",
+    "points": 1064,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-116-caravan-guards.png",
+    "xws": "116caravanguards"
+  },
+  {
+    "name": "117 a waiting game",
+    "points": 1065,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-117-a-waiting-game.png",
+    "xws": "117awaitinggame"
+  },
+  {
+    "name": "118 lurker necromancy",
+    "points": 1066,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-118-lurker-necromancy.png",
+    "xws": "118lurkernecromancy"
+  },
+  {
+    "name": "119 radiant dust",
+    "points": 1067,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-119-radiant-dust.png",
+    "xws": "119radiantdust"
+  },
+  {
+    "name": "120 under the influence",
+    "points": 1068,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-120-under-the-influence.png",
+    "xws": "120undertheinfluence"
+  },
+  {
+    "name": "121 black memories",
+    "points": 1069,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-121-black-memories.png",
+    "xws": "121blackmemories"
+  },
+  {
+    "name": "122 the eternal crave",
+    "points": 1070,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-122-the-eternal-crave.png",
+    "xws": "122theeternalcrave"
+  },
+  {
+    "name": "123 the titan",
+    "points": 1071,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-123-the-titan.png",
+    "xws": "123thetitan"
+  },
+  {
+    "name": "124 a growing problem",
+    "points": 1072,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-124-a-growing-problem.png",
+    "xws": "124agrowingproblem"
+  },
+  {
+    "name": "125 the longest second",
+    "points": 1073,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-125-the-longest-second.png",
+    "xws": "125thelongestsecond"
+  },
+  {
+    "name": "126 joseph the lion",
+    "points": 1074,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-126-joseph-the-lion.png",
+    "xws": "126josephthelion"
+  },
+  {
+    "name": "127 derelict freighter",
+    "points": 1075,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-127-derelict-freighter.png",
+    "xws": "127derelictfreighter"
+  },
+  {
+    "name": "128 a tall drunken tale",
+    "points": 1076,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-128-a-tall-drunken-tale.png",
+    "xws": "128atalldrunkentale"
+  },
+  {
+    "name": "129 how to lay an ambush",
+    "points": 1077,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-129-how-to-lay-an-ambush.png",
+    "xws": "129howtolayanambush"
+  },
+  {
+    "name": "130 and then a stream",
+    "points": 1078,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-130-and-then-a-stream.png",
+    "xws": "130andthenastream"
+  },
+  {
+    "name": "131 the dancing iceberg",
+    "points": 1079,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-131-the-dancing-iceberg.png",
+    "xws": "131thedancingiceberg"
+  },
+  {
+    "name": "132 temple of feline power",
+    "points": 1080,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-132-temple-of-feline-power.png",
+    "xws": "132templeoffelinepower"
+  },
+  {
+    "name": "133 bolt",
+    "points": 1081,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-133-bolt.png",
+    "xws": "133bolt"
+  },
+  {
+    "name": "134 tower of knowledge",
+    "points": 1082,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-134-tower-of-knowledge.png",
+    "xws": "134towerofknowledge"
+  },
+  {
+    "name": "135 belaras keep",
+    "points": 1083,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-135-belaras-keep.png",
+    "xws": "135belaraskeep"
+  },
+  {
+    "name": "136 abandoned hideout",
+    "points": 1084,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-136-abandoned-hideout.png",
+    "xws": "136abandonedhideout"
+  },
+  {
+    "name": "137 pirate queens hall",
+    "points": 1085,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-137-pirate-queens-hall.png",
+    "xws": "137piratequeenshall"
+  },
+  {
+    "name": "12 hunting lodge",
+    "points": 1086,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-12-hunting-lodge-l1.png",
+    "xws": "12huntinglodge"
+  },
+  {
+    "name": "12 hunting lodge",
+    "points": 1087,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-12-hunting-lodge-l2.png",
+    "xws": "12huntinglodge"
+  },
+  {
+    "name": "12 hunting lodge",
+    "points": 1088,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-12-hunting-lodge-l3.png",
+    "xws": "12huntinglodge"
+  },
+  {
+    "name": "12 hunting lodge",
+    "points": 1089,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-12-hunting-lodge-l4.png",
+    "xws": "12huntinglodge"
+  },
+  {
+    "name": "17 logging camp",
+    "points": 1090,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-17-logging-camp-l1.png",
+    "xws": "17loggingcamp"
+  },
+  {
+    "name": "17 logging camp",
+    "points": 1091,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-17-logging-camp-l2.png",
+    "xws": "17loggingcamp"
+  },
+  {
+    "name": "17 logging camp",
+    "points": 1092,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-17-logging-camp-l3.png",
+    "xws": "17loggingcamp"
+  },
+  {
+    "name": "17 logging camp",
+    "points": 1093,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-17-logging-camp-l4.png",
+    "xws": "17loggingcamp"
+  },
+  {
+    "name": "21 inn",
+    "points": 1094,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-21-inn-l0.png",
+    "xws": "21inn"
+  },
+  {
+    "name": "21 inn",
+    "points": 1095,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-21-inn-l1.png",
+    "xws": "21inn"
+  },
+  {
+    "name": "21 inn",
+    "points": 1096,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-21-inn-l2.png",
+    "xws": "21inn"
+  },
+  {
+    "name": "21 inn",
+    "points": 1097,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-21-inn-l3.png",
+    "xws": "21inn"
+  },
+  {
+    "name": "24 garden arrowvine",
+    "points": 1098,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-arrowvine.png",
+    "xws": "24gardenarrowvine"
+  },
+  {
+    "name": "24 garden axenut",
+    "points": 1099,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-axenut.png",
+    "xws": "24gardenaxenut"
+  },
+  {
+    "name": "24 garden corpsecap",
+    "points": 1100,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-corpsecap.png",
+    "xws": "24gardencorpsecap"
+  },
+  {
+    "name": "24 garden flamefruit",
+    "points": 1101,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-flamefruit.png",
+    "xws": "24gardenflamefruit"
+  },
+  {
+    "name": "24 garden",
+    "points": 1102,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-l0-.png",
+    "xws": "24garden"
+  },
+  {
+    "name": "24 garden",
+    "points": 1103,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-l1.png",
+    "xws": "24garden"
+  },
+  {
+    "name": "24 garden",
+    "points": 1104,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-l2.png",
+    "xws": "24garden"
+  },
+  {
+    "name": "24 garden",
+    "points": 1105,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-l3.png",
+    "xws": "24garden"
+  },
+  {
+    "name": "24 garden",
+    "points": 1106,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-l4.png",
+    "xws": "24garden"
+  },
+  {
+    "name": "24 garden rockroot",
+    "points": 1107,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-rockroot.png",
+    "xws": "24gardenrockroot"
+  },
+  {
+    "name": "24 garden snowthistle",
+    "points": 1108,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-snowthistle.png",
+    "xws": "24gardensnowthistle"
+  },
+  {
+    "name": "34 craftsman",
+    "points": 1109,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-34-craftsman-l2.png",
+    "xws": "34craftsman"
+  },
+  {
+    "name": "34 craftsman",
+    "points": 1110,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-34-craftsman-l3.png",
+    "xws": "34craftsman"
+  },
+  {
+    "name": "34 craftsman",
+    "points": 1111,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-34-craftsman-l4.png",
+    "xws": "34craftsman"
+  },
+  {
+    "name": "34 craftsman",
+    "points": 1112,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-34-craftsman-l5.png",
+    "xws": "34craftsman"
+  },
+  {
+    "name": "34 craftsman",
+    "points": 1113,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-34-craftsman-l6.png",
+    "xws": "34craftsman"
+  },
+  {
+    "name": "34 craftsman",
+    "points": 1114,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-34-craftsman-l7.png",
+    "xws": "34craftsman"
+  },
+  {
+    "name": "34 craftsman",
+    "points": 1115,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-34-craftsman-l8.png",
+    "xws": "34craftsman"
+  },
+  {
+    "name": "34 craftsman",
+    "points": 1116,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-34-craftsman-l9.png",
+    "xws": "34craftsman"
+  },
+  {
+    "name": "35 alchemist",
+    "points": 1117,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-35-alchemist-l2.png",
+    "xws": "35alchemist"
+  },
+  {
+    "name": "35 alchemist",
+    "points": 1118,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-35-alchemist-l3.png",
+    "xws": "35alchemist"
+  },
+  {
+    "name": "37 trading post",
+    "points": 1119,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-37-trading-post-l0.png",
+    "xws": "37tradingpost"
+  },
+  {
+    "name": "37 trading post",
+    "points": 1120,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-37-trading-post-l1.png",
+    "xws": "37tradingpost"
+  },
+  {
+    "name": "37 trading post",
+    "points": 1121,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-37-trading-post-l2.png",
+    "xws": "37tradingpost"
+  },
+  {
+    "name": "37 trading post",
+    "points": 1122,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-37-trading-post-l3.png",
+    "xws": "37tradingpost"
+  },
+  {
+    "name": "37 trading post",
+    "points": 1123,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-37-trading-post-l4.png",
+    "xws": "37tradingpost"
+  },
+  {
+    "name": "39 jeweler",
+    "points": 1124,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-39-jeweler-l0.png",
+    "xws": "39jeweler"
+  },
+  {
+    "name": "39 jeweler",
+    "points": 1125,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-39-jeweler-l1.png",
+    "xws": "39jeweler"
+  },
+  {
+    "name": "39 jeweler",
+    "points": 1126,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-39-jeweler-l2.png",
+    "xws": "39jeweler"
+  },
+  {
+    "name": "39 jeweler",
+    "points": 1127,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-39-jeweler-l3.png",
+    "xws": "39jeweler"
+  },
+  {
+    "name": "42 temple",
+    "points": 1128,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-42-temple-l0.png",
+    "xws": "42temple"
+  },
+  {
+    "name": "42 temple",
+    "points": 1129,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-42-temple-l1.png",
+    "xws": "42temple"
+  },
+  {
+    "name": "42 temple",
+    "points": 1130,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-42-temple-l2.png",
+    "xws": "42temple"
+  },
+  {
+    "name": "42 temple",
+    "points": 1131,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-42-temple-l3.png",
+    "xws": "42temple"
+  },
+  {
+    "name": "44 enhancer",
+    "points": 1132,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-44-enhancer-l0.png",
+    "xws": "44enhancer"
+  },
+  {
+    "name": "44 enhancer",
+    "points": 1133,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-44-enhancer-l1.png",
+    "xws": "44enhancer"
+  },
+  {
+    "name": "44 enhancer",
+    "points": 1134,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-44-enhancer-l2.png",
+    "xws": "44enhancer"
+  },
+  {
+    "name": "44 enhancer",
+    "points": 1135,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-44-enhancer-l3.png",
+    "xws": "44enhancer"
+  },
+  {
+    "name": "44 enhancer",
+    "points": 1136,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-44-enhancer-l4.png",
+    "xws": "44enhancer"
+  },
+  {
+    "name": "5 mining camp",
+    "points": 1137,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-5-mining-camp-l1.png",
+    "xws": "5miningcamp"
+  },
+  {
+    "name": "5 mining camp",
+    "points": 1138,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-5-mining-camp-l2.png",
+    "xws": "5miningcamp"
+  },
+  {
+    "name": "5 mining camp",
+    "points": 1139,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-5-mining-camp-l3.png",
+    "xws": "5miningcamp"
+  },
+  {
+    "name": "5 mining camp",
+    "points": 1140,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-5-mining-camp-l4.png",
+    "xws": "5miningcamp"
+  },
+  {
+    "name": "65 metal depot",
+    "points": 1141,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-65-metal-depot-l0.png",
+    "xws": "65metaldepot"
+  },
+  {
+    "name": "65 metal depot",
+    "points": 1142,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-65-metal-depot-l1.png",
+    "xws": "65metaldepot"
+  },
+  {
+    "name": "65 metal depot",
+    "points": 1143,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-65-metal-depot-l2.png",
+    "xws": "65metaldepot"
+  },
+  {
+    "name": "67 lumber depot",
+    "points": 1144,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-67-lumber-depot-l0.png",
+    "xws": "67lumberdepot"
+  },
+  {
+    "name": "67 lumber depot",
+    "points": 1145,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-67-lumber-depot-l1.png",
+    "xws": "67lumberdepot"
+  },
+  {
+    "name": "67 lumber depot",
+    "points": 1146,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-67-lumber-depot-l2.png",
+    "xws": "67lumberdepot"
+  },
+  {
+    "name": "72 hide depot",
+    "points": 1147,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-72-hide-depot-l0.png",
+    "xws": "72hidedepot"
+  },
+  {
+    "name": "72 hide depot",
+    "points": 1148,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-72-hide-depot-l1.png",
+    "xws": "72hidedepot"
+  },
+  {
+    "name": "72 hide depot",
+    "points": 1149,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-72-hide-depot-l2.png",
+    "xws": "72hidedepot"
+  },
+  {
+    "name": "74 tavern",
+    "points": 1150,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-74-tavern-l0.png",
+    "xws": "74tavern"
+  },
+  {
+    "name": "74 tavern",
+    "points": 1151,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-74-tavern-l1.png",
+    "xws": "74tavern"
+  },
+  {
+    "name": "74 tavern",
+    "points": 1152,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-74-tavern-l2.png",
+    "xws": "74tavern"
+  },
+  {
+    "name": "74 tavern",
+    "points": 1153,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-74-tavern-l3.png",
+    "xws": "74tavern"
+  },
+  {
+    "name": "81 hall of revelry",
+    "points": 1154,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-81-hall-of-revelry-l0.png",
+    "xws": "81hallofrevelry"
+  },
+  {
+    "name": "81 hall of revelry",
+    "points": 1155,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-81-hall-of-revelry-l1.png",
+    "xws": "81hallofrevelry"
+  },
+  {
+    "name": "81 hall of revelry",
+    "points": 1156,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-81-hall-of-revelry-l2.png",
+    "xws": "81hallofrevelry"
+  },
+  {
+    "name": "83 library",
+    "points": 1157,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-83-library-l0.png",
+    "xws": "83library"
+  },
+  {
+    "name": "83 library",
+    "points": 1158,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-83-library-l1.png",
+    "xws": "83library"
+  },
+  {
+    "name": "83 library",
+    "points": 1159,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-83-library-l2.png",
+    "xws": "83library"
+  },
+  {
+    "name": "83 library",
+    "points": 1160,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-83-library-l3.png",
+    "xws": "83library"
+  },
+  {
+    "name": "85 capenter",
+    "points": 1161,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-85-capenter-l0.png",
+    "xws": "85capenter"
+  },
+  {
+    "name": "85 capenter",
+    "points": 1162,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-85-capenter-l1.png",
+    "xws": "85capenter"
+  },
+  {
+    "name": "85 capenter",
+    "points": 1163,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-85-capenter-l2.png",
+    "xws": "85capenter"
+  },
+  {
+    "name": "88 stables",
+    "points": 1164,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-88-stables-l0.png",
+    "xws": "88stables"
+  },
+  {
+    "name": "88 stables",
+    "points": 1165,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-88-stables-l1.png",
+    "xws": "88stables"
+  },
+  {
+    "name": "88 stables",
+    "points": 1166,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-88-stables-l2.png",
+    "xws": "88stables"
+  },
+  {
+    "name": "88 stables",
+    "points": 1167,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-88-stables-l3.png",
+    "xws": "88stables"
+  },
+  {
+    "name": "88 stables",
+    "points": 1168,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-88-stables-l4.png",
+    "xws": "88stables"
+  },
+  {
+    "name": "90 town hall",
+    "points": 1169,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-90-town-hall-l0.png",
+    "xws": "90townhall"
+  },
+  {
+    "name": "90 town hall",
+    "points": 1170,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-90-town-hall-l1.png",
+    "xws": "90townhall"
+  },
+  {
+    "name": "90 town hall",
+    "points": 1171,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-90-town-hall-l2.png",
+    "xws": "90townhall"
+  },
+  {
+    "name": "90 town hall",
+    "points": 1172,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-90-town-hall-l3.png",
+    "xws": "90townhall"
+  },
+  {
+    "name": "98 barracks",
+    "points": 1173,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-98-barracks-l2.png",
+    "xws": "98barracks"
+  },
+  {
+    "name": "98 barracks",
+    "points": 1174,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-98-barracks-l3.png",
+    "xws": "98barracks"
+  },
+  {
+    "name": "98 barracks",
+    "points": 1175,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-98-barracks-l4.png",
+    "xws": "98barracks"
+  },
+  {
+    "name": "blue well",
+    "points": 1176,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-blue-well.png",
+    "xws": "bluewell"
+  },
+  {
+    "name": "boat",
+    "points": 1177,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-boat.png",
+    "xws": "boat"
+  },
+  {
+    "name": "climbing gear",
+    "points": 1178,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-climbing-gear.png",
+    "xws": "climbinggear"
+  },
+  {
+    "name": "ice spike",
+    "points": 1179,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-ice-spike.png",
+    "xws": "icespike"
+  },
+  {
+    "name": "portcullis",
+    "points": 1180,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-portcullis.png",
+    "xws": "portcullis"
+  },
+  {
+    "name": "red well",
+    "points": 1181,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-red-well.png",
+    "xws": "redwell"
+  },
+  {
+    "name": "sled",
+    "points": 1182,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-sled.png",
+    "xws": "sled"
+  },
+  {
+    "name": "stage",
+    "points": 1183,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-stage.png",
+    "xws": "stage"
+  },
+  {
+    "name": "statue",
+    "points": 1184,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-statue.png",
+    "xws": "statue"
+  },
+  {
+    "name": "wall j",
+    "points": 1185,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-wall-j.png",
+    "xws": "wallj"
+  },
+  {
+    "name": "wall k",
+    "points": 1186,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-wall-k.png",
+    "xws": "wallk"
+  },
+  {
+    "name": "wall l",
+    "points": 1187,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-wall-l.png",
+    "xws": "walll"
+  },
+  {
+    "name": "wall m",
+    "points": 1188,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-wall-m.png",
+    "xws": "wallm"
+  },
+  {
+    "name": "wall n",
+    "points": 1189,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-wall-n.png",
+    "xws": "walln"
+  },
+  {
+    "name": "campaign stickers dl",
+    "points": 1190,
+    "expansion": "Frosthaven",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-campaign-stickers-dl.png",
     "xws": "campaignstickersdl"
   },
   {
     "name": "enhancement stickers dl",
-    "points": 900,
+    "points": 1191,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-enhancement-stickers-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-enhancement-stickers-dl.png",
     "xws": "enhancementstickersdl"
   },
   {
     "name": "location stickers 1 dl",
-    "points": 901,
+    "points": 1192,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-location-stickers-1-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-location-stickers-1-dl.png",
     "xws": "locationstickers1dl"
   },
   {
     "name": "location stickers 2 dl",
-    "points": 902,
+    "points": 1193,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-location-stickers-2-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-location-stickers-2-dl.png",
     "xws": "locationstickers2dl"
   },
   {
     "name": "location stickers 3 dl",
-    "points": 903,
+    "points": 1194,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-location-stickers-3-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-location-stickers-3-dl.png",
     "xws": "locationstickers3dl"
   },
   {
     "name": "location stickers 4 dl",
-    "points": 904,
+    "points": 1195,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-location-stickers-4-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-location-stickers-4-dl.png",
     "xws": "locationstickers4dl"
   },
   {
     "name": "location stickers 5 dl",
-    "points": 905,
+    "points": 1196,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-location-stickers-5-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-location-stickers-5-dl.png",
     "xws": "locationstickers5dl"
   },
   {
     "name": "outpost stickers 21 inn dl",
-    "points": 906,
+    "points": 1197,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-21-inn-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-21-inn-dl.png",
     "xws": "outpoststickers21inndl"
   },
   {
     "name": "outpost stickers 24a garden dl",
-    "points": 907,
+    "points": 1198,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-24a-garden-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-24a-garden-dl.png",
     "xws": "outpoststickers24agardendl"
   },
   {
     "name": "outpost stickers 24b garden dl",
-    "points": 908,
+    "points": 1199,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-24b-garden-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-24b-garden-dl.png",
     "xws": "outpoststickers24bgardendl"
   },
   {
     "name": "outpost stickers 37 trading post dl",
-    "points": 909,
+    "points": 1200,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-37-trading-post-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-37-trading-post-dl.png",
     "xws": "outpoststickers37tradingpostdl"
   },
   {
     "name": "outpost stickers 39 jeweler dl",
-    "points": 910,
+    "points": 1201,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-39-jeweler-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-39-jeweler-dl.png",
     "xws": "outpoststickers39jewelerdl"
   },
   {
     "name": "outpost stickers 42 temple dl",
-    "points": 911,
+    "points": 1202,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-42-temple-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-42-temple-dl.png",
     "xws": "outpoststickers42templedl"
   },
   {
     "name": "outpost stickers 44 enhancer dl",
-    "points": 912,
+    "points": 1203,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-44-enhancer-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-44-enhancer-dl.png",
     "xws": "outpoststickers44enhancerdl"
   },
   {
     "name": "outpost stickers 65 metal depot dl",
-    "points": 913,
+    "points": 1204,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-65-metal-depot-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-65-metal-depot-dl.png",
     "xws": "outpoststickers65metaldepotdl"
   },
   {
     "name": "outpost stickers 67 lumber depot dl",
-    "points": 914,
+    "points": 1205,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-67-lumber-depot-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-67-lumber-depot-dl.png",
     "xws": "outpoststickers67lumberdepotdl"
   },
   {
     "name": "outpost stickers 72 hide depot dl",
-    "points": 915,
+    "points": 1206,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-72-hide-depot-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-72-hide-depot-dl.png",
     "xws": "outpoststickers72hidedepotdl"
   },
   {
     "name": "outpost stickers 74 tavern dl",
-    "points": 916,
+    "points": 1207,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-74-tavern-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-74-tavern-dl.png",
     "xws": "outpoststickers74taverndl"
   },
   {
     "name": "outpost stickers 81 hall of revelry 1 dl",
-    "points": 917,
+    "points": 1208,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-81-hall-of-revelry-1-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-81-hall-of-revelry-1-dl.png",
     "xws": "outpoststickers81hallofrevelry1dl"
   },
   {
     "name": "outpost stickers 81 hall of revelry 2 dl",
-    "points": 918,
+    "points": 1209,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-81-hall-of-revelry-2-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-81-hall-of-revelry-2-dl.png",
     "xws": "outpoststickers81hallofrevelry2dl"
   },
   {
     "name": "outpost stickers 83 library dl",
-    "points": 919,
+    "points": 1210,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-83-library-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-83-library-dl.png",
     "xws": "outpoststickers83librarydl"
   },
   {
     "name": "outpost stickers 85 carpenter dl",
-    "points": 920,
+    "points": 1211,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-85-carpenter-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-85-carpenter-dl.png",
     "xws": "outpoststickers85carpenterdl"
   },
   {
     "name": "outpost stickers 88 stables dl",
-    "points": 921,
+    "points": 1212,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-88-stables-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-88-stables-dl.png",
     "xws": "outpoststickers88stablesdl"
   },
   {
     "name": "outpost stickers 90 town hall dl",
-    "points": 922,
+    "points": 1213,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-90-town-hall-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-90-town-hall-dl.png",
     "xws": "outpoststickers90townhalldl"
   },
   {
     "name": "outpost stickers large 1 dl",
-    "points": 923,
+    "points": 1214,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-large-1-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-large-1-dl.png",
     "xws": "outpoststickerslarge1dl"
   },
   {
     "name": "outpost stickers large 2 dl",
-    "points": 924,
+    "points": 1215,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-large-2-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-large-2-dl.png",
     "xws": "outpoststickerslarge2dl"
   },
   {
     "name": "outpost stickers large 3 dl",
-    "points": 925,
+    "points": 1216,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-outpost-stickers-large-3-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-outpost-stickers-large-3-dl.png",
     "xws": "outpoststickerslarge3dl"
   },
   {
     "name": "puzzle book dl",
-    "points": 926,
+    "points": 1217,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-puzzle-book-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-puzzle-book-dl.png",
     "xws": "puzzlebookdl"
   },
   {
     "name": "removable sticker set 1 dl",
-    "points": 927,
+    "points": 1218,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-removable-sticker-set-1-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-removable-sticker-set-1-dl.png",
     "xws": "removablestickerset1dl"
   },
   {
     "name": "removable sticker set 2 dl",
-    "points": 928,
+    "points": 1219,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-removable-sticker-set-2-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-removable-sticker-set-2-dl.png",
     "xws": "removablestickerset2dl"
   },
   {
     "name": "wax seal stickers dl",
-    "points": 929,
+    "points": 1220,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/die-lines/fh-wax-seal-stickers-dl.png",
+    "image": "art/frosthaven/stickers/sheets/die-lines/fh-wax-seal-stickers-dl.png",
     "xws": "waxsealstickersdl"
   },
   {
     "name": "campaign stickers ndl",
-    "points": 930,
+    "points": 1221,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-campaign-stickers-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-campaign-stickers-ndl.png",
     "xws": "campaignstickersndl"
   },
   {
     "name": "enhancement stickers ndl",
-    "points": 931,
+    "points": 1222,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-enhancement-stickers-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-enhancement-stickers-ndl.png",
     "xws": "enhancementstickersndl"
   },
   {
     "name": "location stickers 1 ndl",
-    "points": 932,
+    "points": 1223,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-1-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-location-stickers-1-ndl.png",
     "xws": "locationstickers1ndl"
   },
   {
     "name": "location stickers 2 ndl",
-    "points": 933,
+    "points": 1224,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-2-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-location-stickers-2-ndl.png",
     "xws": "locationstickers2ndl"
   },
   {
     "name": "location stickers 3 ndl",
-    "points": 934,
+    "points": 1225,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-3-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-location-stickers-3-ndl.png",
     "xws": "locationstickers3ndl"
   },
   {
     "name": "location stickers 4 ndl",
-    "points": 935,
+    "points": 1226,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-4-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-location-stickers-4-ndl.png",
     "xws": "locationstickers4ndl"
   },
   {
     "name": "location stickers 5 ndl",
-    "points": 936,
+    "points": 1227,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-location-stickers-5-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-location-stickers-5-ndl.png",
     "xws": "locationstickers5ndl"
   },
   {
     "name": "outpost stickers 21 inn ndl",
-    "points": 937,
+    "points": 1228,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-21-inn-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-21-inn-ndl.png",
     "xws": "outpoststickers21innndl"
   },
   {
     "name": "outpost stickers 24a garden ndl",
-    "points": 938,
+    "points": 1229,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-24a-garden-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-24a-garden-ndl.png",
     "xws": "outpoststickers24agardenndl"
   },
   {
     "name": "outpost stickers 24b garden ndl",
-    "points": 939,
+    "points": 1230,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-24b-garden-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-24b-garden-ndl.png",
     "xws": "outpoststickers24bgardenndl"
   },
   {
     "name": "outpost stickers 37 trading post ndl",
-    "points": 940,
+    "points": 1231,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-37-trading-post-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-37-trading-post-ndl.png",
     "xws": "outpoststickers37tradingpostndl"
   },
   {
     "name": "outpost stickers 39 jeweler ndl",
-    "points": 941,
+    "points": 1232,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-39-jeweler-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-39-jeweler-ndl.png",
     "xws": "outpoststickers39jewelerndl"
   },
   {
     "name": "outpost stickers 42 temple ndl",
-    "points": 942,
+    "points": 1233,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-42-temple-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-42-temple-ndl.png",
     "xws": "outpoststickers42templendl"
   },
   {
     "name": "outpost stickers 44 enhancer ndl",
-    "points": 943,
+    "points": 1234,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-44-enhancer-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-44-enhancer-ndl.png",
     "xws": "outpoststickers44enhancerndl"
   },
   {
     "name": "outpost stickers 65 metal depot ndl",
-    "points": 944,
+    "points": 1235,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-65-metal-depot-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-65-metal-depot-ndl.png",
     "xws": "outpoststickers65metaldepotndl"
   },
   {
     "name": "outpost stickers 67 lumber depot ndl",
-    "points": 945,
+    "points": 1236,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-67-lumber-depot-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-67-lumber-depot-ndl.png",
     "xws": "outpoststickers67lumberdepotndl"
   },
   {
     "name": "outpost stickers 72 hide depot ndl",
-    "points": 946,
+    "points": 1237,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-72-hide-depot-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-72-hide-depot-ndl.png",
     "xws": "outpoststickers72hidedepotndl"
   },
   {
     "name": "outpost stickers 74 tavern ndl",
-    "points": 947,
+    "points": 1238,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-74-tavern-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-74-tavern-ndl.png",
     "xws": "outpoststickers74tavernndl"
   },
   {
     "name": "outpost stickers 81 hall of revelry 1 ndl",
-    "points": 948,
+    "points": 1239,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-81-hall-of-revelry-1-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-81-hall-of-revelry-1-ndl.png",
     "xws": "outpoststickers81hallofrevelry1ndl"
   },
   {
     "name": "outpost stickers 81 hall of revelry 2 ndl",
-    "points": 949,
+    "points": 1240,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-81-hall-of-revelry-2-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-81-hall-of-revelry-2-ndl.png",
     "xws": "outpoststickers81hallofrevelry2ndl"
   },
   {
     "name": "outpost stickers 83 library ndl",
-    "points": 950,
+    "points": 1241,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-83-library-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-83-library-ndl.png",
     "xws": "outpoststickers83libraryndl"
   },
   {
     "name": "outpost stickers 85 carpenter ndl",
-    "points": 951,
+    "points": 1242,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-85-carpenter-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-85-carpenter-ndl.png",
     "xws": "outpoststickers85carpenterndl"
   },
   {
     "name": "outpost stickers 88 stables ndl",
-    "points": 952,
+    "points": 1243,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-88-stables-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-88-stables-ndl.png",
     "xws": "outpoststickers88stablesndl"
   },
   {
     "name": "outpost stickers 90 town hall ndl",
-    "points": 953,
+    "points": 1244,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-90-town-hall-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-90-town-hall-ndl.png",
     "xws": "outpoststickers90townhallndl"
   },
   {
     "name": "outpost stickers large 1 ndl",
-    "points": 954,
+    "points": 1245,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-large-1-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-large-1-ndl.png",
     "xws": "outpoststickerslarge1ndl"
   },
   {
     "name": "outpost stickers large 2 ndl",
-    "points": 955,
+    "points": 1246,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-large-2-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-large-2-ndl.png",
     "xws": "outpoststickerslarge2ndl"
   },
   {
     "name": "outpost stickers large 3 ndl",
-    "points": 956,
+    "points": 1247,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-outpost-stickers-large-3-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-outpost-stickers-large-3-ndl.png",
     "xws": "outpoststickerslarge3ndl"
   },
   {
     "name": "puzzle book ndl",
-    "points": 957,
+    "points": 1248,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-puzzle-book-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-puzzle-book-ndl.png",
     "xws": "puzzlebookndl"
   },
   {
     "name": "removable sticker set 1 ndl",
-    "points": 958,
+    "points": 1249,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-removable-sticker-set-1-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-removable-sticker-set-1-ndl.png",
     "xws": "removablestickerset1ndl"
   },
   {
     "name": "removable sticker set 2 ndl",
-    "points": 959,
+    "points": 1250,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-removable-sticker-set-2-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-removable-sticker-set-2-ndl.png",
     "xws": "removablestickerset2ndl"
   },
   {
     "name": "wax seal stickers ndl",
-    "points": 960,
+    "points": 1251,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/no-die-lines/fh-wax-seal-stickers-ndl.png",
+    "image": "art/frosthaven/stickers/sheets/no-die-lines/fh-wax-seal-stickers-ndl.png",
     "xws": "waxsealstickersndl"
   }
 ]
