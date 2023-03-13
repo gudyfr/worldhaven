@@ -19,7 +19,7 @@
 			.accordion {
 				padding-left: 40px;
 			}
-			h1 .fa, h2 .fa, h3 .fa {
+			h1 .fa, h2 .fa, h3 .fa, h4 .fa {
 				font-size: 10px;
 			}
 			.textzone {
@@ -50,10 +50,10 @@
 		<script>
 			// at statup hide all
 			function Initialize(){
-				var $accordionIO = $('.accordion h1, h2, h3');
+				var $accordionIO = $('.accordion h1, h2, h3, h4');
 				$accordionIO.next('div').hide();
 
-				$(".accordion h1, h2, h3").click(function() {
+				$(".accordion h1, h2, h3, h4").click(function() {
 					//catch icon to switch from + to - and the opposite
 					var Icon = $(this).children().first();
 
@@ -75,7 +75,7 @@
 				})
 				$(".title").click(function() {
 					var Icon = $(this).children().first();
-					var $Alltextzones = $('.accordion h1, h2, h3');
+					var $Alltextzones = $('.accordion h1, h2, h3, h4');
 					if (Icon.hasClass('fa-minus')) {
 						//switch all icons from + to -
 						$('.fa-plus').removeClass('fa-plus').addClass('fa-minus');

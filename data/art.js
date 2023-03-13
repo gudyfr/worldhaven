@@ -7717,7 +7717,7 @@
     "name": "24 garden",
     "points": 1102,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-l0-.png",
+    "image": "art/frosthaven/stickers/individual/outpost-stickers/fh-24-garden-l0.png",
     "xws": "24garden"
   },
   {
