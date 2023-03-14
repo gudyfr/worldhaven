@@ -7133,17 +7133,17 @@
     "xws": "thewayforward"
   },
   {
-    "name": "the way forward scenario a",
+    "name": "the way forward",
     "points": 1019,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-038-the-way-forward-scenario-a.png",
+    "image": "art/frosthaven/scenario-layout/fh-038-the-way-forward-scenario-key-a.png",
     "xws": "thewayforwardscenarioa"
   },
   {
-    "name": "the way forward scenario b",
+    "name": "the way forward",
     "points": 1020,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-038-the-way-forward-scenario-b.png",
+    "image": "art/frosthaven/scenario-layout/fh-038-the-way-forward-scenario-key-b.png",
     "xws": "thewayforwardscenariob"
   },
   {
@@ -9359,28 +9359,28 @@
     "xws": "abandonedhideout"
   },
   {
-    "name": "pirate queens haul",
+    "name": "pirate queen's haul",
     "points": 1337,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-137-pirate-queens-haul-loot.png",
     "xws": "piratequeenshaul"
   },
   {
-    "name": "pirate queens haul",
+    "name": "pirate queen's haul",
     "points": 1338,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-137-pirate-queens-haul-map-layout.png",
     "xws": "piratequeenshaul"
   },
   {
-    "name": "pirate queens haul",
+    "name": "pirate queen's haul",
     "points": 1339,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-137-pirate-queens-haul-scenario-key-a.png",
     "xws": "piratequeenshaul"
   },
   {
-    "name": "pirate queens haul",
+    "name": "pirate queen's haul",
     "points": 1340,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-137-pirate-queens-haul-scenario-key-b.png",
