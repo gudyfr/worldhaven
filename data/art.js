@@ -6860,7 +6860,7 @@
     "xws": "031cracklingtunnel"
   },
   {
-    "name": "032 ravens roost",
+    "name": "032 ravens' roost",
     "points": 980,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/individual/location-stickers/fh-032-ravens-roost.png",
@@ -6993,7 +6993,7 @@
     "xws": "050explosivedescent"
   },
   {
-    "name": "051 orphans halls",
+    "name": "051 orphan's halls",
     "points": 999,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/individual/location-stickers/fh-051-orphans-halls.png",
@@ -7042,7 +7042,7 @@
     "xws": "057sanctuaryofsnow"
   },
   {
-    "name": "058 orphans core",
+    "name": "058 orphan's core",
     "points": 1006,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/individual/location-stickers/fh-058-orphans-core.png",
@@ -7175,7 +7175,7 @@
     "xws": "076apotheosis"
   },
   {
-    "name": "077 fish kings ascension",
+    "name": "077 fish king's ascension",
     "points": 1025,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/individual/location-stickers/fh-077-fish-kings-ascension.png",
@@ -7252,11 +7252,11 @@
     "xws": "087thecollection"
   },
   {
-    "name": "088 the collections capstone",
+    "name": "088 collection's capstone",
     "points": 1036,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/individual/location-stickers/fh-088-the-collections-capstone.png",
-    "xws": "088thecollectionscapstone"
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-088-collections-capstone.png",
+    "xws": "088collectionscapstone"
   },
   {
     "name": "089 a contained fire",
@@ -7406,7 +7406,7 @@
     "xws": "109furiousfactory"
   },
   {
-    "name": "110 guardians temple",
+    "name": "110 guardian's temple",
     "points": 1058,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/individual/location-stickers/fh-110-guardians-temple.png",
@@ -7546,7 +7546,7 @@
     "xws": "129howtolayanambush"
   },
   {
-    "name": "130 and then a stream",
+    "name": "130 and then, a stream",
     "points": 1078,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/individual/location-stickers/fh-130-and-then-a-stream.png",
@@ -7581,7 +7581,7 @@
     "xws": "134towerofknowledge"
   },
   {
-    "name": "135 belaras keep",
+    "name": "135 belara's keep",
     "points": 1083,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/individual/location-stickers/fh-135-belaras-keep.png",
