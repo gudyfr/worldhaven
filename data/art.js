@@ -10703,7 +10703,7 @@
     "xws": "136abandonedhideout"
   },
   {
-    "name": "137 pirate queens hall",
+    "name": "137 pirate queen's hall",
     "points": 1529,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/stickers/individual/location-stickers/fh-137-pirate-queens-hall.png",
