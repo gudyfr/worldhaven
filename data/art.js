@@ -10703,11 +10703,11 @@
     "xws": "136abandonedhideout"
   },
   {
-    "name": "137 pirate queen's hall",
+    "name": "137 pirate queen's haul",
     "points": 1529,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/individual/location-stickers/fh-137-pirate-queens-hall.png",
-    "xws": "137piratequeenshall"
+    "image": "art/frosthaven/stickers/individual/location-stickers/fh-137-pirate-queens-haul.png",
+    "xws": "137piratequeenshaul"
   },
   {
     "name": "12 hunting lodge",
