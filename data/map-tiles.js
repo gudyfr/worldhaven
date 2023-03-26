@@ -943,5 +943,61 @@
     "expansion": "Frosthaven",
     "image": "map-tiles/frosthaven/fh-16d-metal.png",
     "xws": "16d"
+  },
+  {
+    "name": "character dial",
+    "points": 135,
+    "expansion": "Frosthaven",
+    "image": "map-tiles/frosthaven/fh-character-dial-front.png",
+    "xws": "characterdial"
+  },
+  {
+    "name": "character dial",
+    "points": 136,
+    "expansion": "Frosthaven",
+    "image": "map-tiles/frosthaven/fh-character-dial-back.png",
+    "xws": "characterdial"
+  },
+  {
+    "name": "character dial health",
+    "points": 137,
+    "expansion": "Frosthaven",
+    "image": "map-tiles/frosthaven/fh-character-dial-health-front.png",
+    "xws": "characterdialhealth"
+  },
+  {
+    "name": "character dial health",
+    "points": 138,
+    "expansion": "Frosthaven",
+    "image": "map-tiles/frosthaven/fh-character-dial-health-back.png",
+    "xws": "characterdialhealth"
+  },
+  {
+    "name": "character dial xp",
+    "points": 139,
+    "expansion": "Frosthaven",
+    "image": "map-tiles/frosthaven/fh-character-dial-xp-front.png",
+    "xws": "characterdialxp"
+  },
+  {
+    "name": "character dial xp",
+    "points": 140,
+    "expansion": "Frosthaven",
+    "image": "map-tiles/frosthaven/fh-character-dial-xp-back.png",
+    "xws": "characterdialxp"
+  },
+  {
+    "name": "element board",
+    "points": 141,
+    "expansion": "Frosthaven",
+    "image": "map-tiles/frosthaven/fh-element-board-front.png",
+    "xws": "elementboard"
+  },
+  {
+    "name": "element board",
+    "points": 142,
+    "expansion": "Frosthaven",
+    "image": "map-tiles/frosthaven/fh-element-board-back.png",
+    "xws": "elementboard"
   }
 ]
