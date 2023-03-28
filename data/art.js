@@ -10206,7 +10206,7 @@
     "xws": "ravensroost"
   },
   {
-    "name": "raven's roost",
+    "name": "ravens' roost",
     "points": 1458,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-032-ravens-roost-loot.png",
@@ -10241,7 +10241,7 @@
     "xws": "ravensroost"
   },
   {
-    "name": "raven's roost",
+    "name": "ravens' roost",
     "points": 1463,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-032-ravens-roost-map-layout.png",
@@ -10276,7 +10276,7 @@
     "xws": "ravensroosts"
   },
   {
-    "name": "raven's roost",
+    "name": "ravens' roost",
     "points": 1468,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-032-ravens-roost-scenario-key-a.png",
@@ -10311,7 +10311,7 @@
     "xws": "ravensroosts"
   },
   {
-    "name": "raven's roost",
+    "name": "ravens' roost",
     "points": 1473,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-032-ravens-roost-scenario-key-b.png",
@@ -20188,7 +20188,7 @@
     "xws": "belaraskeep"
   },
   {
-    "name": "belaras keep",
+    "name": "belara's keep",
     "points": 2884,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-135-belaras-keep-loot.png",
@@ -20209,7 +20209,7 @@
     "xws": "belaraskeep"
   },
   {
-    "name": "belaras keep",
+    "name": "belara's keep",
     "points": 2887,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-135-belaras-keep-map-layout.png",
@@ -20230,7 +20230,7 @@
     "xws": "belaraskeeps"
   },
   {
-    "name": "belaras keep",
+    "name": "belara's keep",
     "points": 2890,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-135-belaras-keep-scenario-key-a.png",
@@ -20251,7 +20251,7 @@
     "xws": "belaraskeeps"
   },
   {
-    "name": "belaras keep",
+    "name": "belara's keep",
     "points": 2893,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-135-belaras-keep-scenario-key-b.png",
