@@ -8281,7 +8281,7 @@
     "xws": "jaggedshoalss"
   },
   {
-    "name": "jagged shoals s",
+    "name": "jagged shoals",
     "points": 1183,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-014-jagged-shoals-scenario-key-a.png",
@@ -8316,7 +8316,7 @@
     "xws": "jaggedshoalss"
   },
   {
-    "name": "jagged shoals s",
+    "name": "jagged shoals",
     "points": 1188,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-014-jagged-shoals-scenario-key-b.png",
@@ -9051,7 +9051,7 @@
     "xws": "realmoftheendlessfrosts"
   },
   {
-    "name": "realm of the endless frost s",
+    "name": "realm of the endless frost",
     "points": 1293,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-a.png",
@@ -9086,7 +9086,7 @@
     "xws": "realmoftheendlessfrosts"
   },
   {
-    "name": "realm of the endless frost s",
+    "name": "realm of the endless frost",
     "points": 1298,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-021-realm-of-the-endless-frost-scenario-key-b.png",
@@ -9191,7 +9191,7 @@
     "xws": "icefloess"
   },
   {
-    "name": "ice floes s",
+    "name": "ice floes",
     "points": 1313,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-022-ice-floes-scenario-key-a.png",
@@ -9226,7 +9226,7 @@
     "xws": "icefloess"
   },
   {
-    "name": "ice floes s",
+    "name": "ice floes",
     "points": 1318,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-022-ice-floes-scenario-key-b.png",
@@ -10206,7 +10206,7 @@
     "xws": "ravensroost"
   },
   {
-    "name": "ravens roost",
+    "name": "raven's roost",
     "points": 1458,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-032-ravens-roost-loot.png",
@@ -10241,7 +10241,7 @@
     "xws": "ravensroost"
   },
   {
-    "name": "ravens roost",
+    "name": "raven's roost",
     "points": 1463,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-032-ravens-roost-map-layout.png",
@@ -10276,7 +10276,7 @@
     "xws": "ravensroosts"
   },
   {
-    "name": "ravens roost s",
+    "name": "raven's roost",
     "points": 1468,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-032-ravens-roost-scenario-key-a.png",
@@ -10311,7 +10311,7 @@
     "xws": "ravensroosts"
   },
   {
-    "name": "ravens roost s",
+    "name": "raven's roost",
     "points": 1473,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-032-ravens-roost-scenario-key-b.png",
@@ -10941,7 +10941,7 @@
     "xws": "thewayforwards"
   },
   {
-    "name": "the way forward s",
+    "name": "the way forward",
     "points": 1563,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-038-the-way-forward-scenario-key-a.png",
@@ -10976,7 +10976,7 @@
     "xws": "thewayforwards"
   },
   {
-    "name": "the way forward s",
+    "name": "the way forward",
     "points": 1568,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-038-the-way-forward-scenario-key-b.png",
@@ -12271,7 +12271,7 @@
     "xws": "orphanshalls"
   },
   {
-    "name": "orphans halls",
+    "name": "orphan's halls",
     "points": 1753,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-051-orphans-halls-loot.png",
@@ -12306,7 +12306,7 @@
     "xws": "orphanshalls"
   },
   {
-    "name": "orphans halls",
+    "name": "orphan's halls",
     "points": 1758,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-051-orphans-halls-map-layout.png",
@@ -12341,7 +12341,7 @@
     "xws": "orphanshalls"
   },
   {
-    "name": "orphans halls",
+    "name": "orphan's halls",
     "points": 1763,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-051-orphans-halls-scenario-key.png",
@@ -13006,7 +13006,7 @@
     "xws": "orphanscore"
   },
   {
-    "name": "orphans core",
+    "name": "orphan's core",
     "points": 1858,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-058-orphans-core-loot.png",
@@ -13041,7 +13041,7 @@
     "xws": "orphanscore"
   },
   {
-    "name": "orphans core",
+    "name": "orphan's core",
     "points": 1863,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-058-orphans-core-map-layout.png",
@@ -13076,7 +13076,7 @@
     "xws": "orphanscores"
   },
   {
-    "name": "orphans core s",
+    "name": "orphan's core",
     "points": 1868,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-058-orphans-core-scenario-key-a.png",
@@ -13111,7 +13111,7 @@
     "xws": "orphanscores"
   },
   {
-    "name": "orphans core s",
+    "name": "orphan's core",
     "points": 1873,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-058-orphans-core-scenario-key-b.png",
@@ -13636,7 +13636,7 @@
     "xws": "thesavvasseals"
   },
   {
-    "name": "the savvas seal s",
+    "name": "the savvas seal",
     "points": 1948,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-063-the-savvas-seal-scenario-key-a.png",
@@ -13671,7 +13671,7 @@
     "xws": "thesavvasseals"
   },
   {
-    "name": "the savvas seal s",
+    "name": "the savvas seal",
     "points": 1953,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-063-the-savvas-seal-scenario-key-b.png",
@@ -14931,7 +14931,7 @@
     "xws": "infiltratingthelairs"
   },
   {
-    "name": "infiltrating the lair s",
+    "name": "infiltrating the lair",
     "points": 2133,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-075-infiltrating-the-lair-scenario-key-a.png",
@@ -14966,7 +14966,7 @@
     "xws": "infiltratingthelairs"
   },
   {
-    "name": "infiltrating the lair s",
+    "name": "infiltrating the lair",
     "points": 2138,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-075-infiltrating-the-lair-scenario-key-b.png",
@@ -15071,7 +15071,7 @@
     "xws": "apotheosiss"
   },
   {
-    "name": "apotheosis s",
+    "name": "apotheosis",
     "points": 2153,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-076-apotheosis-scenario-key-a.png",
@@ -15106,7 +15106,7 @@
     "xws": "apotheosiss"
   },
   {
-    "name": "apotheosis s",
+    "name": "apotheosis",
     "points": 2158,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-076-apotheosis-scenario-key-b.png",
@@ -15141,7 +15141,7 @@
     "xws": "fishkingsascension"
   },
   {
-    "name": "fish kings ascension",
+    "name": "fish king's ascension",
     "points": 2163,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-077-fish-kings-ascension-loot.png",
@@ -15176,7 +15176,7 @@
     "xws": "fishkingsascension"
   },
   {
-    "name": "fish kings ascension",
+    "name": "fish king's ascension",
     "points": 2168,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-077-fish-kings-ascension-map-layout.png",
@@ -15211,7 +15211,7 @@
     "xws": "fishkingsascension"
   },
   {
-    "name": "fish kings ascension",
+    "name": "fish king's ascension",
     "points": 2173,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-077-fish-kings-ascension-scenario-key.png",
@@ -15316,7 +15316,7 @@
     "xws": "thelurkerproblems"
   },
   {
-    "name": "the lurker problem s",
+    "name": "the lurker problem",
     "points": 2188,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-078-the-lurker-problem-scenario-key-a.png",
@@ -15351,7 +15351,7 @@
     "xws": "thelurkerproblems"
   },
   {
-    "name": "the lurker problem s",
+    "name": "the lurker problem",
     "points": 2193,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-078-the-lurker-problem-scenario-key-b.png",
@@ -15456,7 +15456,7 @@
     "xws": "relics"
   },
   {
-    "name": "relic s",
+    "name": "relic",
     "points": 2208,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-079-relic-scenario-key-a.png",
@@ -15491,7 +15491,7 @@
     "xws": "relics"
   },
   {
-    "name": "relic s",
+    "name": "relic",
     "points": 2213,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-079-relic-scenario-key-b.png",
@@ -15701,7 +15701,7 @@
     "xws": "ruinousresearchlabs"
   },
   {
-    "name": "ruinous research lab s",
+    "name": "ruinous research lab",
     "points": 2243,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-081-ruinous-research-lab-scenario-key-a.png",
@@ -15736,7 +15736,7 @@
     "xws": "ruinousresearchlabs"
   },
   {
-    "name": "ruinous research lab s",
+    "name": "ruinous research lab",
     "points": 2248,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-081-ruinous-research-lab-scenario-key-b.png",
@@ -15946,7 +15946,7 @@
     "xws": "risingbrines"
   },
   {
-    "name": "rising brine s",
+    "name": "rising brine",
     "points": 2278,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-083-rising-brine-scenario-key-a.png",
@@ -15981,7 +15981,7 @@
     "xws": "risingbrines"
   },
   {
-    "name": "rising brine s",
+    "name": "rising brine",
     "points": 2283,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-083-rising-brine-scenario-key-b.png",
@@ -16436,7 +16436,7 @@
     "xws": "collectionscapstone"
   },
   {
-    "name": "collections capstone",
+    "name": "collection's capstone",
     "points": 2348,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-088-collections-capstone-loot.png",
@@ -16471,7 +16471,7 @@
     "xws": "collectionscapstone"
   },
   {
-    "name": "collections capstone",
+    "name": "collection's capstone",
     "points": 2353,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-088-collections-capstone-map-layout.png",
@@ -16506,7 +16506,7 @@
     "xws": "collectionscapstone"
   },
   {
-    "name": "collections capstone",
+    "name": "collection's capstone",
     "points": 2358,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-088-collections-capstone-scenario-key.png",
@@ -17451,7 +17451,7 @@
     "xws": "programcontrolnexuss"
   },
   {
-    "name": "program control nexus s",
+    "name": "program control nexus",
     "points": 2493,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-097-program-control-nexus-scenario-key-a.png",
@@ -17486,7 +17486,7 @@
     "xws": "programcontrolnexuss"
   },
   {
-    "name": "program control nexus s",
+    "name": "program control nexus",
     "points": 2498,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-097-program-control-nexus-scenario-key-b.png",
@@ -17696,7 +17696,7 @@
     "xws": "prisonbreaks"
   },
   {
-    "name": "prison break s",
+    "name": "prison break",
     "points": 2528,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-099-prison-break-scenario-key-a.png",
@@ -17731,7 +17731,7 @@
     "xws": "prisonbreaks"
   },
   {
-    "name": "prison break s",
+    "name": "prison break",
     "points": 2533,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-099-prison-break-scenario-key-b.png",
@@ -17794,7 +17794,7 @@
     "xws": "insidetheswarms"
   },
   {
-    "name": "inside the swarm s",
+    "name": "inside the swarm",
     "points": 2542,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-100-inside-the-swarm-scenario-key-a.png",
@@ -17815,7 +17815,7 @@
     "xws": "insidetheswarms"
   },
   {
-    "name": "inside the swarm s",
+    "name": "inside the swarm",
     "points": 2545,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-100-inside-the-swarm-scenario-key-b.png",
@@ -17878,7 +17878,7 @@
     "xws": "harrowerlibrarys"
   },
   {
-    "name": "harrower library s",
+    "name": "harrower library",
     "points": 2554,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-101-harrower-library-scenario-key-a.png",
@@ -17899,7 +17899,7 @@
     "xws": "harrowerlibrarys"
   },
   {
-    "name": "harrower library s",
+    "name": "harrower library",
     "points": 2557,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-101-harrower-library-scenario-key-b.png",
@@ -18214,7 +18214,7 @@
     "xws": "thetempusforges"
   },
   {
-    "name": "the tempus forge s",
+    "name": "the tempus forge",
     "points": 2602,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-106-the-tempus-forge-scenario-key-a.png",
@@ -18235,7 +18235,7 @@
     "xws": "thetempusforges"
   },
   {
-    "name": "the tempus forge s",
+    "name": "the tempus forge",
     "points": 2605,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-106-the-tempus-forge-scenario-key-b.png",
@@ -18298,7 +18298,7 @@
     "xws": "myprivateempires"
   },
   {
-    "name": "my private empire s",
+    "name": "my private empire",
     "points": 2614,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-107-my-private-empire-scenario-key-a.png",
@@ -18319,7 +18319,7 @@
     "xws": "myprivateempires"
   },
   {
-    "name": "my private empire s",
+    "name": "my private empire",
     "points": 2617,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-107-my-private-empire-scenario-key-b.png",
@@ -18445,7 +18445,7 @@
     "xws": "furiousfactorys"
   },
   {
-    "name": "furious factory s",
+    "name": "furious factory",
     "points": 2635,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-109-furious-factory-scenario-key-a.png",
@@ -18466,7 +18466,7 @@
     "xws": "furiousfactorys"
   },
   {
-    "name": "furious factory s",
+    "name": "furious factory",
     "points": 2638,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-109-furious-factory-scenario-key-b.png",
@@ -18487,7 +18487,7 @@
     "xws": "guardianstemple"
   },
   {
-    "name": "guardians temple",
+    "name": "guardian's temple",
     "points": 2641,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-110-guardians-temple-loot.png",
@@ -18508,7 +18508,7 @@
     "xws": "guardianstemple"
   },
   {
-    "name": "guardians temple",
+    "name": "guardian's temple",
     "points": 2644,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-110-guardians-temple-map-layout.png",
@@ -18529,7 +18529,7 @@
     "xws": "guardianstemple"
   },
   {
-    "name": "guardians temple",
+    "name": "guardian's temple",
     "points": 2647,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-110-guardians-temple-scenario-key.png",
@@ -18592,7 +18592,7 @@
     "xws": "icecaves"
   },
   {
-    "name": "ice cave s",
+    "name": "ice cave",
     "points": 2656,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-111-ice-cave-scenario-key-a.png",
@@ -18613,7 +18613,7 @@
     "xws": "icecaves"
   },
   {
-    "name": "ice cave s",
+    "name": "ice cave",
     "points": 2659,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-111-ice-cave-scenario-key-b.png",
@@ -19180,7 +19180,7 @@
     "xws": "undertheinfluences"
   },
   {
-    "name": "under the influence s",
+    "name": "under the influence",
     "points": 2740,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-120-under-the-influence-scenario-key-a.png",
@@ -19201,7 +19201,7 @@
     "xws": "undertheinfluences"
   },
   {
-    "name": "under the influence s",
+    "name": "under the influence",
     "points": 2743,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-120-under-the-influence-scenario-key-b.png",
@@ -19642,7 +19642,7 @@
     "xws": "derelictfreighters"
   },
   {
-    "name": "derelict freighter s",
+    "name": "derelict freighter",
     "points": 2806,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-127-derelict-freighter-scenario-key-a.png",
@@ -19663,7 +19663,7 @@
     "xws": "derelictfreighters"
   },
   {
-    "name": "derelict freighter s",
+    "name": "derelict freighter",
     "points": 2809,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-127-derelict-freighter-scenario-key-b.png",
@@ -19789,7 +19789,7 @@
     "xws": "howtolayanambushs"
   },
   {
-    "name": "how to lay an ambush s",
+    "name": "how to lay an ambush",
     "points": 2827,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-129-how-to-lay-an-ambush-scenario-key-a.png",
@@ -19810,7 +19810,7 @@
     "xws": "howtolayanambushs"
   },
   {
-    "name": "how to lay an ambush s",
+    "name": "how to lay an ambush",
     "points": 2830,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-129-how-to-lay-an-ambush-scenario-key-b.png",
@@ -19831,7 +19831,7 @@
     "xws": "andthenastream"
   },
   {
-    "name": "and then a stream",
+    "name": "and then, a stream",
     "points": 2833,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-loot.png",
@@ -19852,7 +19852,7 @@
     "xws": "andthenastream"
   },
   {
-    "name": "and then a stream",
+    "name": "and then, a stream",
     "points": 2836,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-map-layout.png",
@@ -19873,7 +19873,7 @@
     "xws": "andthenastreams"
   },
   {
-    "name": "and then a stream s",
+    "name": "and then, a stream",
     "points": 2839,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-scenario-key-a.png",
@@ -19894,7 +19894,7 @@
     "xws": "andthenastreams"
   },
   {
-    "name": "and then a stream s",
+    "name": "and then a stream",
     "points": 2842,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-scenario-key-b.png",
@@ -20146,7 +20146,7 @@
     "xws": "towerofknowledges"
   },
   {
-    "name": "tower of knowledge s",
+    "name": "tower of knowledge",
     "points": 2878,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-134-tower-of-knowledge-scenario-key-a.png",
@@ -20167,7 +20167,7 @@
     "xws": "towerofknowledges"
   },
   {
-    "name": "tower of knowledge s",
+    "name": "tower of knowledge",
     "points": 2881,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-134-tower-of-knowledge-scenario-key-b.png",
@@ -20230,7 +20230,7 @@
     "xws": "belaraskeeps"
   },
   {
-    "name": "belaras keep s",
+    "name": "belaras keep",
     "points": 2890,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-135-belaras-keep-scenario-key-a.png",
@@ -20251,7 +20251,7 @@
     "xws": "belaraskeeps"
   },
   {
-    "name": "belaras keep s",
+    "name": "belaras keep",
     "points": 2893,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-135-belaras-keep-scenario-key-b.png",
@@ -20335,7 +20335,7 @@
     "xws": "piratequeenshaul"
   },
   {
-    "name": "pirate queens haul",
+    "name": "pirate queen's haul",
     "points": 2905,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-137-pirate-queens-haul-loot.png",
@@ -20356,7 +20356,7 @@
     "xws": "piratequeenshaul"
   },
   {
-    "name": "pirate queens haul",
+    "name": "pirate queen's haul",
     "points": 2908,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-137-pirate-queens-haul-map-layout.png",
@@ -20377,7 +20377,7 @@
     "xws": "piratequeenshauls"
   },
   {
-    "name": "pirate queens haul s",
+    "name": "pirate queen's haul",
     "points": 2911,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-137-pirate-queens-haul-scenario-key-a.png",
@@ -20398,7 +20398,7 @@
     "xws": "piratequeenshauls"
   },
   {
-    "name": "pirate queens haul s",
+    "name": "pirate queen's haul",
     "points": 2914,
     "expansion": "Frosthaven",
     "image": "art/frosthaven/scenario-layout/fh-137-pirate-queens-haul-scenario-key-b.png",
