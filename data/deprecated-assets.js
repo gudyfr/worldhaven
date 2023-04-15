@@ -4177,5 +4177,61 @@
     "expansion": "Crimson Scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-002.png",
     "xws": "cspqrm002deprecated"
+  },
+  {
+    "name": "render 0 deprecated",
+    "points": 597,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/boss-stat-cards/fh-render-0-v1.png",
+    "xws": "render0deprecated"
+  },
+  {
+    "name": "render 0 deprecated",
+    "points": 598,
+    "expansion": "Frosthaven",
+    "image": "monster-stat-cards/frosthaven/fh-render-0.png",
+    "xws": "render0deprecated"
+  },
+  {
+    "name": "render 2 deprecated",
+    "points": 599,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/boss-stat-cards/fh-render-2-v1.png",
+    "xws": "render2deprecated"
+  },
+  {
+    "name": "render 2 deprecated",
+    "points": 600,
+    "expansion": "Frosthaven",
+    "image": "monster-stat-cards/frosthaven/fh-render-2.png",
+    "xws": "render2deprecated"
+  },
+  {
+    "name": "render 4 deprecated",
+    "points": 601,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/boss-stat-cards/fh-render-4-v1.png",
+    "xws": "render4deprecated"
+  },
+  {
+    "name": "render 4 deprecated",
+    "points": 602,
+    "expansion": "Frosthaven",
+    "image": "monster-stat-cards/frosthaven/fh-render-4.png",
+    "xws": "render4deprecated"
+  },
+  {
+    "name": "render 6 deprecated",
+    "points": 603,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/boss-stat-cards/fh-render-6-v1.png",
+    "xws": "render6deprecated"
+  },
+  {
+    "name": "render 6 deprecated",
+    "points": 604,
+    "expansion": "Frosthaven",
+    "image": "monster-stat-cards/frosthaven/fh-render-6.png",
+    "xws": "render6deprecated"
   }
 ]
