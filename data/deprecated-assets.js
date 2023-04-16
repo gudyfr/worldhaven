@@ -4261,5 +4261,19 @@
     "expansion": "Frosthaven",
     "image": "monster-stat-cards/frosthaven/fh-render-6.png",
     "xws": "render6deprecated"
+  },
+  {
+    "name": "make it count deprecated",
+    "points": 609,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/character-ability-cards/BB-V1/fh-make-it-count-v1.png",
+    "xws": "makeitcountdeprecated"
+  },
+  {
+    "name": "make it count deprecated",
+    "points": 610,
+    "expansion": "Frosthaven",
+    "image": "character-ability-cards/frosthaven/BB/fh-make-it-count.png",
+    "xws": "makeitcountdeprecated"
   }
 ]
