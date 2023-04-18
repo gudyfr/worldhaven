@@ -4275,5 +4275,19 @@
     "expansion": "Frosthaven",
     "image": "character-ability-cards/frosthaven/BB/fh-make-it-count.png",
     "xws": "makeitcountdeprecated"
+  },
+  {
+    "name": "deathwalker deprecated",
+    "points": 611,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/character-mats/fh-deathwalker-v1.png",
+    "xws": "deathwalkerdeprecated"
+  },
+  {
+    "name": "deathwalker deprecated",
+    "points": 612,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-deathwalker.png",
+    "xws": "deathwalkerdeprecated"
   }
 ]
