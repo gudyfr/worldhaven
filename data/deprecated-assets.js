@@ -4294,14 +4294,14 @@
     "name": "fh-wre-47-b deprecated",
     "points": 613,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/events/road/fh-fh-wre-47-b-v1.png",
+    "image": "deprecated-assets/frosthaven/events/road/fh-wre-47-b-v1.png",
     "xws": "fhwre47bdeprecated"
   },
   {
     "name": "fh-wre-47-b deprecated",
     "points": 614,
     "expansion": "Frosthaven",
-    "image": "events/frosthaven/road/fh-fh-wre-47-b.png",
+    "image": "events/frosthaven/road/fh-wre-47-b.png",
     "xws": "fhwre47bdeprecated"
   }
 ]
