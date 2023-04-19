@@ -570,8 +570,8 @@
     "name": "music note crossover perks",
     "points": 81,
     "expansion": "Frosthaven",
-    "image": "character-perks/frosthaven/fh-musicnote-perks.png",
-    "xws": "musicnotecrossoverperks"
+    "image": "character-perks/frosthaven/fh-soothsinger-perks.png",
+    "xws": "soothsingercrossoverperks"
   },
   {
     "name": "snowdancer perks",
