@@ -4303,5 +4303,75 @@
     "expansion": "Frosthaven",
     "image": "events/frosthaven/road/fh-wre-47-b.png",
     "xws": "fhwre47bdeprecated"
+  },
+  {
+    "name": "item 49 deprecated",
+    "points": 615,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
+    "xws": "crueldaggerdeprecated"
+  },
+  {
+    "name": "item 49 deprecated",
+    "points": 616,
+    "expansion": "Frosthaven",
+    "image": "items/frosthaven/046-050/fh-cruel-dagger.png",
+    "xws": "crueldaggerdeprecated"
+  }
+  {
+    "name": "item 049 deprecated",
+    "points": 617,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
+    "xws": "crueldaggerdeprecated"
+  },
+  {
+    "name": "item 049 deprecated",
+    "points": 618,
+    "expansion": "Frosthaven",
+    "image": "items/frosthaven/046-050/fh-cruel-dagger.png",
+    "xws": "crueldaggerdeprecated"
+  }
+  {
+    "name": "item #49 deprecated",
+    "points": 619,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
+    "xws": "crueldaggerdeprecated"
+  },
+  {
+    "name": "item #49 deprecated",
+    "points": 620,
+    "expansion": "Frosthaven",
+    "image": "items/frosthaven/046-050/fh-cruel-dagger.png",
+    "xws": "crueldaggerdeprecated"
+  }
+  {
+    "name": "item #049 deprecated",
+    "points": 621,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
+    "xws": "crueldaggerdeprecated"
+  },
+  {
+    "name": "item #049 deprecated",
+    "points": 622,
+    "expansion": "Frosthaven",
+    "image": "items/frosthaven/046-050/fh-cruel-dagger.png",
+    "xws": "crueldaggerdeprecated"
+  }
+  {
+    "name": "cruel dagger deprecated",
+    "points": 623,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
+    "xws": "crueldaggerdeprecated"
+  },
+  {
+    "name": "cruel dagger deprecated",
+    "points": 624,
+    "expansion": "Frosthaven",
+    "image": "items/frosthaven/046-050/fh-cruel-dagger.png",
+    "xws": "crueldaggerdeprecated"
   }
 ]
