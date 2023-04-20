@@ -4373,5 +4373,61 @@
     "expansion": "Frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
     "xws": "crueldaggerdeprecated"
+  },
+  {
+    "name": "fh-ma-cd-1 deprecated",
+    "points": 625,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/monster-ability-cards/chaos-demon/fh-ma-cd-1-v1.png",
+    "xws": "fhmacd1deprecated"
+  },
+  {
+    "name": "fh-ma-cd-1 deprecated",
+    "points": 626,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-1.png",
+    "xws": "fhmacd1deprecated"
+  },
+  {
+    "name": "chilling breath deprecated",
+    "points": 627,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/monster-ability-cards/chaos-demon/fh-ma-cd-1-v1.png",
+    "xws": "fhmacd1deprecated"
+  },
+  {
+    "name": "chilling breath deprecated",
+    "points": 628,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-1.png",
+    "xws": "fhmacd1deprecated"
+  },
+  {
+    "name": "fh-ma-si-6 deprecated",
+    "points": 629,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/monster-ability-cards/savvas-icestorm/fh-ma-si-6-v1.png",
+    "xws": "fhmasi6deprecated"
+  },
+  {
+    "name": "fh-ma-si-6 deprecated",
+    "points": 630,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/savvas-icestorm/fh-ma-si-6.png",
+    "xws": "fhmasi6deprecated"
+  },
+  {
+    "name": "frozen shell deprecated",
+    "points": 631,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/monster-ability-cards/savvas-icestorm/fh-ma-si-6-v1.png",
+    "xws": "fhmasi6deprecated"
+  },
+  {
+    "name": "frozen shell deprecated",
+    "points": 632,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/savvas-icestorm/fh-ma-si-6.png",
+    "xws": "fhmasi6deprecated"
   }
 ]
