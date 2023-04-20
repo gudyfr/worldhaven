@@ -4429,5 +4429,19 @@
     "expansion": "Frosthaven",
     "image": "monster-ability-cards/frosthaven/savvas-icestorm/fh-ma-si-6.png",
     "xws": "fhmasi6deprecated"
+  },
+  {
+    "name": "wind demon 0 deprecated",
+    "points": 633,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/monster-stat-cards/fh-wind-demon-0-v1.png",
+    "xws": "winddemon0deprecated"
+  },
+  {
+    "name": "wind demon 0 deprecated",
+    "points": 634,
+    "expansion": "Frosthaven",
+    "image": "monster-stat-cards/frosthaven/fh-wind-demon-0.png",
+    "xws": "winddemon0deprecated"
   }
 ]
