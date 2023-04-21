@@ -4443,5 +4443,33 @@
     "expansion": "Frosthaven",
     "image": "monster-stat-cards/frosthaven/fh-wind-demon-0.png",
     "xws": "winddemon0deprecated"
+  },
+  {
+    "name": "fh-pq-19 deprecated",
+    "points": 635,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/personal-quests/fh-pq-19-v1.png",
+    "xws": "fhpq19deprecated"
+  },
+  {
+    "name": "fh-pq-19 deprecated",
+    "points": 636,
+    "expansion": "Frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-19.png",
+    "xws": "fhpq19deprecated"
+  },
+  {
+    "name": "quiet the dead places deprecated",
+    "points": 637,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/personal-quests/fh-pq-19-v1.png",
+    "xws": "fhpq19deprecated"
+  },
+  {
+    "name": "quiet the dead places deprecated",
+    "points": 638,
+    "expansion": "Frosthaven",
+    "image": "personal-quests/frosthaven/fh-pq-19.png",
+    "xws": "fhpq19deprecated"
   }
 ]
