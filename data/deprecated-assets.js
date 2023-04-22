@@ -4476,112 +4476,112 @@
     "name": "punchboard 15 front deprecated",
     "points": 639,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/punchboards/fh-punchboard-15-front-v1.png",
+    "image": "deprecated-assets/frosthaven/art/punchboards/general/fh-punchboard-15-front-v1.png",
     "xws": "punchboard15frontdeprecated"
   },
   {
     "name": "punchboard 15 front deprecated",
     "points": 640,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/punchboards/fh-punchboard-15-front.png",
+    "image": "art/frosthaven/punchboards/general/fh-punchboard-15-front.png",
     "xws": "punchboard15frontdeprecated"
   },
   {
     "name": "punchboard 15 back deprecated",
     "points": 641,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/punchboards/fh-punchboard-15-back-v1.png",
+    "image": "deprecated-assets/frosthaven/art/punchboards/general/fh-punchboard-15-back-v1.png",
     "xws": "punchboard15backdeprecated"
   },
   {
     "name": "punchboard 15 back deprecated",
     "points": 642,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/punchboards/fh-punchboard-15-back.png",
+    "image": "art/frosthaven/punchboards/general/fh-punchboard-15-back.png",
     "xws": "punchboard15backdeprecated"
   },
   {
     "name": "punchboard 16 front deprecated",
     "points": 643,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/punchboards/fh-punchboard-16-front-v1.png",
+    "image": "deprecated-assets/frosthaven/art/punchboards/general/fh-punchboard-16-front-v1.png",
     "xws": "punchboard16frontdeprecated"
   },
   {
     "name": "punchboard 16 front deprecated",
     "points": 644,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/punchboards/fh-punchboard-16-front.png",
+    "image": "art/frosthaven/punchboards/general/fh-punchboard-16-front.png",
     "xws": "punchboard16frontdeprecated"
   },
   {
     "name": "punchboard 16 back deprecated",
     "points": 645,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/punchboards/fh-punchboard-16-back-v1.png",
+    "image": "deprecated-assets/frosthaven/art/punchboards/general/fh-punchboard-16-back-v1.png",
     "xws": "punchboard16backdeprecated"
   },
   {
     "name": "punchboard 16 back deprecated",
     "points": 646,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/punchboards/fh-punchboard-16-back.png",
+    "image": "art/frosthaven/punchboards/general/fh-punchboard-16-back.png",
     "xws": "punchboard16backdeprecated"
   },
   {
     "name": "punchboard 26 front deprecated",
     "points": 647,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/punchboards/fh-punchboard-26-front-v1.png",
+    "image": "deprecated-assets/frosthaven/art/punchboards/general/fh-punchboard-26-front-v1.png",
     "xws": "punchboard26frontdeprecated"
   },
   {
     "name": "punchboard 26 front deprecated",
     "points": 648,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/punchboards/fh-punchboard-26-front.png",
+    "image": "art/frosthaven/punchboards/general/fh-punchboard-26-front.png",
     "xws": "punchboard26frontdeprecated"
   },
   {
     "name": "punchboard 26 back deprecated",
     "points": 649,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/punchboards/fh-punchboard-26-back-v1.png",
+    "image": "deprecated-assets/frosthaven/art/punchboards/general/fh-punchboard-26-back-v1.png",
     "xws": "punchboard26backdeprecated"
   },
   {
     "name": "punchboard 26 back deprecated",
     "points": 650,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/punchboards/fh-punchboard-26-back.png",
+    "image": "art/frosthaven/punchboards/general/fh-punchboard-26-back.png",
     "xws": "punchboard26backdeprecated"
   },
   {
     "name": "punchboard 27 front deprecated",
     "points": 651,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/punchboards/fh-punchboard-27-front-v1.png",
+    "image": "deprecated-assets/frosthaven/art/punchboards/general/fh-punchboard-27-front-v1.png",
     "xws": "punchboard27frontdeprecated"
   },
   {
     "name": "punchboard 27 front deprecated",
     "points": 652,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/punchboards/fh-punchboard-27-front.png",
+    "image": "art/frosthaven/punchboards/general/fh-punchboard-27-front.png",
     "xws": "punchboard27frontdeprecated"
   },
   {
     "name": "punchboard 27 back deprecated",
     "points": 653,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/punchboards/fh-punchboard-27-back-v1.png",
+    "image": "deprecated-assets/frosthaven/art/punchboards/general/fh-punchboard-27-back-v1.png",
     "xws": "punchboard27backdeprecated"
   },
   {
     "name": "punchboard 27 back deprecated",
     "points": 654,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/punchboards/fh-punchboard-27-back.png",
+    "image": "art/frosthaven/punchboards/general/fh-punchboard-27-back.png",
     "xws": "punchboard27backdeprecated"
   }
 ]
