@@ -4546,42 +4546,42 @@
     "name": "scenario 130 deprecated",
     "points": 649,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/scenario-layout/fh-130-and-then-a-stream-scenario-key-v1.png",
+    "image": "deprecated-assets/frosthaven/art/scenario-layout/fh-130-and-then-a-stream-scenario-key-a-v1.png",
     "xws": "andthenastreamdeprecated"
   },
   {
     "name": "scenario #130 deprecated",
     "points": 650,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/scenario-layout/fh-130-and-then-a-stream-scenario-key-v1.png",
+    "image": "deprecated-assets/frosthaven/art/scenario-layout/fh-130-and-then-a-stream-scenario-key-a-v1.png",
     "xws": "andthenastreamdeprecated"
   },
   {
     "name": "and then, a stream deprecated",
     "points": 651,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/art/scenario-layout/fh-130-and-then-a-stream-scenario-key-v1.png",
+    "image": "deprecated-assets/frosthaven/art/scenario-layout/fh-130-and-then-a-stream-scenario-key-a-v1.png",
     "xws": "andthenastreamdeprecated"
   },
   {
     "name": "scenario 130 deprecated",
     "points": 652,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-scenario-key.png",
+    "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-scenario-key-a.png",
     "xws": "andthenastream"
   },
   {
     "name": "scenario #130 deprecated",
     "points": 653,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-scenario-key.png",
+    "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-scenario-key-a.png",
     "xws": "andthenastream"
   },
   {
     "name": "and then, a stream deprecated",
     "points": 654,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-scenario-key.png",
+    "image": "art/frosthaven/scenario-layout/fh-130-and-then-a-stream-scenario-key-a.png",
     "xws": "andthenastream"
   },
   {
