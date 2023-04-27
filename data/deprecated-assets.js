@@ -4640,10 +4640,6 @@
     "image": "character-mats/frosthaven/fh-deathwalker.png",
     "xws": "deathwalkerdeprecated"
   },
-
-
-
-
   {
     "name": "scenario flowchart page 1-3 dl deprecated",
     "points": 663,
@@ -4718,70 +4714,70 @@
     "name": "scenario flowchart page 1-3 ndl deprecated",
     "points": 673,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-1-3-ndl-v1.png",
+    "image": "deprecated-assets/frosthaven/charts/no-die-lines/fh-scenario-flowchart-page-1-3-ndl-v1.png",
     "xws": "scenarioflowchartpage13ndldeprecated"
   },
   {
     "name": "scenario flowchart page 1-3 ndl deprecated",
     "points": 674,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-1-3-ndl.png",
+    "image": "charts/frosthaven/no-die-lines/fh-scenario-flowchart-page-1-3-ndl.png",
     "xws": "scenarioflowchartpage13ndldeprecated"
   },
   {
     "name": "scenario flowchart page 2-3 ndl deprecated",
     "points": 675,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-2-3-ndl-v1.png",
+    "image": "deprecated-assets/frosthaven/charts/no-die-lines/fh-scenario-flowchart-page-2-3-ndl-v1.png",
     "xws": "scenarioflowchartpage23ndldeprecated"
   },
   {
     "name": "scenario flowchart page 2-3 ndl deprecated",
     "points": 676,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-2-3-ndl.png",
+    "image": "charts/frosthaven/no-die-lines/fh-scenario-flowchart-page-2-3-ndl.png",
     "xws": "scenarioflowchartpage23ndldeprecated"
   },
   {
     "name": "scenario flowchart page 3-1 ndl deprecated",
     "points": 677,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-3-1-ndl-v1.png",
+    "image": "deprecated-assets/frosthaven/charts/no-die-lines/fh-scenario-flowchart-page-3-1-ndl-v1.png",
     "xws": "scenarioflowchartpage31ndldeprecated"
   },
   {
     "name": "scenario flowchart page 3-1 ndl deprecated",
     "points": 678,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-3-1-ndl.png",
+    "image": "charts/frosthaven/no-die-lines/fh-scenario-flowchart-page-3-1-ndl.png",
     "xws": "scenarioflowchartpage31ndldeprecated"
   },
   {
     "name": "scenario flowchart page 3-3 ndl deprecated",
     "points": 679,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-3-3-ndl-v1.png",
+    "image": "deprecated-assets/frosthaven/charts/no-die-lines/fh-scenario-flowchart-page-3-3-ndl-v1.png",
     "xws": "scenarioflowchartpage33ndldeprecated"
   },
   {
     "name": "scenario flowchart page 3-3 ndl deprecated",
     "points": 680,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-3-3-ndl.png",
+    "image": "charts/frosthaven/no-die-lines/fh-scenario-flowchart-page-3-3-ndl.png",
     "xws": "scenarioflowchartpage33ndldeprecated"
   },
   {
     "name": "scenario flowchart page 5-3 ndl deprecated",
     "points": 681,
     "expansion": "Frosthaven",
-    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-5-3-ndl-v1.png",
+    "image": "deprecated-assets/frosthaven/charts/no-die-lines/fh-scenario-flowchart-page-5-3-ndl-v1.png",
     "xws": "scenarioflowchartpage53ndldeprecated"
   },
   {
     "name": "scenario flowchart page 5-3 ndl deprecated",
     "points": 682,
     "expansion": "Frosthaven",
-    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-5-3-ndl.png",
+    "image": "charts/frosthaven/no-die-lines/fh-scenario-flowchart-page-5-3-ndl.png",
     "xws": "scenarioflowchartpage53ndldeprecated"
   },
   {
