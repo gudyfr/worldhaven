@@ -4640,240 +4640,384 @@
     "image": "character-mats/frosthaven/fh-deathwalker.png",
     "xws": "deathwalkerdeprecated"
   },
+
+
+
+
+  {
+    "name": "scenario flowchart page 1-3 dl deprecated",
+    "points": 663,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-1-3-dl-v1.png",
+    "xws": "scenarioflowchartpage13dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 1-3 dl deprecated",
+    "points": 664,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-1-3-dl.png",
+    "xws": "scenarioflowchartpage13dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 2-3 dl deprecated",
+    "points": 665,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-2-3-dl-v1.png",
+    "xws": "scenarioflowchartpage23dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 2-3 dl deprecated",
+    "points": 666,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-2-3-dl.png",
+    "xws": "scenarioflowchartpage23dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 3-1 dl deprecated",
+    "points": 667,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-3-1-dl-v1.png",
+    "xws": "scenarioflowchartpage31dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 3-1 dl deprecated",
+    "points": 668,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-3-1-dl.png",
+    "xws": "scenarioflowchartpage31dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 3-3 dl deprecated",
+    "points": 669,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-3-3-dl-v1.png",
+    "xws": "scenarioflowchartpage33dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 3-3 dl deprecated",
+    "points": 670,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-3-3-dl.png",
+    "xws": "scenarioflowchartpage33dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 5-3 dl deprecated",
+    "points": 671,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-5-3-dl-v1.png",
+    "xws": "scenarioflowchartpage53dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 5-3 dl deprecated",
+    "points": 672,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-5-3-dl.png",
+    "xws": "scenarioflowchartpage53dldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 1-3 ndl deprecated",
+    "points": 673,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-1-3-ndl-v1.png",
+    "xws": "scenarioflowchartpage13ndldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 1-3 ndl deprecated",
+    "points": 674,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-1-3-ndl.png",
+    "xws": "scenarioflowchartpage13ndldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 2-3 ndl deprecated",
+    "points": 675,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-2-3-ndl-v1.png",
+    "xws": "scenarioflowchartpage23ndldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 2-3 ndl deprecated",
+    "points": 676,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-2-3-ndl.png",
+    "xws": "scenarioflowchartpage23ndldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 3-1 ndl deprecated",
+    "points": 677,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-3-1-ndl-v1.png",
+    "xws": "scenarioflowchartpage31ndldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 3-1 ndl deprecated",
+    "points": 678,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-3-1-ndl.png",
+    "xws": "scenarioflowchartpage31ndldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 3-3 ndl deprecated",
+    "points": 679,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-3-3-ndl-v1.png",
+    "xws": "scenarioflowchartpage33ndldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 3-3 ndl deprecated",
+    "points": 680,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-3-3-ndl.png",
+    "xws": "scenarioflowchartpage33ndldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 5-3 ndl deprecated",
+    "points": 681,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/charts/die-lines/fh-scenario-flowchart-page-5-3-ndl-v1.png",
+    "xws": "scenarioflowchartpage53ndldeprecated"
+  },
+  {
+    "name": "scenario flowchart page 5-3 ndl deprecated",
+    "points": 682,
+    "expansion": "Frosthaven",
+    "image": "charts/frosthaven/die-lines/fh-scenario-flowchart-page-5-3-ndl.png",
+    "xws": "scenarioflowchartpage53ndldeprecated"
+  },
   {
     "name": "fh-wre-47-b deprecated",
-    "points": 663,
+    "points": 683,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/events/road/fh-wre-47-b-v1.png",
     "xws": "fhwre47bdeprecated"
   },
   {
     "name": "fh-wre-47-b deprecated",
-    "points": 664,
+    "points": 684,
     "expansion": "Frosthaven",
     "image": "events/frosthaven/road/fh-wre-47-b.png",
     "xws": "fhwre47bdeprecated"
   },
   {
     "name": "item 49 deprecated",
-    "points": 665,
+    "points": 685,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "item 49 deprecated",
-    "points": 666,
+    "points": 686,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "item 049 deprecated",
-    "points": 667,
+    "points": 687,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "item 049 deprecated",
-    "points": 668,
+    "points": 688,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "item #49 deprecated",
-    "points": 669,
+    "points": 689,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "item #49 deprecated",
-    "points": 670,
+    "points": 690,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "item #049 deprecated",
-    "points": 671,
+    "points": 691,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "item #049 deprecated",
-    "points": 672,
+    "points": 692,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "cruel dagger deprecated",
-    "points": 673,
+    "points": 693,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/items/046-050/fh-049-cruel-dagger-v1.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "cruel dagger deprecated",
-    "points": 674,
+    "points": 694,
     "expansion": "Frosthaven",
     "image": "items/frosthaven/046-050/fh-049-cruel-dagger.png",
     "xws": "crueldaggerdeprecated"
   },
   {
     "name": "fh-ma-cd-1 deprecated",
-    "points": 675,
+    "points": 695,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/monster-ability-cards/chaos-demon/fh-ma-cd-1-v1.png",
     "xws": "fhmacd1deprecated"
   },
   {
     "name": "fh-ma-cd-1 deprecated",
-    "points": 676,
+    "points": 696,
     "expansion": "Frosthaven",
     "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-1.png",
     "xws": "fhmacd1deprecated"
   },
   {
     "name": "chilling breath deprecated",
-    "points": 677,
+    "points": 697,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/monster-ability-cards/chaos-demon/fh-ma-cd-1-v1.png",
     "xws": "fhmacd1deprecated"
   },
   {
     "name": "chilling breath deprecated",
-    "points": 678,
+    "points": 698,
     "expansion": "Frosthaven",
     "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-1.png",
     "xws": "fhmacd1deprecated"
   },
   {
     "name": "fh-ma-si-6 deprecated",
-    "points": 679,
+    "points": 699,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/monster-ability-cards/savvas-icestorm/fh-ma-si-6-v1.png",
     "xws": "fhmasi6deprecated"
   },
   {
     "name": "fh-ma-si-6 deprecated",
-    "points": 680,
+    "points": 700,
     "expansion": "Frosthaven",
     "image": "monster-ability-cards/frosthaven/savvas-icestorm/fh-ma-si-6.png",
     "xws": "fhmasi6deprecated"
   },
   {
     "name": "frozen shell deprecated",
-    "points": 681,
+    "points": 701,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/monster-ability-cards/savvas-icestorm/fh-ma-si-6-v1.png",
     "xws": "fhmasi6deprecated"
   },
   {
     "name": "frozen shell deprecated",
-    "points": 682,
+    "points": 702,
     "expansion": "Frosthaven",
     "image": "monster-ability-cards/frosthaven/savvas-icestorm/fh-ma-si-6.png",
     "xws": "fhmasi6deprecated"
   },
   {
     "name": "render 0 deprecated",
-    "points": 683,
+    "points": 703,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/monster-stat-cards/fh-render-0-v1.png",
     "xws": "render0deprecated"
   },
   {
     "name": "render 0 deprecated",
-    "points": 684,
+    "points": 704,
     "expansion": "Frosthaven",
     "image": "monster-stat-cards/frosthaven/fh-render-0.png",
     "xws": "render0deprecated"
   },
   {
     "name": "render 2 deprecated",
-    "points": 685,
+    "points": 705,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/monster-stat-cards/fh-render-2-v1.png",
     "xws": "render2deprecated"
   },
   {
     "name": "render 2 deprecated",
-    "points": 686,
+    "points": 706,
     "expansion": "Frosthaven",
     "image": "monster-stat-cards/frosthaven/fh-render-2.png",
     "xws": "render2deprecated"
   },
   {
     "name": "render 4 deprecated",
-    "points": 687,
+    "points": 707,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/monster-stat-cards/fh-render-4-v1.png",
     "xws": "render4deprecated"
   },
   {
     "name": "render 4 deprecated",
-    "points": 688,
+    "points": 708,
     "expansion": "Frosthaven",
     "image": "monster-stat-cards/frosthaven/fh-render-4.png",
     "xws": "render4deprecated"
   },
   {
     "name": "render 6 deprecated",
-    "points": 689,
+    "points": 709,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/monster-stat-cards/fh-render-6-v1.png",
     "xws": "render6deprecated"
   },
   {
     "name": "render 6 deprecated",
-    "points": 690,
+    "points": 710,
     "expansion": "Frosthaven",
     "image": "monster-stat-cards/frosthaven/fh-render-6.png",
     "xws": "render6deprecated"
   },
   {
     "name": "wind demon 0 deprecated",
-    "points": 691,
+    "points": 711,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/monster-stat-cards/fh-wind-demon-0-v1.png",
     "xws": "winddemon0deprecated"
   },
   {
     "name": "wind demon 0 deprecated",
-    "points": 692,
+    "points": 712,
     "expansion": "Frosthaven",
     "image": "monster-stat-cards/frosthaven/fh-wind-demon-0.png",
     "xws": "winddemon0deprecated"
   },
   {
     "name": "fh-pq-19 deprecated",
-    "points": 693,
+    "points": 713,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/personal-quests/fh-pq-19-v1.png",
     "xws": "fhpq19deprecated"
   },
   {
     "name": "fh-pq-19 deprecated",
-    "points": 694,
+    "points": 714,
     "expansion": "Frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-19.png",
     "xws": "fhpq19deprecated"
   },
   {
     "name": "quiet the dead places deprecated",
-    "points": 695,
+    "points": 715,
     "expansion": "Frosthaven",
     "image": "deprecated-assets/frosthaven/personal-quests/fh-pq-19-v1.png",
     "xws": "fhpq19deprecated"
   },
   {
     "name": "quiet the dead places deprecated",
-    "points": 696,
+    "points": 716,
     "expansion": "Frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-19.png",
     "xws": "fhpq19deprecated"
