@@ -5045,5 +5045,189 @@
     "expansion": "Frosthaven",
     "image": "personal-quests/frosthaven/fh-pq-19.png",
     "xws": "fhpq19deprecated"
+  },
+
+
+  {
+    "name": "trial of censorship deprecated",
+    "points": 721,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-censorship-v1.png",
+    "xws": "trialofcensorshipdeprecated"
+  },
+  {
+    "name": "trial of censorship deprecated",
+    "points": 722,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-censorship.png",
+    "xws": "trialofcensorshipdeprecated"
+  },
+  {
+    "name": "trial of deceit deprecated",
+    "points": 723,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-deceit-v1.png",
+    "xws": "trialofdeceitdeprecated"
+  },
+  {
+    "name": "trial of deceit deprecated",
+    "points": 724,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-deceit.png",
+    "xws": "trialofdeceitdeprecated"
+  },
+  {
+    "name": "trial of expression deprecated",
+    "points": 725,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-expression-v1.png",
+    "xws": "trialofexpressiondeprecated"
+  },
+  {
+    "name": "trial of expression deprecated",
+    "points": 726,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-expression.png",
+    "xws": "trialofexpressiondeprecated"
+  },
+  {
+    "name": "trial of inquisition deprecated",
+    "points": 727,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-inquisition-v1.png",
+    "xws": "trialofinquisitiondeprecated"
+  },
+  {
+    "name": "trial of inquisition deprecated",
+    "points": 728,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-inquisition.png",
+    "xws": "trialofinquisitiondeprecated"
+  },
+  {
+    "name": "trial of manipulation deprecated",
+    "points": 729,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-manipulation-v1.png",
+    "xws": "trialofmanipulationdeprecated"
+  },
+  {
+    "name": "trial of manipulation deprecated",
+    "points": 730,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-manipulation.png",
+    "xws": "trialofmanipulationdeprecated"
+  },
+  {
+    "name": "trial of order deprecated",
+    "points": 731,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-order-v1.png",
+    "xws": "trialoforderdeprecated"
+  },
+  {
+    "name": "trial of order deprecated",
+    "points": 732,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-order.png",
+    "xws": "trialoforderdeprecated"
+  },
+  {
+    "name": "trial of patience deprecated",
+    "points": 733,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-patience-v1.png",
+    "xws": "trialofpatiencedeprecated"
+  },
+  {
+    "name": "trial of patience deprecated",
+    "points": 734,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-patience.png",
+    "xws": "trialofpatiencedeprecated"
+  },
+  {
+    "name": "trial of poverty deprecated",
+    "points": 735,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-poverty-v1.png",
+    "xws": "trialofpovertydeprecated"
+  },
+  {
+    "name": "trial of poverty deprecated",
+    "points": 736,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-poverty.png",
+    "xws": "trialofpovertydeprecated"
+  },
+  {
+    "name": "trial of prediction deprecated",
+    "points": 737,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-prediction-v1.png",
+    "xws": "trialofpredictiondeprecated"
+  },
+  {
+    "name": "trial of prediction deprecated",
+    "points": 738,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-prediction.png",
+    "xws": "trialofpredictiondeprecated"
+  },
+  {
+    "name": "trial of strategy deprecated",
+    "points": 739,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-strategy-v1.png",
+    "xws": "trialofstrategydeprecated"
+  },
+  {
+    "name": "trial of strategy deprecated",
+    "points": 740,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-strategy.png",
+    "xws": "trialofstrategydeprecated"
+  },
+  {
+    "name": "trial of trials deprecated",
+    "points": 741,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-trials-v1.png",
+    "xws": "trialoftrialsdeprecated"
+  },
+  {
+    "name": "trial of trials deprecated",
+    "points": 742,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-trials.png",
+    "xws": "trialoftrialsdeprecated"
+  },
+  {
+    "name": "trial of victory deprecated",
+    "points": 743,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-victory-v1.png",
+    "xws": "trialofvictorydeprecated"
+  },
+  {
+    "name": "trial of victory deprecated",
+    "points": 744,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-victory.png",
+    "xws": "trialofvictorydeprecated"
+  },
+  {
+    "name": "trial of weakness deprecated",
+    "points": 745,
+    "expansion": "Frosthaven",
+    "image": "deprecated-assets/frosthaven/trial-cards/fh-trial-of-weakness-v1.png",
+    "xws": "trialofweaknessdeprecated"
+  },
+  {
+    "name": "trial of weakness deprecated",
+    "points": 746,
+    "expansion": "Frosthaven",
+    "image": "trial-cards/frosthaven/fh-trial-of-weakness.png",
+    "xws": "trialofweaknessdeprecated"
   }
 ]
