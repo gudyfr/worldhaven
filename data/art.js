@@ -20405,11 +20405,11 @@
     "xws": "piratequeenshauls"
   },
   {
-    "name": "brummix tracks",
+    "name": "brummix",
     "points": 2915,
     "expansion": "Frosthaven",
-    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-brummix-tracks.png",
-    "xws": "brummixtracks"
+    "image": "art/frosthaven/stickers/individual/campaign-stickers/fh-brummix.png",
+    "xws": "brummix"
   },
   {
     "name": "bug in jar",
